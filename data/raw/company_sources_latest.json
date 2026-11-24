@@ -97,9 +97,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-23T15:15:05+00:00",
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-23T15:15:05+00:00"
+      "lastFailureAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "10x-genomics",
@@ -150,9 +150,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-23T15:15:05+00:00",
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-23T15:15:05+00:00"
+      "lastFailureAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "akeso",
@@ -517,9 +517,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-23T15:15:05+00:00",
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-11-23T15:15:05+00:00"
+      "lastFailureAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "arcellx",
@@ -574,9 +574,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-23T15:15:05+00:00",
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-11-23T15:15:05+00:00"
+      "lastFailureAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "arvinas",
@@ -795,9 +795,9 @@
       "firstObservedAt": "2026-08-15T04:59:27+00:00",
       "lastChangedAt": "2026-09-23T09:29:32+00:00",
       "capturedAt": "2026-09-23T09:29:32+00:00",
-      "lastCheckedAt": "2026-11-23T15:15:05+00:00",
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-23T15:15:05+00:00"
+      "lastFailureAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "autolus",
@@ -3476,7 +3476,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11609197",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -3494,7 +3494,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-accuhealth-technologies",
@@ -3680,7 +3680,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11409740",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -3698,7 +3698,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-acotec",
@@ -4678,7 +4678,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11323824",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -4696,7 +4696,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-agentix",
@@ -4874,7 +4874,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11408886",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -4892,7 +4892,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-aibotics",
@@ -5587,7 +5587,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11321353",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -5605,7 +5605,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-allarity-therapeutics",
@@ -6195,7 +6195,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -6223,7 +6223,7 @@
       "firstObservedAt": "2026-11-02T12:49:08+00:00",
       "lastChangedAt": "2026-11-02T12:49:08+00:00",
       "capturedAt": "2026-11-02T12:49:08+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-america-great-health",
@@ -6312,7 +6312,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11316421",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -6330,7 +6330,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-amneal-pharmaceuticals",
@@ -8176,7 +8176,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11410177",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -8194,7 +8194,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-assembly-biosciences",
@@ -8605,7 +8605,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11406639",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -8623,7 +8623,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-attovia-therapeutics",
@@ -8975,7 +8975,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001355736",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -9003,7 +9003,7 @@
       "firstObservedAt": "2026-08-18T05:04:41+00:00",
       "lastChangedAt": "2026-08-18T05:04:41+00:00",
       "capturedAt": "2026-08-18T05:04:41+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-axim-biotechnologies",
@@ -9320,7 +9320,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0002044950",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -9348,7 +9348,7 @@
       "firstObservedAt": "2026-11-02T12:49:08+00:00",
       "lastChangedAt": "2026-11-02T12:49:08+00:00",
       "capturedAt": "2026-11-02T12:49:08+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-bao-pharma",
@@ -10618,7 +10618,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0002108359",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -10641,12 +10641,12 @@
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
       "visibleTextChars": 2482,
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-11-17T13:46:30+00:00",
       "lastChangedAt": "2026-11-17T13:46:30+00:00",
       "capturedAt": "2026-11-17T13:46:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-biolinerx",
@@ -10998,7 +10998,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11621286",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -11016,7 +11016,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-biosensing-instrument",
@@ -11159,7 +11159,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11403648",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -11177,7 +11177,7 @@
       "firstObservedAt": "2026-08-17T05:18:16+00:00",
       "lastChangedAt": "2026-08-17T05:18:16+00:00",
       "capturedAt": "2026-08-17T05:18:16+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-biovie",
@@ -11297,6 +11297,45 @@
       "lastCheckedAt": "2026-11-19T13:49:16+00:00"
     },
     {
+      "companyId": "candidate-birchbiomed",
+      "companyName": "BirchBioMed Inc.",
+      "sourceRole": "official",
+      "sourceType": "Company",
+      "requestedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747",
+      "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747",
+      "contentType": "text/html",
+      "refreshIntervalDays": 7,
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
+      "title": "EDGAR Entity Landing Page",
+      "description": "",
+      "headings": [
+        "EDGAR | Company Search Results"
+      ],
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": [],
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
+      "visibleTextChars": 2482,
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "firstObservedAt": "2026-11-24T15:11:56+00:00",
+      "lastChangedAt": "2026-11-24T15:11:56+00:00",
+      "capturedAt": "2026-11-24T15:11:56+00:00",
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
+    },
+    {
       "companyId": "candidate-black-diamond-therapeutics",
       "companyName": "Black Diamond Therapeutics, Inc.",
       "sourceRole": "official",
@@ -11412,7 +11451,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11457446",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -11430,7 +11469,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-blossomhill-therapeutics",
@@ -11480,7 +11519,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11311188",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -11498,7 +11537,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-bolt-biotherapeutics",
@@ -12457,7 +12496,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11404985",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -12475,7 +12514,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-camp4-therapeutics",
@@ -12763,7 +12802,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11409312",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -12781,7 +12820,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-capienda-biotech",
@@ -12792,7 +12831,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11254697",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -12810,7 +12849,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-capricor-therapeutics",
@@ -13733,7 +13772,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/10646176",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -13751,7 +13790,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-cervomed",
@@ -14958,7 +14997,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11406172",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -14976,7 +15015,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-corami-biotech",
@@ -16738,7 +16777,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11407657",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -16756,7 +16795,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-endios-bio",
@@ -16767,7 +16806,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11408359",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -16785,7 +16824,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-energybiocode",
@@ -16893,7 +16932,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11405809",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -16911,7 +16950,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-entera-bio",
@@ -16961,7 +17000,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11409867",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -16979,7 +17018,7 @@
       "firstObservedAt": "2026-10-24T09:03:53+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-estrella-immunopharma",
@@ -17165,7 +17204,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11419053",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -17183,7 +17222,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-exozymes",
@@ -17489,7 +17528,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11407690",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -17507,7 +17546,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-fitlife-brands",
@@ -17557,7 +17596,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11314303",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -17575,7 +17614,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-foragr-medicines",
@@ -17586,7 +17625,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11315143",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -17604,7 +17643,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-function-therapeutics",
@@ -17615,7 +17654,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11415152",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -17633,7 +17672,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-functional-brands",
@@ -17683,7 +17722,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11190585",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -17701,7 +17740,7 @@
       "firstObservedAt": "2026-09-14T10:05:30+00:00",
       "lastChangedAt": "2026-09-14T10:05:30+00:00",
       "capturedAt": "2026-09-14T10:05:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-gamma-biotherapeutics",
@@ -18299,7 +18338,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11313383",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -18317,7 +18356,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-halcyon-biomedical",
@@ -19245,7 +19284,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11312149",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -19263,7 +19302,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-immatics-n-v",
@@ -20628,7 +20667,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11407564",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -20646,7 +20685,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-jushi-holdings",
@@ -20879,7 +20918,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11525063",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -20897,7 +20936,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-kintor-pharma",
@@ -21234,7 +21273,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11409672",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -21252,7 +21291,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-laekna",
@@ -21825,7 +21864,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11408408",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -21843,7 +21882,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-longbio",
@@ -22152,7 +22191,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11411298",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -22170,7 +22209,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-mannatech",
@@ -22259,7 +22298,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11444174",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -22277,7 +22316,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-maze-therapeutics",
@@ -22951,7 +22990,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11409366",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -22969,7 +23008,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-molecular-intelligence",
@@ -23174,7 +23213,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11407120",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -23192,7 +23231,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-mosaic-immunoengineering",
@@ -23314,7 +23353,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11387631",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -23332,7 +23371,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-myriad-genetics",
@@ -23461,7 +23500,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11409164",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -23479,7 +23518,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-neogen",
@@ -23880,7 +23919,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11409249",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -23898,7 +23937,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-nusirt-sciences",
@@ -24411,7 +24450,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11313570",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -24429,7 +24468,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-opthea",
@@ -24479,7 +24518,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11405186",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -24497,7 +24536,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-ora-biomedical",
@@ -24508,7 +24547,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11409024",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -24526,7 +24565,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-oralbiolife",
@@ -24799,7 +24838,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11314230",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -24817,7 +24856,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-paralos-bioscience",
@@ -26484,7 +26523,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11407457",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -26502,7 +26541,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-respirerx-pharmaceuticals",
@@ -26682,7 +26721,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11310680",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -26700,7 +26739,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-romix-biosciences",
@@ -26829,7 +26868,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11255658",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -26847,7 +26886,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-sangamo-therapeutics",
@@ -27329,7 +27368,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11312165",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -27347,7 +27386,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-serinus-biosciences",
@@ -27358,7 +27397,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11405775",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -27376,7 +27415,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-shanghai-juncell-therapeutics",
@@ -27612,7 +27651,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11406803",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -27630,7 +27669,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-sinomab-bio",
@@ -27746,6 +27785,49 @@
       "lastChangedAt": "2026-09-14T10:05:30+00:00",
       "capturedAt": "2026-09-14T10:05:30+00:00",
       "lastCheckedAt": "2026-09-21T10:10:30+00:00"
+    },
+    {
+      "companyId": "candidate-sinotaupharma",
+      "companyName": "Sinotaupharma",
+      "sourceRole": "official",
+      "sourceType": "Company",
+      "requestedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+      "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+      "contentType": "text/html",
+      "refreshIntervalDays": 7,
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
+      "title": "[Company Name + Stock Code] - stock price, quote, history",
+      "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "headings": [
+        "[Company Name + Stock Code] - stock price, quote, history"
+      ],
+      "excerpts": [
+        "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
+        "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "News Centre Snapshot about HKEX latest news and information",
+        "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics"
+      ],
+      "businessExcerpts": [
+        "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "News Centre Snapshot about HKEX latest news and information",
+        "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "[Company Name + Stock Code] - stock price, quote, history"
+      ],
+      "productExcerpts": [
+        "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "Platform Services Corporate Action Messaging Standardisation",
+        "Education Centre A centralised education platform, including e-Learning."
+      ],
+      "planExcerpts": [],
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
+      "visibleTextHash": "4ed6693a9f6bd4c5552e231cfc84f4a093580dab9894598fef57138903c1e683",
+      "visibleTextChars": 8262,
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "firstObservedAt": "2026-11-24T15:11:56+00:00",
+      "lastChangedAt": "2026-11-24T15:11:56+00:00",
+      "capturedAt": "2026-11-24T15:11:56+00:00",
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-sirnaomics",
@@ -27988,7 +28070,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11402931",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -28006,7 +28088,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-spirify-pharma",
@@ -28075,7 +28157,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11316026",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -28093,7 +28175,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-stemsynergy-therapeutics",
@@ -28380,7 +28462,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0002140859",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -28408,7 +28490,7 @@
       "firstObservedAt": "2026-11-02T12:49:08+00:00",
       "lastChangedAt": "2026-11-02T12:49:08+00:00",
       "capturedAt": "2026-11-02T12:49:08+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-tango-biosciences",
@@ -29244,7 +29326,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11408032",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -29262,7 +29344,7 @@
       "firstObservedAt": "2026-09-28T11:11:19+00:00",
       "lastChangedAt": "2026-09-28T11:11:19+00:00",
       "capturedAt": "2026-09-28T11:11:19+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-trex-bio",
@@ -29554,7 +29636,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11204793",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -29572,7 +29654,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-usana-health-sciences",
@@ -29940,6 +30022,45 @@
       "lastCheckedAt": "2026-08-31T11:06:06+00:00"
     },
     {
+      "companyId": "candidate-vesicor-therapeutics-holdings",
+      "companyName": "Vesicor Therapeutics Holdings, Inc.",
+      "sourceRole": "official",
+      "sourceType": "Company",
+      "requestedUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775",
+      "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775",
+      "contentType": "text/html",
+      "refreshIntervalDays": 7,
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
+      "title": "EDGAR Entity Landing Page",
+      "description": "",
+      "headings": [
+        "EDGAR | Company Search Results"
+      ],
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": [],
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
+      "visibleTextChars": 2482,
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "firstObservedAt": "2026-11-24T15:11:56+00:00",
+      "lastChangedAt": "2026-11-24T15:11:56+00:00",
+      "capturedAt": "2026-11-24T15:11:56+00:00",
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
+    },
+    {
       "companyId": "candidate-via-therapeutics",
       "companyName": "Via Therapeutics, LLC",
       "sourceRole": "official",
@@ -30156,7 +30277,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11408936",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-24T13:46:30+00:00",
+      "nextCheckAt": "2026-12-01T15:11:56+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -30174,7 +30295,7 @@
       "firstObservedAt": "2026-09-21T10:10:30+00:00",
       "lastChangedAt": "2026-09-21T10:10:30+00:00",
       "capturedAt": "2026-09-21T10:10:30+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00"
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "candidate-visen-pharma",
@@ -33643,9 +33764,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-12T12:22:30+00:00",
       "capturedAt": "2026-10-12T12:22:30+00:00",
-      "lastCheckedAt": "2026-11-23T15:15:05+00:00",
+      "lastCheckedAt": "2026-11-24T15:11:56+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-11-23T15:15:05+00:00"
+      "lastFailureAt": "2026-11-24T15:11:56+00:00"
     },
     {
       "companyId": "xtalpi",

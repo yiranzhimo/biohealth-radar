@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-11-24",
   "summary": {
     "profileCount": 624,
-    "evidenceCount": 1055,
+    "evidenceCount": 1058,
     "programCandidateCount": 0,
     "companyCandidateCount": 595,
     "companyMentionCount": 664,
@@ -37,9 +37,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 624,
-    "companyReportedCount": 621,
-    "withEvidenceCount": 621,
-    "withProductClaimsCount": 514,
+    "companyReportedCount": 624,
+    "withEvidenceCount": 624,
+    "withProductClaimsCount": 517,
     "withFuturePlansCount": 3,
     "failedSourceCount": 43,
     "identityLinkCount": 0
@@ -25176,7 +25176,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-birchbiomed",
       "name": "BirchBioMed Inc.",
       "asOfDate": "2026-11-24",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "BRBM",
@@ -25207,40 +25207,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-birchbiomed-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-birchbiomed-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-birchbiomed-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-birchbiomed-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-birchbiomed-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-birchbiomed-official-c644ef580088",
+            "date": "2026-11-24",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-birchbiomed-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-24",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-birchbiomed-official-c644ef580088",
+          "date": "2026-11-24",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-birchbiomed-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747"
+        }
+      ]
     },
     {
       "companyId": "candidate-black-diamond-therapeutics",
@@ -67865,7 +67922,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-sinotaupharma",
       "name": "Sinotaupharma",
       "asOfDate": "2026-11-24",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "09941",
@@ -67902,40 +67959,113 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "港交所当前 B/SB biotech 标记证券，HKEX Chapter 18A biotech marker；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
+        "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+            "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+            "evidenceId": "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
+            "text": "Platform Services Corporate Action Messaging Standardisation",
+            "evidenceId": "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
+            "text": "Education Centre A centralised education platform, including e-Learning.",
+            "evidenceId": "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
+            "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
+            "evidenceId": "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
+            "text": "News Centre Snapshot about HKEX latest news and information",
+            "evidenceId": "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
+            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
+            "evidenceId": "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+            "date": "2026-11-24",
+            "title": "[Company Name + Stock Code] - stock price, quote, history",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录港交所当前 B/SB biotech 标记证券链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-24",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录港交所当前 B/SB biotech 标记证券链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+          "date": "2026-11-24",
+          "title": "[Company Name + Stock Code] - stock price, quote, history",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+          "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en"
+        }
+      ]
     },
     {
       "companyId": "candidate-sirnaomics",
@@ -73281,7 +73411,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-vesicor-therapeutics-holdings",
       "name": "Vesicor Therapeutics Holdings, Inc.",
       "asOfDate": "2026-11-24",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "BKHA",
@@ -73312,40 +73442,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088",
+            "date": "2026-11-24",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-24",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088",
+          "date": "2026-11-24",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775"
+        }
+      ]
     },
     {
       "companyId": "candidate-vigonvita",

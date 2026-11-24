@@ -19537,7 +19537,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -20464,6 +20464,62 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "changeType": "unchanged",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-birchbiomed-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-birchbiomed"
+      ],
+      "publishedAt": "2026-11-24",
+      "snapshotDate": "2026-11-24",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "BirchBioMed Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -44343,6 +44399,66 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-sinotaupharma-official-0dd2a5ec14f1",
+      "signalId": null,
+      "companyIds": [
+        "candidate-sinotaupharma"
+      ],
+      "publishedAt": "2026-11-24",
+      "snapshotDate": "2026-11-24",
+      "title": "[Company Name + Stock Code] - stock price, quote, history",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Sinotaupharma — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
+      "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
+      "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+      "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-11T05:38:11+00:00",
+        "sourceTextHash": "80c32ed167a77cc332f0d07792c6294a2f90767f0992aeab7cc8351537d81ef9"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
+        "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "News Centre Snapshot about HKEX latest news and information",
+        "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics"
+      ],
+      "businessExcerpts": [
+        "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "News Centre Snapshot about HKEX latest news and information",
+        "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
+        "[Company Name + Stock Code] - stock price, quote, history"
+      ],
+      "productExcerpts": [
+        "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "Platform Services Corporate Action Messaging Standardisation",
+        "Education Centre A centralised education platform, including e-Learning."
+      ],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-sirnaomics-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
@@ -47535,6 +47651,62 @@
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-vesicor-therapeutics-holdings-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-vesicor-therapeutics-holdings"
+      ],
+      "publishedAt": "2026-11-24",
+      "snapshotDate": "2026-11-24",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Vesicor Therapeutics Holdings, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
       "productExcerpts": [],
       "planExcerpts": []
     },
