@@ -17574,14 +17574,17 @@
             "claimType": "Report"
           }
         ],
-        "programCandidateIds": [],
+        "programCandidateIds": [
+          "program-candidate-autolus-auto2"
+        ],
         "evidenceIds": [
           "evidence-sec-0001730463-000173046326000148",
           "evidence-sec-0001730463-000173046326000141",
           "evidence-company-autolus-official-ec0a477825f5",
           "evidence-sec-0001730463-000119312526398045",
           "evidence-sec-0001730463-000173046326000123",
-          "evidence-sec-0001730463-000173046326000119"
+          "evidence-sec-0001730463-000173046326000119",
+          "evidence-clinicaltrials-NCT03287804"
         ]
       },
       "futureDirection": {
@@ -17645,21 +17648,20 @@
         ],
         "inferences": [],
         "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
           "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 7,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 5
+          "Filing": 5,
+          "Registry": 1
         },
         "lastEvidenceDate": "2026-11-10",
-        "programCandidateCount": 0,
+        "programCandidateCount": 1,
         "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
           "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
@@ -17730,6 +17732,17 @@
           "needsReview": true,
           "evidenceId": "evidence-sec-0001730463-000173046326000119",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000119/autl-20260811.htm"
+        },
+        {
+          "id": "event-clinicaltrials-NCT03287804",
+          "date": "2020-10-23",
+          "title": "APRIL CAR T Cells (AUTO2) Targeting BCMA and TACI for the Treatment of Multiple Myeloma",
+          "eventType": "Clinical Trial Results",
+          "sourceType": "Registry",
+          "evidenceLevel": "High",
+          "needsReview": true,
+          "evidenceId": "evidence-clinicaltrials-NCT03287804",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03287804"
         }
       ]
     },
@@ -19808,8 +19821,7 @@
           "evidence-sec-0001745999-000119312526444454",
           "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
           "evidence-company-beam-therapeutics-official-daa041bcc1cd",
-          "evidence-sec-0001745999-000119312526331541",
-          "evidence-sec-0001745999-000119312526331522"
+          "evidence-sec-0001745999-000119312526331541"
         ]
       },
       "futureDirection": {
@@ -19895,10 +19907,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 7,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 4
+          "Filing": 3
         },
         "lastEvidenceDate": "2026-11-19",
         "programCandidateCount": 0,
@@ -19973,17 +19985,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001745999-000119312526331541",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm"
-        },
-        {
-          "id": "event-sec-0001745999-000119312526331522",
-          "date": "2026-08-04",
-          "title": "Beam Therapeutics filed Form 8-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001745999-000119312526331522",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm"
         }
       ]
     },
@@ -39341,7 +39342,6 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-pubmed-43072640",
           "evidence-company-emulate-pipeline-379202c5c9b2",
           "evidence-company-emulate-official-f5f5bde8e819"
         ]
@@ -39349,17 +39349,6 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
-          {
-            "id": "event-pubmed-43072640",
-            "date": "2026-11-23",
-            "title": "A modular patient-derived organoid-xenograft platform reveals molecular and clinical trajectories of prostate cancer progression.",
-            "eventType": "Review",
-            "sourceType": "Paper",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-pubmed-43072640",
-            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43072640/"
-          },
           {
             "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
             "date": "2026-10-29",
@@ -39390,12 +39379,11 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 3,
+        "evidenceCount": 2,
         "evidenceBySourceType": {
-          "Company": 2,
-          "Paper": 1
+          "Company": 2
         },
-        "lastEvidenceDate": "2026-11-23",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -39403,17 +39391,6 @@
         ]
       },
       "recentEvents": [
-        {
-          "id": "event-pubmed-43072640",
-          "date": "2026-11-23",
-          "title": "A modular patient-derived organoid-xenograft platform reveals molecular and clinical trajectories of prostate cancer progression.",
-          "eventType": "Review",
-          "sourceType": "Paper",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-pubmed-43072640",
-          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43072640/"
-        },
         {
           "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
           "date": "2026-10-29",
@@ -41965,6 +41942,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-11-24",
+            "title": "Genmab filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000162/gmab_20261124x6k.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-11-18",
             "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000160/gmab_20261118x6k.htm",
@@ -42016,14 +42001,6 @@
             "date": "2026-11-05",
             "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/gmab_202601105x6k.htm",
-            "source": "SEC EDGAR"
-          },
-          {
-            "form": "6-K",
-            "label": "半年报/临时报告",
-            "date": "2026-10-28",
-            "title": "Genmab filed Form 6-K",
-            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000140/gmab_20261028x6k.htm",
             "source": "SEC EDGAR"
           }
         ],
@@ -42092,6 +42069,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001434265-000143426526000162",
           "evidence-company-genmab-investor_relations-2f17581be3b5",
           "evidence-sec-0001434265-000143426526000160",
           "evidence-sec-0001434265-000143426526000157",
@@ -42120,6 +42098,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001434265-000143426526000162",
+            "date": "2026-11-24",
+            "title": "Genmab filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001434265-000143426526000162",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000162/gmab_20261124x6k.htm"
+          },
           {
             "id": "event-evidence-company-genmab-investor_relations-2f17581be3b5",
             "date": "2026-11-19",
@@ -42163,17 +42152,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001434265-000143426526000155",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000155/gmab_20261112x6kx3.htm"
-          },
-          {
-            "id": "event-sec-0001434265-000143426526000154",
-            "date": "2026-11-12",
-            "title": "Genmab filed Form 6-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-sec-0001434265-000143426526000154",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000154/gmab_20261112x6kx2.htm"
           }
         ],
         "inferences": [],
@@ -42183,12 +42161,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 23,
+        "evidenceCount": 24,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 21
+          "Filing": 22
         },
-        "lastEvidenceDate": "2026-11-19",
+        "lastEvidenceDate": "2026-11-24",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -42196,6 +42174,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001434265-000143426526000162",
+          "date": "2026-11-24",
+          "title": "Genmab filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001434265-000143426526000162",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000162/gmab_20261124x6k.htm"
+        },
         {
           "id": "event-evidence-company-genmab-investor_relations-2f17581be3b5",
           "date": "2026-11-19",
@@ -42272,17 +42261,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001434265-000143426526000148",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000148/gmab_20261110x6k.htm"
-        },
-        {
-          "id": "event-sec-0001434265-000143426526000146",
-          "date": "2026-11-05",
-          "title": "Genmab filed Form 6-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001434265-000143426526000146",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/gmab_202601105x6k.htm"
         }
       ]
     },

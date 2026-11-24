@@ -2,5 +2,30 @@
   "schemaVersion": "1.0",
   "kind": "program_candidates",
   "asOfDate": "2026-11-24",
-  "programs": []
+  "programs": [
+    {
+      "id": "program-candidate-autolus-auto2",
+      "companyId": "autolus",
+      "name": "AUTO2",
+      "verificationStatus": "candidate",
+      "relationship": "trial_intervention",
+      "ownershipVerified": false,
+      "trialIds": [
+        "NCT03287804"
+      ],
+      "indications": [
+        "Multiple Myeloma"
+      ],
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "trialStatuses": [
+        "TERMINATED"
+      ],
+      "evidenceUrls": [
+        "https://clinicaltrials.gov/study/NCT03287804"
+      ]
+    }
+  ]
 }

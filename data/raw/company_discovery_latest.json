@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-11-24T13:46:14+00:00",
+  "capturedAt": "2026-11-24T22:31:44.387746+00:00",
   "summary": {
     "mentionCount": 664,
-    "candidateCount": 595,
+    "candidateCount": 594,
     "corroboratedCount": 3,
     "identifiedCount": 589,
-    "needsReviewCount": 3,
-    "knownCompanyMentionCount": 15,
+    "needsReviewCount": 2,
+    "knownCompanyMentionCount": 16,
     "mentionsBySource": {
       "CSI": 100,
       "ClinicalTrials": 3,
@@ -20,80 +20,76 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-7150385caa54bb5a",
-      "observedName": "Anumana, Inc.",
-      "normalizedName": "anumana",
+      "id": "mention-clinicaltrials-38917de45eafd4aa",
+      "observedName": "Sarepta Therapeutics, Inc.",
+      "normalizedName": "sarepta therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05867407",
-      "sourceDate": "2025-09-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05867407",
+      "sourceRecordId": "NCT05096221",
+      "sourceDate": "2025-07-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05096221",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "A Multicenter Pragmatic Implementation Study of ECG-AI-Based Clinical Decision Support Software to Identify Low LVEF"
-    },
-    {
-      "id": "mention-clinicaltrials-a66b047cd01a8da1",
-      "observedName": "Kyowa Kirin Co., Ltd.",
-      "normalizedName": "kyowa kirin",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07132567",
-      "sourceDate": "2026-11-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07132567",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Recruiting",
         "临床试验"
       ],
       "activitySignals": [
-        "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Assessment of Safety and Efficacy of Poteligeo Inj. 20 mg (Mogamulizumab) Through Use-result Surveillance"
+      "contextTitle": "A Gene Transfer Therapy Study to Evaluate the Safety and Efficacy of Delandistrogene Moxeparvovec (SRP-9001) in Participants With Duchenne Muscular Dystrophy (DMD)"
     },
     {
-      "id": "mention-clinicaltrials-b560be217aeee2dc",
-      "observedName": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",
-      "normalizedName": "chia tai tianqing pharmaceutical group nanjing shunxin pharmaceutical",
+      "id": "mention-clinicaltrials-61ebd44789443fc1",
+      "observedName": "Autolus Limited",
+      "normalizedName": "autolus",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06798207",
-      "sourceDate": "2025-07-18",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06798207",
+      "sourceRecordId": "NCT03287804",
+      "sourceDate": "2020-10-23",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03287804",
+      "knownCompanyIds": [
+        "autolus"
+      ],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "APRIL CAR T Cells (AUTO2) Targeting BCMA and TACI for the Treatment of Multiple Myeloma"
+    },
+    {
+      "id": "mention-clinicaltrials-a5a71c20fff4f7ea",
+      "observedName": "Roche Farma, S.A",
+      "normalizedName": "roche farma s a",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03801304",
+      "sourceDate": "2026-06-30",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03801304",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "Recruiting",
-        "中国",
         "临床试验",
+        "乳腺癌",
         "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Clinical Trial of TQB2102 for Injection in Gynecological Tumors With Recurrent/Metastatic Advanced"
+      "contextTitle": "Trial to Evaluate Safety and Efficacy of Vinorelbine With Metronomic Administration in Combination With Atezolizumab as Second-line Treatment for Patients With Stage IV Non-small Cell Lung Cancer"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44083,142 +44079,26 @@
       ]
     },
     {
-      "id": "candidate-anumana",
-      "name": "Anumana, Inc.",
+      "id": "candidate-sarepta-therapeutics",
+      "name": "Sarepta Therapeutics, Inc.",
       "aliases": [
-        "Anumana, Inc."
+        "Sarepta Therapeutics, Inc."
       ],
-      "normalizedName": "anumana",
+      "normalizedName": "sarepta therapeutics",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-09-04",
-      "lastSeenAt": "2025-09-04",
+      "firstSeenAt": "2025-07-08",
+      "lastSeenAt": "2025-07-08",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-7150385caa54bb5a"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-09-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05867407",
-          "externalId": "NCT05867407",
-          "contextTitle": "A Multicenter Pragmatic Implementation Study of ECG-AI-Based Clinical Decision Support Software to Identify Low LVEF"
-        }
-      ]
-    },
-    {
-      "id": "candidate-chia-tai-tianqing-pharmaceutical-group-nanjing-shunxin-pharmaceutical",
-      "name": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",
-      "aliases": [
-        "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd."
-      ],
-      "normalizedName": "chia tai tianqing pharmaceutical group nanjing shunxin pharmaceutical",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-07-18",
-      "lastSeenAt": "2025-07-18",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-b560be217aeee2dc"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-07-18",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06798207",
-          "externalId": "NCT06798207",
-          "contextTitle": "A Clinical Trial of TQB2102 for Injection in Gynecological Tumors With Recurrent/Metastatic Advanced"
-        }
-      ]
-    },
-    {
-      "id": "candidate-kyowa-kirin",
-      "name": "Kyowa Kirin Co., Ltd.",
-      "aliases": [
-        "Kyowa Kirin Co., Ltd."
-      ],
-      "normalizedName": "kyowa kirin",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-11-03",
-      "lastSeenAt": "2026-11-03",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Recruiting",
           "临床试验"
         ],
         "themes": [
           "Clinical Trials",
-          "Recruiting",
           "临床试验"
         ],
         "tags": []
@@ -44232,17 +44112,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-a66b047cd01a8da1"
+        "mention-clinicaltrials-38917de45eafd4aa"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-11-03",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07132567",
-          "externalId": "NCT07132567",
-          "contextTitle": "Assessment of Safety and Efficacy of Poteligeo Inj. 20 mg (Mogamulizumab) Through Use-result Surveillance"
+          "sourceDate": "2025-07-08",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05096221",
+          "externalId": "NCT05096221",
+          "contextTitle": "A Gene Transfer Therapy Study to Evaluate the Safety and Efficacy of Delandistrogene Moxeparvovec (SRP-9001) in Participants With Duchenne Muscular Dystrophy (DMD)"
         }
       ]
     },
@@ -47561,6 +47441,62 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
           "externalId": "11408936",
           "contextTitle": "PanK Activators for the Treatment of Pantothenate Kinase-Associated Neurodegeneration"
+        }
+      ]
+    },
+    {
+      "id": "candidate-roche-farma-s-a",
+      "name": "Roche Farma, S.A",
+      "aliases": [
+        "Roche Farma, S.A"
+      ],
+      "normalizedName": "roche farma s a",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-06-30",
+      "lastSeenAt": "2026-06-30",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "乳腺癌",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "乳腺癌",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-a5a71c20fff4f7ea"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-06-30",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03801304",
+          "externalId": "NCT03801304",
+          "contextTitle": "Trial to Evaluate Safety and Efficacy of Vinorelbine With Metronomic Administration in Combination With Atezolizumab as Second-line Treatment for Patients With Stage IV Non-small Cell Lung Cancer"
         }
       ]
     }
