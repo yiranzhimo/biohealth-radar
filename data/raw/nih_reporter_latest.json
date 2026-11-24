@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-11-23T12:48:29+00:00",
+  "capturedAt": "2026-11-24T13:45:54+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -1492,35 +1492,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11314303"
     },
     {
-      "applId": 11314137,
-      "projectNum": "1R44CA310250-01",
-      "projectTitle": "High throughput, high efficiency, rapid mechanical transfection for CAR T-cell therapeutics",
-      "fiscalYear": 2026,
-      "awardAmount": 1052108,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-18",
-      "projectEndDate": "2028-08-31",
-      "organization": {
-        "name": "CELLFE INC.",
-        "city": "ATLANTA",
-        "state": "GA",
-        "country": "UNITED STATES",
-        "uei": "M34JNT47EKK3",
-        "ipf": "10048774",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Gene Editing / Gene Therapy",
-        "Cell Therapy",
-        "RNA Therapeutics"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY Genetic modification of patient blood cells in the laboratory (“ex vivo”) has been transformational in treatment of blood malignancies, most notably through the use of engineering T-cells (CAR-T or TCR T-cells) to recognize and attack blood cancer cells. Despite…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
-    },
-    {
       "applId": 11313383,
       "projectNum": "1SB1HL184353-01",
       "projectTitle": "Commercialization Strategy for an Intravenous Hemostatic Nanotechnology for Bleeding Management",
@@ -1624,7 +1595,8 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology"
+        "biotechnology",
+        "gene therapy"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "Abstract T-cell acute lymphoblastic leukemia (T-ALL) accounts for ~15% of newly diagnosed acute lymphoblastic leukemia (ALL) cases and have been associated with poor prognosis. Patients with T-ALL are typically treated with risk-based multiagent chemotherapy regimens with or…",
@@ -1650,7 +1622,7 @@
       },
       "matchedTerms": [
         "biotechnology",
-        "gene therapy"
+        "cell therapy"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "CRI Biotech, Inc. is a company founded by Dr. Michael Kapiloff at Stanford University which is developing the novel etiology-independent therapy CRI-103 targeting downstream regulatory pathways common to Dilated Cardiomyopathy (DCM) regardless of etiology. DCM is a significant…",
@@ -1684,6 +1656,33 @@
       ],
       "projectSummaryExcerpt": "Abstract Evidence is accumulating for higher efficacy of small molecule drugs that have off-rates slower than the pharmacokinetic clearance rate. Despite the importance of kinetics, the standard approach is low throughput Biacore testing in de novo drug discovery/screening. But…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
+    },
+    {
+      "applId": 11204793,
+      "projectNum": "4R44NS137868-02",
+      "projectTitle": "Validation of a novel treatment for glioblastoma using oncolytic Zika virus",
+      "fiscalYear": 2026,
+      "awardAmount": 1268244,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2024-09-20",
+      "projectEndDate": "2028-06-30",
+      "organization": {
+        "name": "UP ONCOLYTICS, INC.",
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "country": "UNITED STATES",
+        "uei": "TVNLCARQLKC8",
+        "ipf": "10073837",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Cell Therapy"
+      ],
+      "projectSummaryExcerpt": "Project Summary / Abstract Glioblastoma multiforme (GBM) is a highly aggressive and malignant brain tumor with no known cure. GBM is projected to account for almost 14,500 new cases and approximately 10,000 deaths in the United States (U.S.) in 2023. The prognosis for patients…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11204793"
     }
   ]
 }

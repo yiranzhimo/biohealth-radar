@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-23T12:51:11+00:00",
-  "count": 590,
+  "capturedAt": "2026-11-24T13:48:20+00:00",
+  "count": 592,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -3100,6 +3100,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-birchbiomed",
+      "name": "BirchBioMed Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001670747",
+      "identifiers": {
+        "cik": [
+          "0001670747"
+        ],
+        "ticker": [
+          "BRBM"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-black-diamond-therapeutics",
       "name": "Black Diamond Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001701541",
@@ -3109,23 +3126,6 @@
         ],
         "ticker": [
           "BDTX"
-        ]
-      },
-      "sourceTypes": [
-        "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-black-hawk-acquisition",
-      "name": "Black Hawk Acquisition Corp",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775",
-      "identifiers": {
-        "cik": [
-          "0002000775"
-        ],
-        "ticker": [
-          "BKHA"
         ]
       },
       "sourceTypes": [
@@ -3945,26 +3945,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-cellfe",
-      "name": "Cellfe Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314137",
-      "identifiers": {
-        "nihIpf": [
-          "10048774"
-        ],
-        "uei": [
-          "M34JNT47EKK3"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "Gene Editing / Gene Therapy",
-        "RNA Therapeutics",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-celularity",
       "name": "Celularity Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001752828",
@@ -4524,7 +4504,7 @@
       },
       "sourceTypes": [
         "biotechnology",
-        "gene therapy"
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -5933,7 +5913,7 @@
     },
     {
       "companyId": "candidate-inmune-bio",
-      "name": "Inmune Bio, Inc.",
+      "name": "Inmune Bio Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001711754",
       "identifiers": {
         "cik": [
@@ -7969,7 +7949,8 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology"
+        "biotechnology",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -8286,6 +8267,23 @@
       },
       "sourceTypes": [
         "Hang Seng Biotech Index constituent"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-sinotaupharma",
+      "name": "Sinotaupharma",
+      "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9941&sc_lang=en",
+      "identifiers": {
+        "hkexStockCode": [
+          "09941"
+        ],
+        "isin": [
+          "CNE1000082N1"
+        ]
+      },
+      "sourceTypes": [
+        "HKEX Chapter 18A biotech marker"
       ],
       "status": "needs_official_domain"
     },
@@ -8824,6 +8822,24 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-up-oncolytics",
+      "name": "Up Oncolytics, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11204793",
+      "identifiers": {
+        "nihIpf": [
+          "10073837"
+        ],
+        "uei": [
+          "TVNLCARQLKC8"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-usana-health-sciences",
       "name": "Usana Health Sciences Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000896264",
@@ -8918,6 +8934,23 @@
         ],
         "ticker": [
           "VCEL"
+        ]
+      },
+      "sourceTypes": [
+        "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-vesicor-therapeutics-holdings",
+      "name": "Vesicor Therapeutics Holdings, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002000775",
+      "identifiers": {
+        "cik": [
+          "0002000775"
+        ],
+        "ticker": [
+          "BKHA"
         ]
       },
       "sourceTypes": [
