@@ -17574,17 +17574,14 @@
             "claimType": "Report"
           }
         ],
-        "programCandidateIds": [
-          "program-candidate-autolus-auto2"
-        ],
+        "programCandidateIds": [],
         "evidenceIds": [
           "evidence-sec-0001730463-000173046326000148",
           "evidence-sec-0001730463-000173046326000141",
           "evidence-company-autolus-official-ec0a477825f5",
           "evidence-sec-0001730463-000119312526398045",
           "evidence-sec-0001730463-000173046326000123",
-          "evidence-sec-0001730463-000173046326000119",
-          "evidence-clinicaltrials-NCT03287804"
+          "evidence-sec-0001730463-000173046326000119"
         ]
       },
       "futureDirection": {
@@ -17648,20 +17645,21 @@
         ],
         "inferences": [],
         "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
           "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 7,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 5,
-          "Registry": 1
+          "Filing": 5
         },
         "lastEvidenceDate": "2026-11-10",
-        "programCandidateCount": 1,
+        "programCandidateCount": 0,
         "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
           "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
@@ -17732,17 +17730,6 @@
           "needsReview": true,
           "evidenceId": "evidence-sec-0001730463-000173046326000119",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000119/autl-20260811.htm"
-        },
-        {
-          "id": "event-clinicaltrials-NCT03287804",
-          "date": "2020-10-23",
-          "title": "APRIL CAR T Cells (AUTO2) Targeting BCMA and TACI for the Treatment of Multiple Myeloma",
-          "eventType": "Clinical Trial Results",
-          "sourceType": "Registry",
-          "evidenceLevel": "High",
-          "needsReview": true,
-          "evidenceId": "evidence-clinicaltrials-NCT03287804",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03287804"
         }
       ]
     },
@@ -19606,14 +19593,6 @@
             "title": "Beam Therapeutics filed Form 10-Q",
             "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444455/beam-20260930.htm",
             "source": "SEC EDGAR"
-          },
-          {
-            "form": "10-Q",
-            "label": "季报",
-            "date": "2026-08-04",
-            "title": "Beam Therapeutics filed Form 10-Q",
-            "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm",
-            "source": "SEC EDGAR"
           }
         ],
         "reportPortals": []
@@ -19693,8 +19672,7 @@
           "evidence-company-beam-therapeutics-investor_relations-a0af7d0a7e67",
           "evidence-sec-0001745999-000119312526444455",
           "evidence-sec-0001745999-000119312526444454",
-          "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
-          "evidence-sec-0001745999-000119312526331541"
+          "evidence-company-beam-therapeutics-pipeline-853ab17780d8"
         ]
       },
       "futureDirection": {
@@ -19780,10 +19758,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 5,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 3
+          "Filing": 2
         },
         "lastEvidenceDate": "2026-11-25",
         "programCandidateCount": 0,
@@ -19847,17 +19825,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
           "sourceUrl": "https://beamtx.com/pipeline/"
-        },
-        {
-          "id": "event-sec-0001745999-000119312526331541",
-          "date": "2026-08-04",
-          "title": "Beam Therapeutics filed Form 10-Q",
-          "eventType": "Periodic Report",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001745999-000119312526331541",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm"
         }
       ]
     },
@@ -70177,6 +70144,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001717115-000119312526478564",
           "evidence-company-tempus-ai-investor_relations-699b2ff64e87",
           "evidence-sec-0001717115-000119312526466240",
           "evidence-sec-0001717115-000119312526442624",
@@ -70188,6 +70156,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001717115-000119312526478564",
+            "date": "2026-11-25",
+            "title": "Tempus AI filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001717115-000119312526478564",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526478564/d51820d8k.htm"
+          },
           {
             "id": "event-evidence-company-tempus-ai-investor_relations-699b2ff64e87",
             "date": "2026-11-19",
@@ -70231,17 +70210,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001717115-000119312526442619",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/tem-20261102.htm"
-          },
-          {
-            "id": "event-sec-0001717115-000119312526429533",
-            "date": "2026-10-23",
-            "title": "Tempus AI filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001717115-000119312526429533",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm"
           }
         ],
         "inferences": [],
@@ -70251,12 +70219,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 7,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 5
+          "Filing": 6
         },
-        "lastEvidenceDate": "2026-11-19",
+        "lastEvidenceDate": "2026-11-25",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -70264,6 +70232,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001717115-000119312526478564",
+          "date": "2026-11-25",
+          "title": "Tempus AI filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001717115-000119312526478564",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526478564/d51820d8k.htm"
+        },
         {
           "id": "event-evidence-company-tempus-ai-investor_relations-699b2ff64e87",
           "date": "2026-11-19",

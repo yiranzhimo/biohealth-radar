@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-11-25T12:59:26+00:00",
+  "capturedAt": "2026-11-25T21:46:34.127194+00:00",
   "summary": {
-    "mentionCount": 664,
-    "candidateCount": 594,
+    "mentionCount": 666,
+    "candidateCount": 597,
     "corroboratedCount": 3,
     "identifiedCount": 589,
-    "needsReviewCount": 2,
-    "knownCompanyMentionCount": 16,
+    "needsReviewCount": 5,
+    "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 5,
       "HKEX": 77,
       "HSI": 30,
       "NIH": 60,
@@ -20,61 +20,65 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-38917de45eafd4aa",
-      "observedName": "Sarepta Therapeutics, Inc.",
-      "normalizedName": "sarepta therapeutics",
+      "id": "mention-clinicaltrials-2440fa65c068511a",
+      "observedName": "Oncovir, Inc.",
+      "normalizedName": "oncovir",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05096221",
-      "sourceDate": "2025-07-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05096221",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT01437605",
+      "sourceDate": "2019-12-20",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01437605",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "临床试验"
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Gene Transfer Therapy Study to Evaluate the Safety and Efficacy of Delandistrogene Moxeparvovec (SRP-9001) in Participants With Duchenne Muscular Dystrophy (DMD)"
+      "contextTitle": "Phase II Study to Assess the Safety and Immunogenicity of recMAGE-A3+AS15 ASCI With or Without Poly IC:LC"
     },
     {
-      "id": "mention-clinicaltrials-61ebd44789443fc1",
-      "observedName": "Autolus Limited",
-      "normalizedName": "autolus",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03287804",
-      "sourceDate": "2020-10-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03287804",
-      "knownCompanyIds": [
-        "autolus"
-      ],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "APRIL CAR T Cells (AUTO2) Targeting BCMA and TACI for the Treatment of Multiple Myeloma"
-    },
-    {
-      "id": "mention-clinicaltrials-a5a71c20fff4f7ea",
-      "observedName": "Roche Farma, S.A",
-      "normalizedName": "roche farma s a",
+      "id": "mention-clinicaltrials-4afdcb8991b9ed7b",
+      "observedName": "Astex Pharmaceuticals, Inc.",
+      "normalizedName": "astex pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03801304",
-      "sourceDate": "2026-06-30",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03801304",
+      "sourceRecordId": "NCT04013880",
+      "sourceDate": "2020-07-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04013880",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "ASTX727 and FT-2102 in Treating IDH1-Mutated Recurrent/Refractory Myelodysplastic Syndrome or Acute Myeloid Leukemia"
+    },
+    {
+      "id": "mention-clinicaltrials-4b1158dafca3db6e",
+      "observedName": "NanoString Technologies, Inc.",
+      "normalizedName": "nanostring technologies",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT01974856",
+      "sourceDate": "2015-09-16",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01974856",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -85,11 +89,64 @@
         "乳腺癌",
         "肿瘤"
       ],
+      "activitySignals": [],
+      "contextTitle": "A Prospective Observational Study of Clinical Outcomes for the NanoString® Technologies Prosigna™ Gene Signature Assay"
+    },
+    {
+      "id": "mention-clinicaltrials-8a6a1220616bb6ae",
+      "observedName": "Forma Therapeutics, Inc.",
+      "normalizedName": "forma therapeutics",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04013880",
+      "sourceDate": "2020-07-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04013880",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
+      ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Trial to Evaluate Safety and Efficacy of Vinorelbine With Metronomic Administration in Combination With Atezolizumab as Second-line Treatment for Patients With Stage IV Non-small Cell Lung Cancer"
+      "contextTitle": "ASTX727 and FT-2102 in Treating IDH1-Mutated Recurrent/Refractory Myelodysplastic Syndrome or Acute Myeloid Leukemia"
+    },
+    {
+      "id": "mention-clinicaltrials-a6c7ccca3358d32d",
+      "observedName": "Intervene Immune, Inc.",
+      "normalizedName": "intervene immune",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04375657",
+      "sourceDate": "2025-05-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04375657",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "肿瘤",
+        "衰老"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Thymus Regeneration, Immunorestoration, and Insulin Mitigation Extension Trial"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44079,27 +44136,43 @@
       ]
     },
     {
-      "id": "candidate-sarepta-therapeutics",
-      "name": "Sarepta Therapeutics, Inc.",
+      "id": "candidate-intervene-immune",
+      "name": "Intervene Immune, Inc.",
       "aliases": [
-        "Sarepta Therapeutics, Inc."
+        "Intervene Immune, Inc."
       ],
-      "normalizedName": "sarepta therapeutics",
+      "normalizedName": "intervene immune",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-07-08",
-      "lastSeenAt": "2025-07-08",
+      "firstSeenAt": "2025-05-07",
+      "lastSeenAt": "2025-05-07",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Biomarkers",
           "Clinical Trials",
-          "临床试验"
+          "Longevity",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "肿瘤",
+          "衰老"
         ],
         "themes": [
+          "Biomarkers",
           "Clinical Trials",
-          "临床试验"
+          "Longevity",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "肿瘤",
+          "衰老"
         ],
         "tags": []
       },
@@ -44112,17 +44185,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-38917de45eafd4aa"
+        "mention-clinicaltrials-a6c7ccca3358d32d"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-07-08",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05096221",
-          "externalId": "NCT05096221",
-          "contextTitle": "A Gene Transfer Therapy Study to Evaluate the Safety and Efficacy of Delandistrogene Moxeparvovec (SRP-9001) in Participants With Duchenne Muscular Dystrophy (DMD)"
+          "sourceDate": "2025-05-07",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04375657",
+          "externalId": "NCT04375657",
+          "contextTitle": "Thymus Regeneration, Immunorestoration, and Insulin Mitigation Extension Trial"
         }
       ]
     },
@@ -47445,18 +47518,18 @@
       ]
     },
     {
-      "id": "candidate-roche-farma-s-a",
-      "name": "Roche Farma, S.A",
+      "id": "candidate-nanostring-technologies",
+      "name": "NanoString Technologies, Inc.",
       "aliases": [
-        "Roche Farma, S.A"
+        "NanoString Technologies, Inc."
       ],
-      "normalizedName": "roche farma s a",
+      "normalizedName": "nanostring technologies",
       "status": "needs_review",
       "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
+      "discoveryScore": 0.78,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-06-30",
-      "lastSeenAt": "2026-06-30",
+      "firstSeenAt": "2015-09-16",
+      "lastSeenAt": "2015-09-16",
       "identifiers": {},
       "classificationHints": {
         "directions": [
@@ -47486,17 +47559,179 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-a5a71c20fff4f7ea"
+        "mention-clinicaltrials-4b1158dafca3db6e"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2015-09-16",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01974856",
+          "externalId": "NCT01974856",
+          "contextTitle": "A Prospective Observational Study of Clinical Outcomes for the NanoString® Technologies Prosigna™ Gene Signature Assay"
+        }
+      ]
+    },
+    {
+      "id": "candidate-astex-pharmaceuticals",
+      "name": "Astex Pharmaceuticals, Inc.",
+      "aliases": [
+        "Astex Pharmaceuticals, Inc."
+      ],
+      "normalizedName": "astex pharmaceuticals",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2020-07-07",
+      "lastSeenAt": "2020-07-07",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-4afdcb8991b9ed7b"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2026-06-30",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03801304",
-          "externalId": "NCT03801304",
-          "contextTitle": "Trial to Evaluate Safety and Efficacy of Vinorelbine With Metronomic Administration in Combination With Atezolizumab as Second-line Treatment for Patients With Stage IV Non-small Cell Lung Cancer"
+          "sourceDate": "2020-07-07",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04013880",
+          "externalId": "NCT04013880",
+          "contextTitle": "ASTX727 and FT-2102 in Treating IDH1-Mutated Recurrent/Refractory Myelodysplastic Syndrome or Acute Myeloid Leukemia"
+        }
+      ]
+    },
+    {
+      "id": "candidate-forma-therapeutics",
+      "name": "Forma Therapeutics, Inc.",
+      "aliases": [
+        "Forma Therapeutics, Inc."
+      ],
+      "normalizedName": "forma therapeutics",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2020-07-07",
+      "lastSeenAt": "2020-07-07",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-8a6a1220616bb6ae"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2020-07-07",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04013880",
+          "externalId": "NCT04013880",
+          "contextTitle": "ASTX727 and FT-2102 in Treating IDH1-Mutated Recurrent/Refractory Myelodysplastic Syndrome or Acute Myeloid Leukemia"
+        }
+      ]
+    },
+    {
+      "id": "candidate-oncovir",
+      "name": "Oncovir, Inc.",
+      "aliases": [
+        "Oncovir, Inc."
+      ],
+      "normalizedName": "oncovir",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2019-12-20",
+      "lastSeenAt": "2019-12-20",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-2440fa65c068511a"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2019-12-20",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01437605",
+          "externalId": "NCT01437605",
+          "contextTitle": "Phase II Study to Assess the Safety and Immunogenicity of recMAGE-A3+AS15 ASCI With or Without Poly IC:LC"
         }
       ]
     }
