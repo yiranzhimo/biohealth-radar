@@ -6153,15 +6153,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-beam-therapeutics-official-daa041bcc1cd",
+      "id": "evidence-company-beam-therapeutics-official-3213a81b2d77",
       "signalId": null,
       "companyIds": [
         "beam-therapeutics"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-11-25",
+      "snapshotDate": "2026-11-25",
       "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Beam Therapeutics — Official Website",
@@ -6177,7 +6177,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash daa041bcc1cde08dd36dd71296dc6d00559679ee7355e5c7190d0a5023029ab7.",
+      "fact": "The official page was captured with normalized-content hash 3213a81b2d77a79cfe7734fa4bf438db5cb9b2cf0424964299bf040ecd8de8f4.",
       "report": "公司官方页面表述：碱基编辑是一种新兴的研究性精准基因药物，旨在克服现有方法的局限，扩展基因医学的潜力。",
       "reportOriginal": "Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine.",
       "reportCn": "碱基编辑是一种新兴的研究性精准基因药物，旨在克服现有方法的局限，扩展基因医学的潜力。",
@@ -6190,18 +6190,16 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "daa041bcc1cde08dd36dd71296dc6d00559679ee7355e5c7190d0a5023029ab7",
-      "changeType": "unchanged",
+      "contentHash": "3213a81b2d77a79cfe7734fa4bf438db5cb9b2cf0424964299bf040ecd8de8f4",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine.",
         "Our delivery strategy is to establish a suite of clinically validated technologies, including electroporation, nonviral and viral delivery modalities.",
         "An organization revolutionizing gene-based editing, one letter at a time.",
-        "Beam Named a TIME100 Most Influential Company, TIME100 Industry Leader, & CEO John Evans Recognized on TIME100 Health List"
+        "Research Triangle Park in North Carolina is home to our new manufacturing facility."
       ],
-      "businessExcerpts": [
-        "Beam Named a TIME100 Most Influential Company, TIME100 Industry Leader, & CEO John Evans Recognized on TIME100 Health List"
-      ],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -25001,6 +24999,62 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-clinuvel-pharmaceuticals"
+      ],
+      "publishedAt": "2026-11-25",
+      "snapshotDate": "2026-11-25",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Clinuvel Pharmaceuticals Ltd — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001290877",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
       "signalId": null,
       "companyIds": [
@@ -41907,6 +41961,62 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-rallybio-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-rallybio"
+      ],
+      "publishedAt": "2026-11-25",
+      "snapshotDate": "2026-11-25",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Rallybio Corp — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739410",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-raphael-pharmaceutical-official-7550f90e31bc",
       "signalId": null,
       "companyIds": [
@@ -49604,15 +49714,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-emulate-official-f5f5bde8e819",
+      "id": "evidence-company-emulate-official-b9673c1afc19",
       "signalId": null,
       "companyIds": [
         "emulate"
       ],
-      "publishedAt": "2026-10-28",
-      "snapshotDate": "2026-10-28",
+      "publishedAt": "2026-11-25",
+      "snapshotDate": "2026-11-25",
       "title": "Emulate | Organ-Chips for Research & Development",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Emulate — Official Website",
@@ -49628,7 +49738,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash f5f5bde8e81987ac4a755947332d049a06294f1b481917cfffac337618802164.",
+      "fact": "The official page was captured with normalized-content hash b9673c1afc19d24e2b02691c8204e5021f4ea9f4bb2e12ebe8ab8daf3d0d712c.",
       "report": "公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
       "reportOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
       "reportCn": "下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
@@ -49641,8 +49751,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f5f5bde8e81987ac4a755947332d049a06294f1b481917cfffac337618802164",
-      "changeType": "unchanged",
+      "contentHash": "b9673c1afc19d24e2b02691c8204e5021f4ea9f4bb2e12ebe8ab8daf3d0d712c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
@@ -51182,7 +51292,7 @@
       "publishedAt": "2026-11-23",
       "snapshotDate": "2026-11-23",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -51212,7 +51322,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "12e15e9c8f79246b50254771cea65f5adba7f0613b6211ce911d977cf143adf8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
@@ -51518,7 +51628,7 @@
       "publishedAt": "2026-11-23",
       "snapshotDate": "2026-11-23",
       "title": "Home - Nykode",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nykode Therapeutics — Official Website",
@@ -51548,7 +51658,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "95601ba903b771ab2b786d9a31f781d8c093101e59cb9f0d64f0a1bdc10dfd94",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Nykode Therapeutics to Showcase APC-Targeted DNA Vaccine Platform at ...",
@@ -52286,7 +52396,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "74fce7e1f6522d6a9a80f571a904decb0ae625afb3ace8747e47fedb790e4a22",
       "changeType": "unchanged",
-      "lastCheckStatus": "failed",
+      "lastCheckStatus": "success",
       "excerpts": [
         "Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation",
         "晶泰以 XtalPi Science 智能体为智能中枢，以领域模型打造的科学智能完成专业预测与设计，以机器人构筑物理智能基建完成实验与验证，融合打造科研领域的自主智能体；​将科研目标落实为可验证的分子与材料，攻坚药物发现及其他领域的重大难题。",

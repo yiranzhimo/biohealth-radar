@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-11-25",
   "summary": {
     "profileCount": 624,
-    "evidenceCount": 1058,
+    "evidenceCount": 1060,
     "programCandidateCount": 1,
     "companyCandidateCount": 594,
     "companyMentionCount": 664,
@@ -37,11 +37,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 624,
-    "companyReportedCount": 622,
-    "withEvidenceCount": 622,
-    "withProductClaimsCount": 515,
+    "companyReportedCount": 624,
+    "withEvidenceCount": 624,
+    "withProductClaimsCount": 517,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 43,
+    "failedSourceCount": 42,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -19675,11 +19675,43 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：投资者关系网站包含有关Beam Therapeutics业务的信息，供股东、潜在投资者和金融分析师使用。；公司官方页面表述：Beam 正在探索体内碱基编辑程序在镰刀型细胞病和 β-地中海贫血治疗中的潜力。",
-        "summaryOriginal": "The Investor Relations website contains information about Beam Therapeutics's business for stockholders, potential investors, and financial analysts. Beam is exploring the potential for in vivo base editing programs for the treatment of sickle cell disease and beta-thalassemia.",
+        "summary": "公司官方页面表述：碱基编辑是一种新兴的研究性精准基因药物，旨在克服现有方法的局限，扩展基因医学的潜力。；公司官方页面表述：投资者关系网站包含有关Beam Therapeutics业务的信息，供股东、潜在投资者和金融分析师使用。",
+        "summaryOriginal": "Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine. The Investor Relations website contains information about Beam Therapeutics's business for stockholders, potential investors, and financial analysts.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine.",
+            "text": "碱基编辑是一种新兴的研究性精准基因药物，旨在克服现有方法的局限，扩展基因医学的潜力。",
+            "evidenceId": "evidence-company-beam-therapeutics-official-3213a81b2d77",
+            "sourceUrl": "https://beamtx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Our delivery strategy is to establish a suite of clinically validated technologies, including electroporation, nonviral and viral delivery modalities.",
+            "text": "Our delivery strategy is to establish a suite of clinically validated technologies, including electroporation, nonviral and viral delivery modalities.",
+            "evidenceId": "evidence-company-beam-therapeutics-official-3213a81b2d77",
+            "sourceUrl": "https://beamtx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "An organization revolutionizing gene-based editing, one letter at a time.",
+            "text": "An organization revolutionizing gene-based editing, one letter at a time.",
+            "evidenceId": "evidence-company-beam-therapeutics-official-3213a81b2d77",
+            "sourceUrl": "https://beamtx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Research Triangle Park in North Carolina is home to our new manufacturing facility.",
+            "text": "Research Triangle Park in North Carolina is home to our new manufacturing facility.",
+            "evidenceId": "evidence-company-beam-therapeutics-official-3213a81b2d77",
+            "sourceUrl": "https://beamtx.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "BEACON Trial Results Selected for Official ASH Press Program Initial Patient-Reported Outcomes Demonstrate Early and Sustained Improvements in Physical Function, Pain, Fatigue, Emotional and Social Well-Being and Symptom Severity U.S.",
             "text": "BEACON Trial Results Selected for Official ASH Press Program Initial Patient-Reported Outcomes Demonstrate Early and Sustained Improvements in Physical Function, Pain, Fatigue, Emotional and Social Well-Being and Symptom Severity U.S.",
@@ -19695,47 +19727,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://investors.beamtx.com/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "The Investor Relations website contains information about Beam Therapeutics's business for stockholders, potential investors, and financial analysts.",
-            "text": "投资者关系网站包含有关Beam Therapeutics业务的信息，供股东、潜在投资者和金融分析师使用。",
-            "evidenceId": "evidence-company-beam-therapeutics-investor_relations-a0af7d0a7e67",
-            "sourceUrl": "https://investors.beamtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Beam Therapeutics Reports Third Quarter 2026 Financial Results and Highlights Clinical Progress Across Base Editing Portfolio",
-            "text": "Beam Therapeutics Reports Third Quarter 2026 Financial Results and Highlights Clinical Progress Across Base Editing Portfolio",
-            "evidenceId": "evidence-company-beam-therapeutics-investor_relations-a0af7d0a7e67",
-            "sourceUrl": "https://investors.beamtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Beam Therapeutics to Present Updated Clinical Data from BEACON Phase 1/2 Trial of Risto-cel in Sickle Cell Disease in an Oral Presentation at American Society of Hematology (ASH) Annual Meeting",
-            "text": "Beam Therapeutics to Present Updated Clinical Data from BEACON Phase 1/2 Trial of Risto-cel in Sickle Cell Disease in an Oral Presentation at American Society of Hematology (ASH) Annual Meeting",
-            "evidenceId": "evidence-company-beam-therapeutics-investor_relations-a0af7d0a7e67",
-            "sourceUrl": "https://investors.beamtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Beam is advancing BEAM-304 using an innovative development approach in which multiple mutation-specific base editors are developed efficiently within a single clinical program.",
-            "text": "Beam is advancing BEAM-304 using an innovative development approach in which multiple mutation-specific base editors are developed efficiently within a single clinical program.",
-            "evidenceId": "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
-            "sourceUrl": "https://beamtx.com/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-beam-therapeutics-official-3213a81b2d77",
           "evidence-company-beam-therapeutics-investor_relations-a0af7d0a7e67",
           "evidence-sec-0001745999-000119312526444455",
           "evidence-sec-0001745999-000119312526444454",
           "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
-          "evidence-company-beam-therapeutics-official-daa041bcc1cd",
           "evidence-sec-0001745999-000119312526331541"
         ]
       },
@@ -19759,6 +19759,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
           }
         ],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-beam-therapeutics-official-3213a81b2d77",
+            "date": "2026-11-25",
+            "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-beam-therapeutics-official-3213a81b2d77",
+            "sourceUrl": "https://beamtx.com/"
+          },
           {
             "id": "event-evidence-company-beam-therapeutics-investor_relations-a0af7d0a7e67",
             "date": "2026-11-19",
@@ -19802,17 +19813,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
             "sourceUrl": "https://beamtx.com/pipeline/"
-          },
-          {
-            "id": "event-evidence-company-beam-therapeutics-official-daa041bcc1cd",
-            "date": "2026-08-10",
-            "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-beam-therapeutics-official-daa041bcc1cd",
-            "sourceUrl": "https://beamtx.com/"
           }
         ],
         "inferences": [],
@@ -19827,7 +19827,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-11-19",
+        "lastEvidenceDate": "2026-11-25",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -19835,6 +19835,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-beam-therapeutics-official-3213a81b2d77",
+          "date": "2026-11-25",
+          "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-beam-therapeutics-official-3213a81b2d77",
+          "sourceUrl": "https://beamtx.com/"
+        },
         {
           "id": "event-evidence-company-beam-therapeutics-investor_relations-a0af7d0a7e67",
           "date": "2026-11-19",
@@ -19878,17 +19889,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
           "sourceUrl": "https://beamtx.com/pipeline/"
-        },
-        {
-          "id": "event-evidence-company-beam-therapeutics-official-daa041bcc1cd",
-          "date": "2026-08-10",
-          "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-beam-therapeutics-official-daa041bcc1cd",
-          "sourceUrl": "https://beamtx.com/"
         },
         {
           "id": "event-sec-0001745999-000119312526331541",
@@ -34314,7 +34314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-clinuvel-pharmaceuticals",
       "name": "Clinuvel Pharmaceuticals Ltd",
       "asOfDate": "2026-11-25",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "CUVL",
@@ -34345,40 +34345,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001290877",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001290877",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001290877",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001290877",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088",
+            "date": "2026-11-25",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001290877"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-25",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088",
+          "date": "2026-11-25",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-clinuvel-pharmaceuticals-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001290877"
+        }
+      ]
     },
     {
       "companyId": "candidate-cloudbreak",
@@ -39144,55 +39201,55 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。；公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
-        "summaryOriginal": "Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more. Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
+        "summary": "公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。；公司官方页面表述：了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。",
+        "summaryOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today. Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "With its versatile modeling capabilities and 12-Chip capacity, Zoë is ideally suited for developing functional models of human biology and disease to identify and validate drug targets.",
-            "text": "With its versatile modeling capabilities and 12-Chip capacity, Zoë is ideally suited for developing functional models of human biology and disease to identify and validate drug targets.",
-            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
-            "sourceUrl": "https://emulatebio.com/products/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Capable of 96 Organ-Chip samples per run, AVA unleashes unprecedented experimental power to rank order lead candidates and optimize the preclinical safety and efficacy of your drug candidates.",
-            "text": "Capable of 96 Organ-Chip samples per run, AVA unleashes unprecedented experimental power to rank order lead candidates and optimize the preclinical safety and efficacy of your drug candidates.",
-            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
-            "sourceUrl": "https://emulatebio.com/products/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more.",
-            "text": "了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。",
-            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
-            "sourceUrl": "https://emulatebio.com/products/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Explore our portfolio of sophisticated and user-friendly platforms & consumables that make it easy to get started with Organ-on-a-Chip technology.",
-            "text": "Explore our portfolio of sophisticated and user-friendly platforms & consumables that make it easy to get started with Organ-on-a-Chip technology.",
-            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
-            "sourceUrl": "https://emulatebio.com/products/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our BioKits provide the essential components needed to create validated, functional organ models, including Organ-Chip consumables, pre-qualified human cells, and chip activation reagents.",
-            "text": "Our BioKits provide the essential components needed to create validated, functional organ models, including Organ-Chip consumables, pre-qualified human cells, and chip activation reagents.",
-            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
-            "sourceUrl": "https://emulatebio.com/products/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
             "textOriginal": "Backed by a uniquely close collaboration with the FDA—including the first and only Organ‑Chip accepted into the ISTAND program for DILI evaluation 3 —Emulate is the partner positioned to help you meet tomorrow’s regulatory standards, accelerate development timelines, and bring…",
             "text": "Backed by a uniquely close collaboration with the FDA—including the first and only Organ‑Chip accepted into the ISTAND program for DILI evaluation 3 —Emulate is the partner positioned to help you meet tomorrow’s regulatory standards, accelerate development timelines, and bring…",
-            "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
+            "evidenceId": "evidence-company-emulate-official-b9673c1afc19",
+            "sourceUrl": "https://emulatebio.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "The future of drug development is human.",
+            "text": "The future of drug development is human.",
+            "evidenceId": "evidence-company-emulate-official-b9673c1afc19",
+            "sourceUrl": "https://emulatebio.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "The AVATAR Program: Modeling Human Bone Marrow Beyond Earth’s Orbit",
+            "text": "The AVATAR Program: Modeling Human Bone Marrow Beyond Earth’s Orbit",
+            "evidenceId": "evidence-company-emulate-official-b9673c1afc19",
+            "sourceUrl": "https://emulatebio.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Emulate Launches Brain-Chip R1 to Advance Neurological Drug Development, in Partnership with FUJIFILM Cellular Dynamics",
+            "text": "Emulate Launches Brain-Chip R1 to Advance Neurological Drug Development, in Partnership with FUJIFILM Cellular Dynamics",
+            "evidenceId": "evidence-company-emulate-official-b9673c1afc19",
+            "sourceUrl": "https://emulatebio.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
+            "text": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
+            "evidenceId": "evidence-company-emulate-official-b9673c1afc19",
+            "sourceUrl": "https://emulatebio.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Building a Human-Centric Future for Biologics Development with Organ-on-a-Chip Technology",
+            "text": "Building a Human-Centric Future for Biologics Development with Organ-on-a-Chip Technology",
+            "evidenceId": "evidence-company-emulate-official-b9673c1afc19",
             "sourceUrl": "https://emulatebio.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -39200,13 +39257,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-emulate-pipeline-379202c5c9b2",
-          "evidence-company-emulate-official-f5f5bde8e819"
+          "evidence-company-emulate-official-b9673c1afc19",
+          "evidence-company-emulate-pipeline-379202c5c9b2"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-emulate-official-b9673c1afc19",
+            "date": "2026-11-25",
+            "title": "Emulate | Organ-Chips for Research & Development",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-emulate-official-b9673c1afc19",
+            "sourceUrl": "https://emulatebio.com/"
+          },
           {
             "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
             "date": "2026-10-29",
@@ -39217,17 +39285,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
             "sourceUrl": "https://emulatebio.com/products/"
-          },
-          {
-            "id": "event-evidence-company-emulate-official-f5f5bde8e819",
-            "date": "2026-10-28",
-            "title": "Emulate | Organ-Chips for Research & Development",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
-            "sourceUrl": "https://emulatebio.com/"
           }
         ],
         "inferences": [],
@@ -39241,7 +39298,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-11-25",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -39249,6 +39306,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-emulate-official-b9673c1afc19",
+          "date": "2026-11-25",
+          "title": "Emulate | Organ-Chips for Research & Development",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-emulate-official-b9673c1afc19",
+          "sourceUrl": "https://emulatebio.com/"
+        },
         {
           "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
           "date": "2026-10-29",
@@ -39259,17 +39327,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
           "sourceUrl": "https://emulatebio.com/products/"
-        },
-        {
-          "id": "event-evidence-company-emulate-official-f5f5bde8e819",
-          "date": "2026-10-28",
-          "title": "Emulate | Organ-Chips for Research & Development",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
-          "sourceUrl": "https://emulatebio.com/"
         }
       ]
     },
@@ -58008,7 +58065,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-natera-official-12e15e9c8f79",
             "date": "2026-11-23",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -58084,7 +58141,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-natera-official-12e15e9c8f79",
           "date": "2026-11-23",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -59723,7 +59780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-nykode-therapeutics-official-95601ba903b7",
             "date": "2026-11-23",
             "title": "Home - Nykode",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -59776,7 +59833,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-nykode-therapeutics-official-95601ba903b7",
           "date": "2026-11-23",
           "title": "Home - Nykode",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -63641,7 +63698,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-rallybio",
       "name": "Rallybio Corp",
       "asOfDate": "2026-11-25",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "AVZO",
@@ -63672,40 +63729,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-rallybio-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739410",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-rallybio-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739410",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-rallybio-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739410",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-rallybio-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739410",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-rallybio-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-rallybio-official-c644ef580088",
+            "date": "2026-11-25",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-rallybio-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739410"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-25",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-rallybio-official-c644ef580088",
+          "date": "2026-11-25",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-rallybio-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739410"
+        }
+      ]
     },
     {
       "companyId": "candidate-raphael-pharmaceutical",
@@ -75659,7 +75773,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75672,7 +75785,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
