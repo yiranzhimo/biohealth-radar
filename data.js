@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,148 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-43077897",
+      "date": "2026-11-24",
+      "title": "TM7SF3 drives PI3K/AKT-mediated CX3CL1 secretion to promote macrophage M2 polarization in gastric cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43077897/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International immunopharmacology，PMID 为 43077897。",
+      "report": "Gastric cancer (GC) remains one of the leading causes of cancer-related mortality worldwide, macrophages contribute to tumor progression and resistance to immunotherapy. Transmembrane 7 superfamily member 3 (TM7SF3) has been implicated in cellular stress respo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0b82fb26d1167197006b06a00ff95887d08f4befb63e87d116",
+        "reviewedAt": "2026-11-25T08:45:03.197566+00:00",
+        "inputHash": "a8bd0e22d50b63fc2b96de13b5ecd7ed8ba5a4746912c0c854973d047ed9f2ff",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录清晰，信息来源可靠，未包含未经证明的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且符合源数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离明确，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International immunopharmacology，PMID 为 43077897。",
+          "report": "Gastric cancer (GC) remains one of the leading causes of cancer-related mortality worldwide, macrophages contribute to tumor progression and resistance to immunotherapy. Transmembrane 7 superfamily member 3 (TM7SF3) has been implicated in cellular stress response.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-43077576",
+      "date": "2026-11-24",
+      "title": "Defining physiological fidelity in trophoblast organoids: emerging directions for human placental modeling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43077576/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Human reproduction (Oxford, England)，PMID 为 43077576。",
+      "report": "Human trophoblast organoids (TOs) have rapidly transformed the study of human placental development by providing tractable culture systems that recapitulate major trophoblast lineages and developmental processes. Over the past five years, the field has progres...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_071e3eeadda2d84e006b06a015f04487d0b549eac6786b143f",
+        "reviewedAt": "2026-11-25T08:45:03.197566+00:00",
+        "inputHash": "4bf0bb65cd0a4d648d09f08becec0ec33499bda35a23389a5b687f0eb44f2144",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片内部一致，信息中立，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Human reproduction (Oxford, England)，PMID 为 43077576。",
+          "report": "Human trophoblast organoids (TOs) have rapidly transformed the study of human placental development by providing tractable culture systems that recapitulate major trophoblast lineages and developmental processes. Over the past five years, the field has progres...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-43076769",
       "date": "2026-11-24",
       "title": "Long-Term PM2.5 Exposure Promoted Vascular Calcification through XBP1s-Associated Osteogenic Switching and Inflammatory Crosstalk.",
@@ -1039,76 +1181,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-43075995",
-      "date": "2026-11-24",
-      "title": "Differential impact of dynein pathogenic variants on mitotic spindle organization and cortical organoid growth.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43075995/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 43075995。",
-      "report": "Mutations in the dynein heavy chain gene (DYNC1H1) cause a spectrum of neurological disorders, including malformations of cortical development (MCD) and spinal muscular atrophy with lower extremity predominance (SMALED). How these mutations differentially affe...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0f197b2d85678a48006b061069045487d0aa328f499f21e1bb",
-        "reviewedAt": "2026-11-24T22:31:49.228133+00:00",
-        "inputHash": "7b28d041529bfd8a7a5b73a5da09355d273cfae60b8059cb8de2fb35d59443df",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息一致，未提出未经证实的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合理，符合信号来源的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告、推论和未知信息清晰分离。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 43075995。",
-          "report": "Mutations in the dynein heavy chain gene (DYNC1H1) cause a spectrum of neurological disorders, including malformations of cortical development (MCD) and spinal muscular atrophy with lower extremity predominance (SMALED). How these mutations differentially affe...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-43076896",
       "date": "2026-11-24",
       "title": "Selective suppression and biasing of chemokine receptors CCR9 and ACKR4 through targeting CCL25 with de novo miniproteins.",
@@ -1320,6 +1392,75 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-43077287",
+      "date": "2026-11-23",
+      "title": "Lamin B1 physically regulates neuronal migration by modulating nuclear deformability in the developing cortex.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43077287/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 43077287。",
+      "report": "During corticogenesis, newly generated neurons migrate through dense brain tissue to reach specific layers. Nuclear physical properties may affect the process, but their exact contributions remain unclear. Here, we examine Lamin B1 (LB1) as a regulator of nucl...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_03edc46910e01593006b06a01d47ec87d0aff954e5d3f2beb3",
+        "reviewedAt": "2026-11-25T08:45:03.197566+00:00",
+        "inputHash": "24613d72f19b937717d48bc69829b139011a8ffa5e388666898ebc70b3ae0c1d",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录准确，分类和证据水平合理，未提供临床结论或推荐。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献证据水平合理，信息清晰。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 43077287。",
+          "report": "During corticogenesis, newly generated neurons migrate through dense brain tissue to reach specific layers. Nuclear physical properties may affect the process, but their exact contributions remain unclear. Here, we examine Lamin B1 (LB1) as a regulator of nucl...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -1606,6 +1747,79 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 43070946。",
           "report": "Fragment-based molecular design offers a chemically grounded strategy for exploring drug-like chemical space, yet identifying fragments that are both chemically feasible and relevant to a target property remains challenging. Fragment-level attribution is inher...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-43078100",
+      "date": "2026-11-23",
+      "title": "Cardiomyocyte-derived circulating extracellular vesicles enable a non-invasive liquid biopsy of human myocardium.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43078100/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 43078100。",
+      "report": "Non-invasive interrogation of difficult-to-sample tissues remains a central challenge in human health. Here, we identify and characterize cardiomyocyte-derived extracellular vesicles (EVs; \"cardiovesicles\") as a liquid interface to the myocardium. Integrating...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0aee79787a78835c006b06a023b8d487d09b3281a1c62c692c",
+        "reviewedAt": "2026-11-25T08:45:03.197566+00:00",
+        "inputHash": "3677b90b37ffa2b092ae605175b80810fac8ebfb4568c19ae0bc310909ba1a06",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此信号记录信息全面且有据可依，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 43078100。",
+          "report": "Non-invasive interrogation of difficult-to-sample tissues remains a central challenge in human health. Here, we identify and characterize cardiomyocyte-derived extracellular vesicles (EVs; \"cardiovesicles\") as a liquid interface to the myocardium. Integrating...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2047,153 +2261,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-43076163",
-      "date": "2026-11-17",
-      "title": "Bibliometric Visualization of Research Hotspots and Emerging Trends in Helicobacter pylori Research: A CiteSpace and VOSViewer Analysis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43076163/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 43076163。",
-      "report": "Helicobacter pylori infection remains a major global public health concern due to its role in gastric malignancy and rising antibiotic resistance, requiring a clear mapping of research trends to guide clinical strategies. A systematic retrieval of Chinese and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_031c232433681ea0006b061087f96c87d0bc2abd388a30875c",
-        "reviewedAt": "2026-11-24T22:31:49.228133+00:00",
-        "inputHash": "53c2e42392a278438ff89baaacca91ea499a9d4ef235b8d21621ad1b0deb8fda",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审查以确保不支持的临床结论和推论的准确性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "初步分类不支持，缺乏清晰的研究质量评估。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献级别为中，而可靠性高，导致不一致。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 43076163。",
-          "report": "Helicobacter pylori infection remains a major global public health concern due to its role in gastric malignancy and rising antibiotic resistance, requiring a clear mapping of research trends to guide clinical strategies. A systematic retrieval of Chinese and...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-43076162",
-      "date": "2026-11-17",
-      "title": "Enzymatic Enrichment of Sensory Epithelia from Late-Stage Mouse Embryonic Stem Cell-Derived Inner Ear Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43076162/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 43076162。",
-      "report": "Stem cell-derived inner ear organoids provide a cost-effective and scalable source of inner ear tissues for developmental and regenerative studies. However, the presence of off-target cell populations, including muscle and mesenchymal cells, reduces the relati...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_058a40b15da98ac3006b06108d622087d0bd284be2dde5d0fa",
-        "reviewedAt": "2026-11-24T22:31:49.228133+00:00",
-        "inputHash": "ef9ff6bda58349274f70db49bb6adc1ca3265f75404da9f80aa565756598ad1b",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信息记录经过充分评估，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 43076162。",
-          "report": "Stem cell-derived inner ear organoids provide a cost-effective and scalable source of inner ear tissues for developmental and regenerative studies. However, the presence of off-target cell populations, including muscle and mesenchymal cells, reduces the relati...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -3514,77 +3581,6 @@ window.BHR_DATA = {
           "report": "Viral myocarditis involves overlapping viral infection, immune-mediated injury, cardiomyocyte stress, and remodeling. Extracellular vesicles (EVs) are increasingly investigated as mediators and biomarkers of these processes, but their interpretation and clinical use require more evidence.",
           "inference": "研究的临床应用及效果尚未得到充分证实。",
           "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态的信息缺失。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-43075042",
-      "date": "2026-11-09",
-      "title": "Granzyme B as a predictive biomarker for therapeutic outcomes in non-small cell lung cancer patients undergoing anti-PD-1 therapy.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43075042/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 43075042。",
-      "report": "Immune checkpoint inhibitors (ICIs) targeting the PD-1/PD-L1 axis have transformed the management of advanced non-small cell lung cancer (NSCLC). However, durable clinical benefit is restricted to a subset of patients, necessitating reliable, minimally invasiv...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05b710b181c4d8b8006b0610ad126487d0922b835c68a004a8",
-        "reviewedAt": "2026-11-24T22:31:49.228133+00:00",
-        "inputHash": "be0095d4c76f2faeabf70cb8834654e5628ea0a726d9e9c901aa0b7779d2d550",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献提及预后生物标记物，但未明确支持疗效或安全性结论。需人工审查。该研究质量和临床影响的信息缺失。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类存在不明确性，需要进一步审查以确认其适当性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管有文献记录，但尚未具备足够证据支撑中等的证据水平。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 43075042。",
-          "report": "Immune checkpoint inhibitors (ICIs) targeting the PD-1/PD-L1 axis have transformed the management of advanced non-small cell lung cancer (NSCLC). However, durable clinical benefit is restricted to a subset of patients, necessitating reliable, minimally invasiv...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

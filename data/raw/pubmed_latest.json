@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-24T22:31:40.395539+00:00",
+  "capturedAt": "2026-11-25T08:44:53.553041+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-24",
-    "end": "2026-11-24"
+    "start": "2025-11-25",
+    "end": "2026-11-25"
   },
   "pmids": [
+    "43077897",
+    "43077576",
+    "43077287",
     "43076769",
     "43076755",
     "43076747",
-    "43076163",
-    "43076162",
-    "43075995",
     "43076351",
     "43061985",
     "43061976",
@@ -32,14 +32,76 @@
     "43072333",
     "43070950",
     "43070946",
+    "43078100",
     "43076005",
     "43075425",
     "43075397",
     "43075131",
-    "43075058",
-    "43075042"
+    "43075058"
   ],
   "records": [
+    {
+      "pmid": "43077897",
+      "title": "TM7SF3 drives PI3K/AKT-mediated CX3CL1 secretion to promote macrophage M2 polarization in gastric cancer.",
+      "abstract": "Gastric cancer (GC) remains one of the leading causes of cancer-related mortality worldwide, macrophages contribute to tumor progression and resistance to immunotherapy. Transmembrane 7 superfamily member 3 (TM7SF3) has been implicated in cellular stress responses, but its immune function remains unknown in GC. TM7SF3 expression and its clinical significance were comprehensively analyzed using different datasets and validated in human GC specimens. Gain- and loss-of-function assays were performed in human and murine GC cell lines to evaluate cell proliferation, migration and apoptosis viability. Macrophage polarization was assessed by using conditioned medium-induced THP-1-derived macrophages, bone marrow-derived macrophages and xenograft models. Patient-derived organoids and xenograft models were used to evaluate the efficacy of anti- Programmed cell death protein 1 (PD-1) immunotherapy in combination with Trametinib. TM7SF3 was significantly upregulated in GC tissues and was associated with advanced tumor stage and poor prognosis. Functionally, TM7SF3 promoted GC cell proliferation and migration while suppressing apoptosis. Mechanistically, TM7SF3 activated the downstream Phosphoinositide 3-kinase-Protein kinase B (PI3K/AKT) signaling pathway, resulting in increased C-X3-C motif chemokine ligand 1 (CX3CL1) expression and secretion, which subsequently promoted macrophage M2 polarization. Clinically, the association between TM7SF3 expression and trametinib sensitivity was further evaluated using patient-derived organoids in vitro. The antitumor activity of anti-PD-1 therapy in combination with Trametinib was further enhanced in TM7SF3-overexpressed GC cells in vivo. TM7SF3 promotes macrophage M2 polarization by activating the PI3K/AKT/CX3CL1 signaling axis. Trametinib may represent a potential therapeutic agent for enhancing the efficacy of immune checkpoint blockade, highlighting TM7SF3 as a promising biomarker and therapeutic target for gastric cancer.",
+      "journal": "International immunopharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of General Surgery, Nanfang Hospital, Southern Medical University, Guangzhou, China.",
+        "Department of Health Management, Nanfang Hospital, Southern Medical University, Guangzhou, China.",
+        "Department of Oncology, Nanfang Hospital, Southern Medical University, Guangzhou, China.",
+        "Department of Gastroenterology, Ganzhou People's Hospital, Ganzhou, China.",
+        "Department of Gastroenterology, General Hospital, Shenzhen University, Shenzhen, China.",
+        "Department of Gastroenterology & the Guangdong Provincial Key Laboratory of Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou, China. Electronic address: 254822629@qq.com.",
+        "Department of General Surgery, Nanfang Hospital, Southern Medical University, Guangzhou, China. Electronic address: liuhaofbi@163.com.",
+        "Department of General Surgery, Nanfang Hospital, Southern Medical University, Guangzhou, China. Electronic address: zhangzhenzhandr@126.com.",
+        "Department of General Surgery, Nanfang Hospital, Southern Medical University, Guangzhou, China; Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua University, Beijing, China. Electronic address: lgxa04510@btch.edu.cn."
+      ],
+      "doi": "10.1016/j.intimp.2026.117722",
+      "date": "2026-11-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43077897/"
+    },
+    {
+      "pmid": "43077576",
+      "title": "Defining physiological fidelity in trophoblast organoids: emerging directions for human placental modeling.",
+      "abstract": "Human trophoblast organoids (TOs) have rapidly transformed the study of human placental development by providing tractable culture systems that recapitulate major trophoblast lineages and developmental processes. Over the past five years, the field has progressed beyond establishing trophoblast identity toward improving the physiological fidelity of organoid models. Recent advances in trophoblast architecture, including the development of TOs with correctly oriented syncytium, together with increasing efforts to incorporate cellular complexity and genetic heterogeneity into organoid systems, are reshaping how human placental development can be modeled in vitro. At the same time, parallel advances in endometrial organoid and assembloid systems are creating opportunities to reconstruct increasingly sophisticated models of the maternal-fetal interface. In this Directions article, we summarize the state of progress of TO cultures described in our previous Mini-Review and highlight recent developments in trophoblast and endometrial organoid research, including emerging challenges and opportunities in TO design, implementation, and translational application.",
+      "journal": "Human reproduction (Oxford, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "The British Columbia Children's Hospital Research Institute, Vancouver, British Columbia, Canada.",
+        "Department of Obstetrics & Gynecology, The University of British Columbia, Vancouver, British Columbia, Canada."
+      ],
+      "doi": "10.1093/humrep/deag177",
+      "date": "2026-11-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43077576/"
+    },
+    {
+      "pmid": "43077287",
+      "title": "Lamin B1 physically regulates neuronal migration by modulating nuclear deformability in the developing cortex.",
+      "abstract": "During corticogenesis, newly generated neurons migrate through dense brain tissue to reach specific layers. Nuclear physical properties may affect the process, but their exact contributions remain unclear. Here, we examine Lamin B1 (LB1) as a regulator of nuclear mechanics in migrating neurons, which express minimal Lamin A/C. Excess LB1 reduces nuclear deformability and delays neuronal migration in vivo, without altering laminar identity. Computational modeling confirms that increased nuclear membrane stiffness alone impedes cell motility. In vitro, cells overexpressing LB1 show elevated stiffness and restrict migration through confined spaces. At postnatal stages, neurons with excess LB1 show altered expression of neuronal activity genes, and mispositioned neurons exhibit electrophysiological immaturity. Notably, cerebral organoid assays using induced pluripotent stem cells established from patients with LMNB1 duplication display impaired neuronal migration in a human model. Collectively, these findings demonstrate that LB1 dynamically regulates nuclear mechanics, ensuring accurate spatiotemporal positioning and functional maturation of neurons.",
+      "journal": "Cell reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Neural Regeneration Laboratory, Korea Brain Research Institute (KBRI), Daegu 41062, Republic of Korea.",
+        "Graduate School of Engineering, Kobe University, Kobe 657-8501, Japan.",
+        "Cortical Circuits & Cognition Laboratory, KBRI, Daegu 41062, Republic of Korea; Department of Brain Sciences, Daegu Gyeongbuk Institute of Science & Technology (DGIST), Daegu 42988, Republic of Korea.",
+        "Alma Mater Studiorum, University of Bologna, 40126 Bologna, Italy.",
+        "Department of Molecular Medicine, University of Pavia, 27100 Pavia, Italy; IRCCS Mondino Foundation, Neurogenetics Research Centre, 27100 Pavia, Italy.",
+        "U.O.C. Clinica Neurologica Rete Metropolitana (NeuroMet), IRCCS Istituto delle Scienze Neurologiche di Bologna, 40139 Bologna, Italy.",
+        "Cellular Signaling Laboratory, Anatomy Center, Department of Biomedical and Neuromotor Sciences (DIBINEM), University of Bologna, 40126 Bologna, Italy.",
+        "Division of Biomedical Engineering, Institute of Engineering, Tokyo University of Agriculture and Technology, Tokyo 184-8588, Japan.",
+        "Neural Regeneration Laboratory, Korea Brain Research Institute (KBRI), Daegu 41062, Republic of Korea; Department of Brain Sciences, Daegu Gyeongbuk Institute of Science & Technology (DGIST), Daegu 42988, Republic of Korea. Electronic address: kosodo@kbri.re.kr."
+      ],
+      "doi": "10.1016/j.celrep.2026.118336",
+      "date": "2026-11-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43077287/"
+    },
     {
       "pmid": "43076769",
       "title": "Long-Term PM2.5 Exposure Promoted Vascular Calcification through XBP1s-Associated Osteogenic Switching and Inflammatory Crosstalk.",
@@ -99,65 +161,6 @@
       "doi": "10.1021/acs.est.6c09870",
       "date": "2026-11-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43076747/"
-    },
-    {
-      "pmid": "43076163",
-      "title": "Bibliometric Visualization of Research Hotspots and Emerging Trends in Helicobacter pylori Research: A CiteSpace and VOSViewer Analysis.",
-      "abstract": "Helicobacter pylori infection remains a major global public health concern due to its role in gastric malignancy and rising antibiotic resistance, requiring a clear mapping of research trends to guide clinical strategies. A systematic retrieval of Chinese and English databases was conducted (CNKI, Wanfang Data, Web of Science) for articles published from January 1, 2014 to December 31, 2023. Bibliometric visualization and analysis were conducted using CiteSpace and VOSViewer. A total of 5,707 articles were included (2,707 Chinese; 3,000 English). Chinese output peaked in 2016-2018, while English-language publication volume remained relatively stable. China and the United States were the leading contributing countries, followed by Japan, Germany, and South Korea. Analysis of Chinese literature identified 983 keywords clustered into 11 groups (Q = 0.572; S = 0.830), with recent keyword hotspots on gut microbiota, drug resistance, and pediatric infection. English literature revealed 16 co-citation clusters (Q = 0.906; S = 0.980), highlighting emerging interest in vonoprazan-based therapy, cancer organoids, and precision oncology. Gut microbiota and antimicrobial resistance were persistent research themes across corpora. This bibliometric study maps global research on Helicobacter pylori from 2014-2023, identifying sustained focus on gastric cancer, antimicrobial resistance, and eradication strategies, and emerging fronts in microbiota modulation and precision-based therapies. Findings reflect publication and citation patterns rather than clinical efficacy. Strengthening international collaboration and integrating bibliometric insights with rigorous clinical research may help organize and advance future investigations.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "affiliations": [
-        "SXMU-Tsinghua Collaborative Innovation Center for Frontier Medicine, Shanxi Medical University.",
-        "The Second Affiliated Hospital of Baotou Medical College, Inner Mongolia University of Science and Technology.",
-        "The Second Affiliated Hospital of Baotou Medical College, Inner Mongolia University of Science and Technology; nianyuanyuannina@163.com."
-      ],
-      "doi": "10.3791/71150",
-      "date": "2026-11-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43076163/"
-    },
-    {
-      "pmid": "43076162",
-      "title": "Enzymatic Enrichment of Sensory Epithelia from Late-Stage Mouse Embryonic Stem Cell-Derived Inner Ear Organoids.",
-      "abstract": "Stem cell-derived inner ear organoids provide a cost-effective and scalable source of inner ear tissues for developmental and regenerative studies. However, the presence of off-target cell populations, including muscle and mesenchymal cells, reduces the relative abundance of inner ear tissues within organoid aggregates. Previous single-cell RNA sequencing (scRNA-seq) studies have demonstrated that sensory epithelial cells, comprising hair cells and supporting cells, account for approximately 4% of total cells in mouse embryonic stem cell (mESC)-derived inner ear organoids at days 16 and 21 of culture. Consequently, additional enrichment strategies, including manual dissection, fluorescence-activated cell sorting, and downstream bioinformatic filtering, are often required to isolate target cell populations, increasing experimental complexity and reducing sequencing efficiency. This protocol describes an enzymatic pretreatment method to selectively dissociate and remove non-epithelial tissues from late-stage mESC-derived inner ear organoids. Adapted from a previously published method for enriching organoid-derived otic vesicle-like structures at day 12 of culture, the protocol involves treating day 23 organoids with a collagenase/hyaluronidase blend. Gentle trituration at 15 min intervals during enzymatic digestion facilitates the separation of epithelial tissues from the underlying mesenchyme. The resulting organoid-derived sensory epithelial sheets and vesicles are isolated using a 35 µm cell strainer and can undergo further enzymatic dissociation for downstream applications, including scRNA-seq. This method provides a straightforward, accessible approach to enriching sensory epithelial populations and reducing off-target cell populations in late-stage mESC-derived inner ear organoids, thereby facilitating downstream molecular analyses.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "affiliations": [
-        "Department of Natural Sciences, Merrimack College School of Arts and Sciences.",
-        "Department of Otolaryngology - Head & Neck Surgery, Stanford School of Medicine.",
-        "Institute for Stem Cell Biology & Regenerative Medicine, Stanford University School of Medicine.",
-        "The Center for Health Innovation, Research and Policy, Merrimack College; maternm@merrimack.edu."
-      ],
-      "doi": "10.3791/75351",
-      "date": "2026-11-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43076162/"
-    },
-    {
-      "pmid": "43075995",
-      "title": "Differential impact of dynein pathogenic variants on mitotic spindle organization and cortical organoid growth.",
-      "abstract": "Mutations in the dynein heavy chain gene (DYNC1H1) cause a spectrum of neurological disorders, including malformations of cortical development (MCD) and spinal muscular atrophy with lower extremity predominance (SMALED). How these mutations differentially affect dynein functions in the nervous system, leading to distinct pathologies, remains unknown. Using patient-derived cortical organoids, we address how MCD- and SMALED-causing dynein mutations alter human cortical development. We show that MCD-associated mutations alter the growth of organoids, but that SMALED organoids are unaffected, consistent with the microcephaly phenotypes of individuals with MCD. These defects are mirrored by a large increase in apoptotic cell death in MCD organoids. MCD mutations - but not SMALED mutations - strongly affect radial glial progenitor divisions, by inducing severe mitotic spindle defects and leading to prolonged mitotic duration. Mitotic checkpoint inhibition alleviates mitotic delay but fails to prevent apoptosis, indicating that mitotic arrest is not the cause of cell death in MCD. These findings reveal how specific dynein mutations can distinctly disrupt cortical development, establishing mitotic spindle dysfunction and apoptosis as central mechanisms underlying dynein-related microcephaly.",
-      "journal": "Development (Cambridge, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Cell Biology and Cancer, Institut Curie, PSL University, Sorbonne Université, CNRS UMR144, 75005 Paris, France.",
-        "Sorbonne Université, Ecole Doctorale complexité du vivant, 75005 Paris, France.",
-        "IHU Imagine - Institut des Maladies Génétiques, Inserm UMR 1163, Génétique et Développement du Cortex Cérébral, 75015 Paris, France.",
-        "Université Paris Cité, Institute of Psychiatry and Neuroscience of Paris (IPNP), INSERM U1266, Génétique et Développement du Cortex Cérébral, 75014 Paris, France.",
-        "UMR 144-Cell and Tissue Imaging Facility (PICT-IBISA), CNRS-Institut Curie, 75005 Paris, France.",
-        "iPS Core Facility, Imagine Institute, INSERM U1163, Université Paris Cité, 75015 Paris, France.",
-        "Pediatric Neurology, Necker Enfants Malades University Hospital, Université Paris Cité, 75015 Paris, France.",
-        "Institut national de la santé et de la recherche médicale (Inserm), 75013 Paris, France."
-      ],
-      "doi": "10.1242/dev.205123",
-      "date": "2026-11-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43075995/"
     },
     {
       "pmid": "43076351",
@@ -371,6 +374,48 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43070946/"
     },
     {
+      "pmid": "43078100",
+      "title": "Cardiomyocyte-derived circulating extracellular vesicles enable a non-invasive liquid biopsy of human myocardium.",
+      "abstract": "Non-invasive interrogation of difficult-to-sample tissues remains a central challenge in human health. Here, we identify and characterize cardiomyocyte-derived extracellular vesicles (EVs; \"cardiovesicles\") as a liquid interface to the myocardium. Integrating induced pluripotent stem cell-derived cardiomyocytes, genetic models, and multi-omics, we identify two cardiomyocyte-enriched surface markers (POPDC2 and CHRNE), enabling antibody-based cardiovesicle immunocapture from human plasma. Cardiovesicles are enriched for cardiomyocyte transcripts, exhibiting disease-specific transcriptional signatures in heart failure and myocardial infarction. Paired human myocardial tissue-plasma analyses demonstrate cardiac enrichment (versus bulk EVs) and concordance with myocardial single-nucleus transcriptional profiles. In patients undergoing cardiopulmonary bypass, cardiovesicles capture rapid, dynamic transcriptional changes that parallel cardiomyocyte (not fibroblast, endothelial, and myeloid) responses to ischemic stress. Functional genomics implicates cardiovesicle transcripts in cardiomyocyte cell-specific cardiovascular disease liability in large human populations. Cardiovesicles may capture dynamic cardiomyocyte states in humans that reflect genetic disease liability, supporting an EV-based approach to non-invasive liquid biopsy of the myocardium.",
+      "journal": "Cell",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Cardiovascular Research Center, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Cardiovascular Research Center, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA; Albert Einstein College of Medicine, Jacobi Medical Center, New York City Health and Hospitals, New York, NY, USA; First Department of Cardiology, School of Medicine, National and Kapodistrian University of Athens, Hippokration General Hospital, Athens, Greece.",
+        "Bioinnovation and Genome Sciences Division, the Translational Genomics Research Institute, Phoenix, AZ, USA; Center for Alzheimer's and Related Dementias, National Institute on Aging, Bethesda, MD, USA; DataTecnica LLC, Washington, DC, USA.",
+        "Bioinnovation and Genome Sciences Division, the Translational Genomics Research Institute, Phoenix, AZ, USA.",
+        "Department of Biostatistics, Vanderbilt University Medical Center, Nashville, TN, USA.",
+        "Division of Genetic Medicine, Vanderbilt University Medical Center, Nashville, TN, USA.",
+        "Vanderbilt Diabetes Center, Vanderbilt University Medical Center, Nashville, TN, USA.",
+        "Integrated Mass Spectrometry Shared Resource, City of Hope Comprehensive Cancer Center, Duarte, CA, USA; Early Detection and Prevention Division, Translational Genomics Research Institute, Phoenix, AZ, USA.",
+        "Division of Cardiology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Department of Anesthesiology and Critical Care Medicine, the Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+        "Department of Surgery, Division of Cardiac Surgery, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Department of Genetics, Harvard Medical School, Boston, MA, USA.",
+        "Department of Cancer Biology and Molecular Medicine, Beckman Research Institute, City of Hope Comprehensive Cancer Center, Duarte, CA, USA.",
+        "Early Detection and Prevention Division, Translational Genomics Research Institute, Phoenix, AZ, USA.",
+        "Masonic Medical Research Institute, Utica, NY, USA.",
+        "Department of Medicine, Cardiovascular Division, University of California, San Francisco, San Francisco, CA, USA.",
+        "SUNY Upstate Medical University, Syracuse, NY, USA.",
+        "Department of Cardiac Surgery, Vanderbilt University Medical Center, Nashville, TN, USA.",
+        "Spectradyne LLC, Signal Hill, CA, USA.",
+        "Albert Einstein College of Medicine, Jacobi Medical Center, New York, NY, USA.",
+        "Albert Einstein College of Medicine, Jacobi Medical Center, New York City Health and Hospitals, New York, NY, USA.",
+        "First Department of Cardiology, School of Medicine, National and Kapodistrian University of Athens, Hippokration General Hospital, Athens, Greece.",
+        "Department of Cardiology, Athens Medical Center, Athens, Greece.",
+        "Cardiovascular Research Center, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA; Department of Genetics, Harvard Medical School, Boston, MA, USA.",
+        "Division of Cardiology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA; Baim Institute for Clinical Research, Boston, MA, USA.",
+        "Cardiovascular Research Center, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA; Department of Anesthesia, Critical Care, and Pain Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Vanderbilt Diabetes Center, Vanderbilt University Medical Center, Nashville, TN, USA. Electronic address: ravi.shah@vumc.org.",
+        "Cardiovascular Research Center, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA. Electronic address: sdas@mgh.harvard.edu."
+      ],
+      "doi": "10.1016/j.cell.2026.10.050",
+      "date": "2026-11-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43078100/"
+    },
+    {
       "pmid": "43076005",
       "title": "Validation of the Turkish version of the artificial intelligence attitude in radiology scale for patients.",
       "abstract": "BackgroundIn the context of the growing integration of artificial intelligence (AI) into radiology, AI-assisted systems are increasingly presented as tools for improving diagnostic accuracy, workflow efficiency, and clinical decision-making. Yet discussions of AI in radiology often focus on technical performance or clinician perspectives, while patients' attitudes toward these technologies remain less well understood.ObjectiveThis study aimed to cross-culturally adapt the Artificial Intelligence Attitude in Radiology Scale (AIARS) for patients into Turkish and evaluate the psychometric properties of the modified Turkish version among patients receiving radiology services.MethodsThis cross-sectional validation study included 659 adult patients aged 18-69 years (Mage = 34.50, SD = 11.21). The factor structure was examined using exploratory factor analysis (EFA) and confirmatory factor analysis (CFA). Measurement invariance was tested across age groups, gender, and educational level using multi-group CFA.ResultsEFA supported a modified four-factor, 23-item structure derived from the original 39-item, five-factor AIARS. CFA confirmed that the four-factor model was a good fit for the data, χ2(224) = 640.16, p < .001, CFI = .985, TLI = .983, RMSEA = .075, 90% CI [.068, .082], SRMR = .072. The total scale demonstrated high internal consistency, with α = .87 and ω = .88. Test-retest reliability was excellent (total-scale ICC = .97, 95% CI [.94, .99]). Measurement invariance was supported across age, gender, and educational level.ConclusionThe modified Turkish version of the AIARS demonstrated acceptable psychometric performance at the total-scale level and may be used to assess patients' attitudes toward AI in radiology. However, the Worries and Ethical Concerns factor requires further evaluation.",
@@ -451,26 +496,67 @@
       "doi": "10.3389/fimmu.2026.2004445",
       "date": "2026-11-09",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43075058/"
-    },
-    {
-      "pmid": "43075042",
-      "title": "Granzyme B as a predictive biomarker for therapeutic outcomes in non-small cell lung cancer patients undergoing anti-PD-1 therapy.",
-      "abstract": "Immune checkpoint inhibitors (ICIs) targeting the PD-1/PD-L1 axis have transformed the management of advanced non-small cell lung cancer (NSCLC). However, durable clinical benefit is restricted to a subset of patients, necessitating reliable, minimally invasive pharmacodynamic biomarkers to monitor treatment engagement and response. In this prospective observational study evaluating an expanded patient cohort overlapping with our previous reporting, 64 patients with advanced NSCLC receiving second-line nivolumab monotherapy and 30 healthy controls were analyzed. Peripheral blood samples were collected longitudinally at baseline (T0), 6-8 weeks (T1), and 14-16 weeks (T2) post-treatment initiation. Plasma Granzyme B (GrmB) concentrations (pg/mL) were quantified via ELISA, and cell subset-specific intracellular expression was characterized using multiparametric flow cytometry. Archival tumor tissue was evaluated for PD-L1 expression, tumor mutational burden, microsatellite instability, and TP53 status. Exploratory in-vitro experiments evaluated A549 and NCI-H23 cell lines exposed to direct nivolumab treatment (0-200 µg/mL). Longitudinal dynamics were evaluated using repeated-measures linear mixed-effects models with multiplicity adjustments, and survival outcomes (OS and PFS) were assessed using Kaplan-Meier. Responders (R) demonstrated significantly higher baseline tumor PD-L1 expression compared to non-responders (NR). Flow cytometric immunophenotyping revealed dynamic expansions in responders, including a three-fold increase in CD3+CD56+ NKT-like cells, a two-fold increase in NK cells, a ten-fold elevation in CD8+Granzyme B+ T cells, and a 2.5-fold increase in proliferating Ki67+CD8+PD-1+ T cells. Circulating plasma Granzyme B concentrations were markedly elevated in responders compared to non-responders and healthy controls (P < 0.0001). In exploratory cell-line assays, direct nivolumab exposure increased Granzyme B secretion and expression in A549 and NCI-H23 cells without impacting short-term cell viability. While higher circulating Granzyme B trajectory correlated with superior progression-free and overall survival, multivariable Cox regression indicated that Granzyme B kinetics serve as a dynamic marker of active immune engagement rather than an independent pre-treatment predictive biomarker when adjusting for overall clinical response. Longitudinal monitoring of plasma Granzyme B kinetics and cytotoxic lymphocyte activation particularly CD3+CD56+ NKT-like and effector CD+ T-cell subsets provides a valuable non-invasive pharmacodynamic indicator of systemic anti-tumor immune activation during nivolumab therapy in advanced NSCLC.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biotechnology and Research, Sir Ganga Ram Hospital, New Delhi, India.",
-        "Department of Medical Oncology, Sir Ganga Hospital, New Delhi, India.",
-        "Immunology Lab, Translational Health Science and Technology Institute, Faridabad, India."
-      ],
-      "doi": "10.3389/fonc.2026.1964690",
-      "date": "2026-11-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43075042/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-43077897",
+      "date": "2026-11-24",
+      "title": "TM7SF3 drives PI3K/AKT-mediated CX3CL1 secretion to promote macrophage M2 polarization in gastric cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43077897/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International immunopharmacology，PMID 为 43077897。",
+      "report": "Gastric cancer (GC) remains one of the leading causes of cancer-related mortality worldwide, macrophages contribute to tumor progression and resistance to immunotherapy. Transmembrane 7 superfamily member 3 (TM7SF3) has been implicated in cellular stress respo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43077576",
+      "date": "2026-11-24",
+      "title": "Defining physiological fidelity in trophoblast organoids: emerging directions for human placental modeling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43077576/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Human reproduction (Oxford, England)，PMID 为 43077576。",
+      "report": "Human trophoblast organoids (TOs) have rapidly transformed the study of human placental development by providing tractable culture systems that recapitulate major trophoblast lineages and developmental processes. Over the past five years, the field has progres...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-43076769",
       "date": "2026-11-24",
@@ -560,34 +646,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43075995",
-      "date": "2026-11-24",
-      "title": "Differential impact of dynein pathogenic variants on mitotic spindle organization and cortical organoid growth.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43075995/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 43075995。",
-      "report": "Mutations in the dynein heavy chain gene (DYNC1H1) cause a spectrum of neurological disorders, including malformations of cortical development (MCD) and spinal muscular atrophy with lower extremity predominance (SMALED). How these mutations differentially affe...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43076896",
       "date": "2026-11-24",
       "title": "Selective suppression and biasing of chemokine receptors CCR9 and ACKR4 through targeting CCL25 with de novo miniproteins.",
@@ -644,6 +702,34 @@
       "fact": "PubMed 记录显示该文献收录于 Work (Reading, Mass.)，PMID 为 43076005。",
       "report": "BackgroundIn the context of the growing integration of artificial intelligence (AI) into radiology, AI-assisted systems are increasingly presented as tools for improving diagnostic accuracy, workflow efficiency, and clinical decision-making. Yet discussions of...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43077287",
+      "date": "2026-11-23",
+      "title": "Lamin B1 physically regulates neuronal migration by modulating nuclear deformability in the developing cortex.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43077287/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 43077287。",
+      "report": "During corticogenesis, newly generated neurons migrate through dense brain tissue to reach specific layers. Nuclear physical properties may affect the process, but their exact contributions remain unclear. Here, we examine Lamin B1 (LB1) as a regulator of nucl...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -766,6 +852,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43078100",
+      "date": "2026-11-23",
+      "title": "Cardiomyocyte-derived circulating extracellular vesicles enable a non-invasive liquid biopsy of human myocardium.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43078100/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 43078100。",
+      "report": "Non-invasive interrogation of difficult-to-sample tissues remains a central challenge in human health. Here, we identify and characterize cardiomyocyte-derived extracellular vesicles (EVs; \"cardiovesicles\") as a liquid interface to the myocardium. Integrating...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-43075131",
       "date": "2026-11-23",
       "title": "Urinary Extracellular Vesicle Nucleic Acids as Potential Biomarkers for Liposarcoma.",
@@ -881,66 +997,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of biomedical informatics，PMID 为 43051310。",
       "report": "To develop and evaluate LeakageHunter-SCFM, an evidence-bounded informatics framework for auditing dataset-lineage evidence and calibrating benchmark-independence claims in single-cell foundation model evaluation. LeakageHunter-SCFM extracts accessions, DOIs,...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43076163",
-      "date": "2026-11-17",
-      "title": "Bibliometric Visualization of Research Hotspots and Emerging Trends in Helicobacter pylori Research: A CiteSpace and VOSViewer Analysis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43076163/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 43076163。",
-      "report": "Helicobacter pylori infection remains a major global public health concern due to its role in gastric malignancy and rising antibiotic resistance, requiring a clear mapping of research trends to guide clinical strategies. A systematic retrieval of Chinese and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43076162",
-      "date": "2026-11-17",
-      "title": "Enzymatic Enrichment of Sensory Epithelia from Late-Stage Mouse Embryonic Stem Cell-Derived Inner Ear Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43076162/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 43076162。",
-      "report": "Stem cell-derived inner ear organoids provide a cost-effective and scalable source of inner ear tissues for developmental and regenerative studies. However, the presence of off-target cell populations, including muscle and mesenchymal cells, reduces the relati...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1092,34 +1148,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 43075058。",
       "report": "Viral myocarditis involves overlapping viral infection, immune-mediated injury, cardiomyocyte stress, and remodeling. Extracellular vesicles (EVs) are increasingly investigated as mediators and biomarkers of these processes, but their interpretation and clinic...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43075042",
-      "date": "2026-11-09",
-      "title": "Granzyme B as a predictive biomarker for therapeutic outcomes in non-small cell lung cancer patients undergoing anti-PD-1 therapy.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43075042/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 43075042。",
-      "report": "Immune checkpoint inhibitors (ICIs) targeting the PD-1/PD-L1 axis have transformed the management of advanced non-small cell lung cancer (NSCLC). However, durable clinical benefit is restricted to a subset of patients, necessitating reliable, minimally invasiv...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
