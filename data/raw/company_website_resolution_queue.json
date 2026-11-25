@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-24T13:48:20+00:00",
+  "capturedAt": "2026-11-25T13:01:15+00:00",
   "count": 592,
   "items": [
     {
@@ -2430,23 +2430,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-beacon-topco",
-      "name": "Beacon Topco, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002094256",
-      "identifiers": {
-        "cik": [
-          "0002094256"
-        ],
-        "ticker": [
-          "CLYD"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-belite-bio",
       "name": "Belite Bio, Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001889109",
@@ -4302,6 +4285,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-clinuvel-pharmaceuticals",
+      "name": "Clinuvel Pharmaceuticals Ltd",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001290877",
+      "identifiers": {
+        "cik": [
+          "0001290877"
+        ],
+        "ticker": [
+          "CUVL"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-cloudbreak",
       "name": "Cloudbreak",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
@@ -4349,23 +4349,6 @@
       },
       "sourceTypes": [
         "Hang Seng Biotech Index constituent"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cnbx-pharmaceuticals",
-      "name": "CNBX Pharmaceuticals Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001343009",
-      "identifiers": {
-        "cik": [
-          "0001343009"
-        ],
-        "ticker": [
-          "CNBX"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },
@@ -7760,6 +7743,23 @@
       },
       "sourceTypes": [
         "HKEX Chapter 18A biotech marker"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-rallybio",
+      "name": "Rallybio Corp",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001739410",
+      "identifiers": {
+        "cik": [
+          "0001739410"
+        ],
+        "ticker": [
+          "AVZO"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },
