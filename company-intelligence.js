@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 624,
     "withProductClaimsCount": 517,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 42,
+    "failedSourceCount": 53,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -104,15 +104,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "We are a life science technology company building products to interrogate, understand and master biology.",
             "text": "我们是一家生命科学技术公司，开发产品以探究、理解和掌握生物学。",
-            "evidenceId": "evidence-company-10x-genomics-investor_relations-4acde96b3042",
-            "sourceUrl": "https://investors.10xgenomics.com/overview/default.aspx",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Contact us by email at investors@10xgenomics.com",
-            "text": "Contact us by email at investors@10xgenomics.com",
-            "evidenceId": "evidence-company-10x-genomics-investor_relations-4acde96b3042",
+            "evidenceId": "evidence-company-10x-genomics-investor_relations-26606601e358",
             "sourceUrl": "https://investors.10xgenomics.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -120,7 +112,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "By providing your email address below, you are providing consent to 10x Genomics to send you the requested Investor Email Alert updates.",
             "text": "By providing your email address below, you are providing consent to 10x Genomics to send you the requested Investor Email Alert updates.",
-            "evidenceId": "evidence-company-10x-genomics-investor_relations-4acde96b3042",
+            "evidenceId": "evidence-company-10x-genomics-investor_relations-26606601e358",
             "sourceUrl": "https://investors.10xgenomics.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -128,7 +120,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "At 10x Genomics, we promise to treat your data with respect and will not share your information with any third party.",
             "text": "At 10x Genomics, we promise to treat your data with respect and will not share your information with any third party.",
-            "evidenceId": "evidence-company-10x-genomics-investor_relations-4acde96b3042",
+            "evidenceId": "evidence-company-10x-genomics-investor_relations-26606601e358",
+            "sourceUrl": "https://investors.10xgenomics.com/overview/default.aspx",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "We have built deep expertise across diverse disciplines including chemistry, biology, hardware and software.",
+            "text": "We have built deep expertise across diverse disciplines including chemistry, biology, hardware and software.",
+            "evidenceId": "evidence-company-10x-genomics-investor_relations-26606601e358",
             "sourceUrl": "https://investors.10xgenomics.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -152,10 +152,10 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-10x-genomics-investor_relations-26606601e358",
           "evidence-sec-0001770787-000162828026071199",
           "evidence-sec-0001770787-000162828026071025",
           "evidence-sec-0001770787-000162828026068867",
-          "evidence-company-10x-genomics-investor_relations-4acde96b3042",
           "evidence-company-10x-genomics-pipeline-489854eb7ec1",
           "evidence-company-10x-genomics-official-39cc8ea1066d",
           "evidence-sec-0001770787-000162828026054491",
@@ -165,6 +165,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-10x-genomics-investor_relations-26606601e358",
+            "date": "2026-11-26",
+            "title": "Investor Relations | 10x Genomics",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-10x-genomics-investor_relations-26606601e358",
+            "sourceUrl": "https://investors.10xgenomics.com/overview/default.aspx"
+          },
           {
             "id": "event-sec-0001770787-000162828026071199",
             "date": "2026-11-06",
@@ -199,17 +210,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026068867/txg-20261028.htm"
           },
           {
-            "id": "event-evidence-company-10x-genomics-investor_relations-4acde96b3042",
-            "date": "2026-09-23",
-            "title": "Investor Relations | 10x Genomics",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-10x-genomics-investor_relations-4acde96b3042",
-            "sourceUrl": "https://investors.10xgenomics.com/overview/default.aspx"
-          },
-          {
             "id": "event-evidence-company-10x-genomics-pipeline-489854eb7ec1",
             "date": "2026-08-10",
             "title": "Products | 10x Genomics",
@@ -234,7 +234,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 5
         },
-        "lastEvidenceDate": "2026-11-06",
+        "lastEvidenceDate": "2026-11-26",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -243,6 +243,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-10x-genomics-investor_relations-26606601e358",
+          "date": "2026-11-26",
+          "title": "Investor Relations | 10x Genomics",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-10x-genomics-investor_relations-26606601e358",
+          "sourceUrl": "https://investors.10xgenomics.com/overview/default.aspx"
+        },
         {
           "id": "event-sec-0001770787-000162828026071199",
           "date": "2026-11-06",
@@ -275,17 +286,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001770787-000162828026068867",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026068867/txg-20261028.htm"
-        },
-        {
-          "id": "event-evidence-company-10x-genomics-investor_relations-4acde96b3042",
-          "date": "2026-09-23",
-          "title": "Investor Relations | 10x Genomics",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-10x-genomics-investor_relations-4acde96b3042",
-          "sourceUrl": "https://investors.10xgenomics.com/overview/default.aspx"
         },
         {
           "id": "event-evidence-company-10x-genomics-pipeline-489854eb7ec1",
@@ -8366,11 +8366,43 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Alnylam 开创了 RNA 干扰治疗，一种创新的基因沉默方法。我们致力于科学，致力于为患者开发变革性药物。；公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
-        "summaryOriginal": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients. The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
+        "summary": "公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。；公司官方页面表述：Alnylam 开创了 RNA 干扰治疗，一种创新的基因沉默方法。我们致力于科学，致力于为患者开发变革性药物。",
+        "summaryOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts. Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis™ (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years",
+            "text": "Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis™ (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years",
+            "evidenceId": "evidence-company-alnylam-investor_relations-ebad8482f7b3",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
+            "text": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
+            "evidenceId": "evidence-company-alnylam-investor_relations-ebad8482f7b3",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Alnylam Collaborator Regeneron Advances CIDEBsiRNA with Promising First-in-Human Results in Patients with MASLD",
+            "text": "Alnylam Collaborator Regeneron Advances CIDEBsiRNA with Promising First-in-Human Results in Patients with MASLD",
+            "evidenceId": "evidence-company-alnylam-investor_relations-ebad8482f7b3",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Alnylam Pharmaceuticals Q3 2026 Earnings Conference Call",
+            "text": "Alnylam Pharmaceuticals Q3 2026 Earnings Conference Call",
+            "evidenceId": "evidence-company-alnylam-investor_relations-ebad8482f7b3",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Our robust pipeline of investigational RNAi therapeutics is focused on both rare and prevalent diseases in several therapeutic areas.",
             "text": "Our robust pipeline of investigational RNAi therapeutics is focused on both rare and prevalent diseases in several therapeutic areas.",
@@ -8386,44 +8418,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing.",
-            "text": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing.",
-            "evidenceId": "evidence-company-alnylam-official-64ed3665d88f",
-            "sourceUrl": "https://www.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Alnylam has pioneered RNA interference (RNAi) therapeutics, an innovative class of medicines that treats diseases in a different way - by silencing the genes that cause or contribute to them.",
-            "text": "Alnylam has pioneered RNA interference (RNAi) therapeutics, an innovative class of medicines that treats diseases in a different way - by silencing the genes that cause or contribute to them.",
-            "evidenceId": "evidence-company-alnylam-official-64ed3665d88f",
-            "sourceUrl": "https://www.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "When RNAi therapeutics silence the genes that cause disease, the activities you love can be amplified .",
-            "text": "When RNAi therapeutics silence the genes that cause disease, the activities you love can be amplified .",
-            "evidenceId": "evidence-company-alnylam-official-64ed3665d88f",
-            "sourceUrl": "https://www.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis™ (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years",
-            "text": "Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis™ (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years",
-            "evidenceId": "evidence-company-alnylam-investor_relations-0995ba872554",
-            "sourceUrl": "https://investors.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-alnylam-investor_relations-ebad8482f7b3",
           "evidence-company-alnylam-official-64ed3665d88f",
-          "evidence-company-alnylam-investor_relations-0995ba872554",
           "evidence-sec-0001178670-000117867026000080",
           "evidence-company-alnylam-pipeline-ae8a015ceacb",
           "evidence-sec-0001178670-000117867026000076",
@@ -8434,6 +8434,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-alnylam-investor_relations-ebad8482f7b3",
+            "date": "2026-11-26",
+            "title": "Information and Resources for Investors | Alnylam",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-alnylam-investor_relations-ebad8482f7b3",
+            "sourceUrl": "https://investors.alnylam.com/"
+          },
+          {
             "id": "event-evidence-company-alnylam-official-64ed3665d88f",
             "date": "2026-11-19",
             "title": "The Leading RNAi Therapeutics Company | Alnylam",
@@ -8443,17 +8454,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-alnylam-official-64ed3665d88f",
             "sourceUrl": "https://www.alnylam.com/"
-          },
-          {
-            "id": "event-evidence-company-alnylam-investor_relations-0995ba872554",
-            "date": "2026-11-19",
-            "title": "Information and Resources for Investors | Alnylam",
-            "eventType": "Official Source Update",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-alnylam-investor_relations-0995ba872554",
-            "sourceUrl": "https://investors.alnylam.com/"
           },
           {
             "id": "event-sec-0001178670-000117867026000080",
@@ -8501,7 +8501,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-11-19",
+        "lastEvidenceDate": "2026-11-26",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -8509,6 +8509,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-alnylam-investor_relations-ebad8482f7b3",
+          "date": "2026-11-26",
+          "title": "Information and Resources for Investors | Alnylam",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-alnylam-investor_relations-ebad8482f7b3",
+          "sourceUrl": "https://investors.alnylam.com/"
+        },
         {
           "id": "event-evidence-company-alnylam-official-64ed3665d88f",
           "date": "2026-11-19",
@@ -8519,17 +8530,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-alnylam-official-64ed3665d88f",
           "sourceUrl": "https://www.alnylam.com/"
-        },
-        {
-          "id": "event-evidence-company-alnylam-investor_relations-0995ba872554",
-          "date": "2026-11-19",
-          "title": "Information and Resources for Investors | Alnylam",
-          "eventType": "Official Source Update",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-alnylam-investor_relations-0995ba872554",
-          "sourceUrl": "https://investors.alnylam.com/"
         },
         {
           "id": "event-sec-0001178670-000117867026000080",
@@ -14660,6 +14660,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "官网中的未来计划属于公司自述，尚未用年报、管理层指引或后续执行结果交叉核验。"
         ]
       },
@@ -14673,6 +14674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "官网中的未来计划属于公司自述，尚未用年报、管理层指引或后续执行结果交叉核验。"
         ]
       },
@@ -19796,6 +19798,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "官网中的未来计划属于公司自述，尚未用年报、管理层指引或后续执行结果交叉核验。"
         ]
       },
@@ -19809,6 +19812,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "官网中的未来计划属于公司自述，尚未用年报、管理层指引或后续执行结果交叉核验。"
         ]
       },
@@ -27736,6 +27740,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -27749,6 +27754,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -35972,6 +35978,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -35985,6 +35992,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -42038,6 +42046,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -42051,6 +42060,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -43332,7 +43342,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-guardant-health-investor_relations-90c972567e3e",
             "date": "2026-11-19",
             "title": "For Investors | Guardant Health Investor Relations",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -43408,7 +43418,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-guardant-health-investor_relations-90c972567e3e",
           "date": "2026-11-19",
           "title": "For Investors | Guardant Health Investor Relations",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -45696,6 +45706,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -45709,6 +45720,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -49049,6 +49061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -49062,6 +49075,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -49582,6 +49596,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -49595,6 +49610,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -52819,6 +52835,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "官网中的未来计划属于公司自述，尚未用年报、管理层指引或后续执行结果交叉核验。"
         ]
       },
@@ -52832,6 +52849,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "官网中的未来计划属于公司自述，尚未用年报、管理层指引或后续执行结果交叉核验。"
         ]
       },
@@ -59433,6 +59451,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -59446,6 +59465,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -61069,7 +61089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
             "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
@@ -61077,7 +61097,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
             "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
@@ -61085,23 +61105,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
-            "sourceUrl": "https://nanoporetech.com/platform",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
-            "text": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
-            "sourceUrl": "https://nanoporetech.com/platform",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Flow cells are the heart of Oxford Nanopore sequencing.",
-            "text": "Flow cells are the heart of Oxford Nanopore sequencing.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
             "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
@@ -61109,6 +61113,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
+            "sourceUrl": "https://nanoporetech.com/platform",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
+            "text": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
+            "sourceUrl": "https://nanoporetech.com/platform",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Oxford Nanopore marks a decade of sequencing in space",
+            "text": "Oxford Nanopore marks a decade of sequencing in space",
             "evidenceId": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
             "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
@@ -61117,7 +61137,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
+          "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
           "evidence-company-oxford-nanopore-official-4ab9403b33a3"
         ]
       },
@@ -61125,14 +61145,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
-            "date": "2026-11-19",
+            "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
+            "date": "2026-11-26",
             "title": "Oxford Nanopore Technologies Platform Solution",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
+            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
             "sourceUrl": "https://nanoporetech.com/platform"
           },
           {
@@ -61158,7 +61178,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-11-19",
+        "lastEvidenceDate": "2026-11-26",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -61167,14 +61187,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
-          "date": "2026-11-19",
+          "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
+          "date": "2026-11-26",
           "title": "Oxford Nanopore Technologies Platform Solution",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
+          "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
           "sourceUrl": "https://nanoporetech.com/platform"
         },
         {
@@ -64245,6 +64265,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -64258,6 +64279,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -65177,7 +65199,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-retro-biosciences-pipeline-c3611e884f05",
             "date": "2026-11-19",
             "title": "Retro Biosciences",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -65219,7 +65241,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-retro-biosciences-pipeline-c3611e884f05",
           "date": "2026-11-19",
           "title": "Retro Biosciences",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -70212,7 +70234,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-tempus-ai-investor_relations-699b2ff64e87",
             "date": "2026-11-19",
             "title": "Investor Relations | Tempus AI, Inc.",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -70288,7 +70310,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-tempus-ai-investor_relations-699b2ff64e87",
           "date": "2026-11-19",
           "title": "Investor Relations | Tempus AI, Inc.",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,

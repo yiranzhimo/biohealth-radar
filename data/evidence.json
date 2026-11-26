@@ -5229,15 +5229,15 @@
       "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
-      "id": "evidence-company-10x-genomics-investor_relations-4acde96b3042",
+      "id": "evidence-company-10x-genomics-investor_relations-26606601e358",
       "signalId": null,
       "companyIds": [
         "10x-genomics"
       ],
-      "publishedAt": "2026-09-23",
-      "snapshotDate": "2026-09-23",
+      "publishedAt": "2026-11-26",
+      "snapshotDate": "2026-11-26",
       "title": "Investor Relations | 10x Genomics",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "10x Genomics — Investor Relations Page",
@@ -5253,7 +5253,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 4acde96b3042e606a14cabe300fd4517b850624182ba9eda1b1d1eac2cd20af4.",
+      "fact": "The official page was captured with normalized-content hash 26606601e358d6de89f7fe1b13435d2a0f47efdeecc779b0eb3cbcaab7f0763c.",
       "report": "公司官方页面表述：我们是一家生命科学技术公司，开发产品以探究、理解和掌握生物学。",
       "reportOriginal": "We are a life science technology company building products to interrogate, understand and master biology.",
       "reportCn": "我们是一家生命科学技术公司，开发产品以探究、理解和掌握生物学。",
@@ -5266,14 +5266,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "4acde96b3042e606a14cabe300fd4517b850624182ba9eda1b1d1eac2cd20af4",
-      "changeType": "unchanged",
+      "contentHash": "26606601e358d6de89f7fe1b13435d2a0f47efdeecc779b0eb3cbcaab7f0763c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "We are a life science technology company building products to interrogate, understand and master biology.",
-        "Contact us by email at investors@10xgenomics.com",
         "By providing your email address below, you are providing consent to 10x Genomics to send you the requested Investor Email Alert updates.",
-        "At 10x Genomics, we promise to treat your data with respect and will not share your information with any third party."
+        "At 10x Genomics, we promise to treat your data with respect and will not share your information with any third party.",
+        "We have built deep expertise across diverse disciplines including chemistry, biology, hardware and software."
       ],
       "businessExcerpts": [
         "We are a life science technology company building products to interrogate, understand and master biology."
@@ -5452,13 +5452,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-alnylam-investor_relations-0995ba872554",
+      "id": "evidence-company-alnylam-investor_relations-ebad8482f7b3",
       "signalId": null,
       "companyIds": [
         "alnylam"
       ],
-      "publishedAt": "2026-11-19",
-      "snapshotDate": "2026-11-19",
+      "publishedAt": "2026-11-26",
+      "snapshotDate": "2026-11-26",
       "title": "Information and Resources for Investors | Alnylam",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -5476,7 +5476,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 0995ba872554eee3482a41c0d9a01c1218fdb7b626c6ce22c3251acaf732759b.",
+      "fact": "The official page was captured with normalized-content hash ebad8482f7b30874d6508ce607ec098e42504179a61ac52af5ca6ea935a914d4.",
       "report": "公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
       "reportOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
       "reportCn": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
@@ -5489,7 +5489,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "0995ba872554eee3482a41c0d9a01c1218fdb7b626c6ce22c3251acaf732759b",
+      "contentHash": "ebad8482f7b30874d6508ce607ec098e42504179a61ac52af5ca6ea935a914d4",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -5904,7 +5904,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "d3181f2759ac6a941b0082303bec836ce648de5602cbbb9fe0a8e8fb26eec2ae",
       "changeType": "updated",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company dedicated to improving the lives of patients suffering from debilitating and life-threatening diseases through the discovery, development, and commercialization of therapies to degrade disease-causing proteins.",
         "Arvinas uses their proprietary technology platform to engineer proteolysis targeting chimeras, or PROTAC protein degraders, that are designed to harness the body’s own natural protein disposal system to selectively and efficiently degrade and remove disease-causing proteins.",
@@ -6145,7 +6145,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "a0af7d0a7e67451610a7bccb31d26d92f6aa986700f038b1a4e7e80df522f84e",
       "changeType": "updated",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Beam Therapeutics is a biotechnology company committed to creating a new class of precision genetic medicines based on our proprietary base editing technology, with a vision of providing lifelong cures to patients suffering from serious diseases.",
         "The Investor Relations website contains information about Beam Therapeutics's business for stockholders, potential investors, and financial analysts.",
@@ -6470,7 +6470,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "97fcf69eb1642be78e8b7c7bab1f535cd5c7fef6b6b2466e58056ddfb50956e4",
       "changeType": "new",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "The Investor Relations website contains information about C4 Therapeutics, Inc.'s business for stockholders, potential investors, and financial analysts.",
         "Learn About Targeted Protein Degradation",
@@ -49592,7 +49592,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "aa53cee949d8c9c7ccadc9318aaf14243d23107e55abc57d806099b18ebefffc",
       "changeType": "updated",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "2018 Annual Meeting of The Society for Immunotherapy of Cancer (SITC) Poster: CRISPR/Cas9 Enables the Efficient Production of Allogeneic CAR-T Cells Engineered to Contain Multiple Genome Edits to Enhance Therapeutic T Cell Function",
         "The Investor Relations website contains information about CRISPR Therapeutics's business for stockholders, potential investors, and financial analysts.",
@@ -49875,7 +49875,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "2f17581be3b5aef89514c4d3908378c684f6579debeaaeb8d43c3ec223607757",
       "changeType": "new",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Read how Genmab's antibody therapeutic products, technologies and expertise are being developed and applied with patients and partners.",
         "Genmab to Present Results from Comprehensive Epcoritamab Development Program Highlighting Potential Across B-Cell Malignancies at the 2026 American Society of Hematology (ASH) Annual Meeting",
@@ -49948,7 +49948,7 @@
       "publishedAt": "2026-11-19",
       "snapshotDate": "2026-11-19",
       "title": "For Investors | Guardant Health Investor Relations",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Guardant Health — Investor Relations Page",
@@ -49978,7 +49978,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "90c972567e3ec80b10c855bf84c3a7671a720d1d433e89724822a4731d0d74ac",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Stay informed with Guardant Health's Investor Relations.",
@@ -50199,7 +50199,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "022f76841de8c6cf88f2e4a782dbcd8f7acaaf566fd4cd1bc8870d6b42c7effd",
       "changeType": "new",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Investor relations (IR) website contains information about our business for stockholders, potential investors, and financial analysts.",
         "Our portfolio of DNA sequencing, array-based technology, and multiomics solutions fuels advancements across life sciences, clinical medicine, and therapeutic discovery.",
@@ -50485,7 +50485,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "8931dcb7616acfba4140c4f836011ad26f34c945e9c48a77ee55fab77b172a47",
       "changeType": "updated",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "The Investor Relations website contains information about Intellia Therapeutics's business for stockholders, potential investors, and financial analysts.",
         "Nov 12, 2026 Intellia Therapeutics Presents Additional Positive Clinical and Patient-Reported Data for Lonvoguran Ziclumeran (lonvo-z) at ACAAI 2026",
@@ -50655,7 +50655,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "896766f1a123b1d5e65bbe4d7f236dd8bcd008f3bd364939f7fcf9efe2112deb",
       "changeType": "new",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "The Investor Relations website contains information about Ionis Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
         "Akcea Therapeutics® is a wholly owned subsidiary of Ionis Pharmaceuticals, Inc.",
@@ -50826,7 +50826,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "717e7166e219a7703c57bff0b4ec5b8ab19b6ecd2319c6247649c13bf7780418",
       "changeType": "updated",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "With over 3,000 employees, Legend Biotech is the largest standalone cell therapy company and a pioneer in treatments that change cancer care forever.",
         "From this platform, the company plans to drive future innovation across its pipeline of cutting-edge cell therapy modalities.",
@@ -51441,7 +51441,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "af1a81f7796c5d6c34a87de7a40a684ecca8db6acfeac856582a41f7487bfbd7",
       "changeType": "new",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Nurix is a clinical-stage biopharmaceutical company advancing targeted protein degradation as the next frontier in drug development.",
         "The Investor Relations website contains information about Nurix Therapeutics, Inc.",
@@ -51800,13 +51800,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-pipeline-bbf2501fd4be",
+      "id": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-11-19",
-      "snapshotDate": "2026-11-19",
+      "publishedAt": "2026-11-26",
+      "snapshotDate": "2026-11-26",
       "title": "Oxford Nanopore Technologies Platform Solution",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -51824,7 +51824,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash bbf2501fd4beebd17a9035f5bf3ada4a4ca916bce49b33150b1b513177589c2a.",
+      "fact": "The official page was captured with normalized-content hash 4b9be1e95e506624d2203946711c2dad6918efdd6a487b28aebd39266103145a.",
       "report": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
       "reportOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
       "reportCn": "发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
@@ -51837,14 +51837,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "bbf2501fd4beebd17a9035f5bf3ada4a4ca916bce49b33150b1b513177589c2a",
+      "contentHash": "4b9be1e95e506624d2203946711c2dad6918efdd6a487b28aebd39266103145a",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-        "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
-        "Flow cells are the heart of Oxford Nanopore sequencing."
+        "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+        "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research."
       ],
       "businessExcerpts": [
         "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research."
@@ -51894,7 +51894,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "8bf842cfaa0bd128d976a3ce0daf24311d8e067a6313445447d226b0e1470b07",
       "changeType": "updated",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Recursion Pharmaceuticals is a leading clinical-stage company pioneering AI-enabled drug discovery and development decoding biology to radically improve lives.",
         "Enabling its mission is the Recursion OS, an AI-native, end-to-end drug discovery and development platform integrating biology, chemistry, and clinical development into a unified intelligence system.",
@@ -52097,7 +52097,7 @@
       "publishedAt": "2026-11-19",
       "snapshotDate": "2026-11-19",
       "title": "Retro Biosciences",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Retro Biosciences — Pipeline Page",
@@ -52127,7 +52127,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c3611e884f05d927738718a8c606d33a0bec8987ad73414d99ce9043598f98c0",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
@@ -52268,7 +52268,7 @@
       "publishedAt": "2026-11-19",
       "snapshotDate": "2026-11-19",
       "title": "Investor Relations | Tempus AI, Inc.",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Tempus AI — Investor Relations Page",
@@ -52298,7 +52298,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "699b2ff64e87655f7350510ff1017c33061a8cb2445506365427c852d0f6628e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Tempus is a technology company advancing precision medicine through the practical application of artificial intelligence, including generative AI, in healthcare to create Intelligent Diagnostics.",
