@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-25T13:01:15+00:00",
+  "capturedAt": "2026-11-26T12:40:43+00:00",
   "count": 592,
   "items": [
     {
@@ -4486,8 +4486,7 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology",
-        "cell therapy"
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -8835,6 +8834,7 @@
       },
       "sourceTypes": [
         "Cell Therapy",
+        "cell therapy",
         "gene therapy"
       ],
       "status": "needs_official_domain"
