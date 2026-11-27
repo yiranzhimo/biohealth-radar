@@ -6191,7 +6191,7 @@
       "publishedAt": "2026-11-25",
       "snapshotDate": "2026-11-25",
       "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Beam Therapeutics — Official Website",
@@ -6221,7 +6221,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "3213a81b2d77a79cfe7734fa4bf438db5cb9b2cf0424964299bf040ecd8de8f4",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Base editing is an emerging class of investigational precision genetic medicines designed to overcome the limitations of existing approaches and expand the potential of genetic medicine.",
@@ -8607,13 +8607,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-abbisko-official-b783717bc9ab",
+      "id": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-abbisko"
       ],
-      "publishedAt": "2026-11-20",
-      "snapshotDate": "2026-11-20",
+      "publishedAt": "2026-11-27",
+      "snapshotDate": "2026-11-27",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -8631,7 +8631,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -8644,7 +8644,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -9565,13 +9565,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-acotec-official-b783717bc9ab",
+      "id": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-acotec"
       ],
-      "publishedAt": "2026-11-20",
-      "snapshotDate": "2026-11-20",
+      "publishedAt": "2026-11-27",
+      "snapshotDate": "2026-11-27",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -9589,7 +9589,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -9602,7 +9602,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -11369,7 +11369,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "7550f90e31bc1c7b45325a84fd94f419006566f116c098f91263a48845d08ea7",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "View all insider transactions Education Beneficial ownership (Schedule 13D and 13G) No beneficial ownership filings for this company in last days",
@@ -43479,7 +43479,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -49752,7 +49752,7 @@
       "publishedAt": "2026-11-25",
       "snapshotDate": "2026-11-25",
       "title": "Emulate | Organ-Chips for Research & Development",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Emulate — Official Website",
@@ -49782,7 +49782,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "b9673c1afc19d24e2b02691c8204e5021f4ea9f4bb2e12ebe8ab8daf3d0d712c",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
@@ -50870,15 +50870,15 @@
       ]
     },
     {
-      "id": "evidence-company-legend-biotech-official-0054baacfab7",
+      "id": "evidence-company-legend-biotech-official-70404230079d",
       "signalId": null,
       "companyIds": [
         "legend-biotech"
       ],
-      "publishedAt": "2026-11-11",
-      "snapshotDate": "2026-11-11",
+      "publishedAt": "2026-11-27",
+      "snapshotDate": "2026-11-27",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -50894,7 +50894,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 0054baacfab7770fe590b218a75e223776ce15d2809dccfd7ab28a2768ad87f6.",
+      "fact": "The official page was captured with normalized-content hash 70404230079d157f012dd361077e4c6cea79efe697a0ed9f0239f5e9ca20fc14.",
       "report": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
       "reportOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "reportCn": "Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
@@ -50907,8 +50907,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "0054baacfab7770fe590b218a75e223776ce15d2809dccfd7ab28a2768ad87f6",
-      "changeType": "unchanged",
+      "contentHash": "70404230079d157f012dd361077e4c6cea79efe697a0ed9f0239f5e9ca20fc14",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
@@ -50981,15 +50981,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-mimetas-official-ec44b71463d0",
+      "id": "evidence-company-mimetas-official-ff88a98df181",
       "signalId": null,
       "companyIds": [
         "mimetas"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-27",
+      "snapshotDate": "2026-11-27",
       "title": "Human Tissue Models for Advanced Drug Discovery",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "MIMETAS — Official Website",
@@ -51005,7 +51005,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ec44b71463d001bfe193ac7577bd91949da52540538bc91dbadf38864cf989c5.",
+      "fact": "The official page was captured with normalized-content hash ff88a98df18166fb03aa07ca26a8ad14dcbe13736adc631c7926269f7b80116c.",
       "report": "公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
       "reportOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
       "reportCn": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
@@ -51018,8 +51018,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ec44b71463d001bfe193ac7577bd91949da52540538bc91dbadf38864cf989c5",
-      "changeType": "unchanged",
+      "contentHash": "ff88a98df18166fb03aa07ca26a8ad14dcbe13736adc631c7926269f7b80116c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
@@ -51035,7 +51035,7 @@
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
         "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
         "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
-        "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development"
+        "Powered by the OrganoPlate® platform, we create human physiology models that scale – delivering multiplexed data for smarter decisions."
       ],
       "planExcerpts": []
     },
@@ -51765,15 +51765,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
+      "id": "evidence-company-oxford-nanopore-official-c4d3382bd866",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-11-14",
-      "snapshotDate": "2026-11-14",
+      "publishedAt": "2026-11-27",
+      "snapshotDate": "2026-11-27",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -51789,7 +51789,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 4ab9403b33a32d31a8598e59f9893aeb5bfe2ec93425e3b2890b66baa2a244c0.",
+      "fact": "The official page was captured with normalized-content hash c4d3382bd86694f3905a088e28cb2793c55df4ce72717839e4fcb57119cc7fbd.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -51802,14 +51802,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "4ab9403b33a32d31a8598e59f9893aeb5bfe2ec93425e3b2890b66baa2a244c0",
-      "changeType": "unchanged",
+      "contentHash": "c4d3382bd86694f3905a088e28cb2793c55df4ce72717839e4fcb57119cc7fbd",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
-        "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
         "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-        "Oxford Nanopore marks a decade of sequencing in space"
+        "Oxford Nanopore marks a decade of sequencing in space",
+        "© 2008 - 2026 Oxford Nanopore Technologies plc."
       ],
       "businessExcerpts": [
         "Appointment of Chief Business Development Officer"

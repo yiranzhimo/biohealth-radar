@@ -96,9 +96,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "10x-genomics",
@@ -149,9 +149,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "akeso",
@@ -173,7 +173,7 @@
       "resolvedUrl": "https://www.akesobio.com/en/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Akeso, Inc | Home",
       "description": "",
       "headings": [],
@@ -198,7 +198,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-17T13:46:30+00:00",
       "capturedAt": "2026-11-17T13:46:30+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "akeso",
@@ -270,7 +270,7 @@
       "resolvedUrl": "https://www.alnylam.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "The Leading RNAi Therapeutics Company | Alnylam",
       "description": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
       "headings": [
@@ -312,7 +312,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "alnylam",
@@ -373,7 +373,7 @@
       "resolvedUrl": "https://www.altoslabs.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Altos Labs",
       "description": "Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.",
       "headings": [
@@ -406,7 +406,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "altos-labs",
@@ -516,9 +516,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "arcellx",
@@ -573,9 +573,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "arvinas",
@@ -626,9 +626,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "arvinas",
@@ -639,7 +639,7 @@
       "resolvedUrl": "https://www.arvinas.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
       "description": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "headings": [
@@ -681,7 +681,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-12T13:10:08+00:00",
       "capturedAt": "2026-11-12T13:10:08+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "arvinas",
@@ -796,9 +796,9 @@
       "firstObservedAt": "2026-08-15T04:59:27+00:00",
       "lastChangedAt": "2026-09-23T09:29:32+00:00",
       "capturedAt": "2026-09-23T09:29:32+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "autolus",
@@ -859,9 +859,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -872,7 +872,7 @@
       "resolvedUrl": "https://beamtx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
       "description": "",
       "headings": [
@@ -895,12 +895,12 @@
       "contentHash": "3213a81b2d77a79cfe7734fa4bf438db5cb9b2cf0424964299bf040ecd8de8f4",
       "visibleTextHash": "8cf492ee5ea3010dc8d9a4efe424cc11a1ca1cbe1ff3db105af4a28655db9459",
       "visibleTextChars": 2158,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-25T14:52:13+00:00",
       "capturedAt": "2026-11-25T14:52:13+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -987,7 +987,7 @@
       "resolvedUrl": "https://beonemedicines.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
       "description": "BeOne Medicines is a global oncology company advancing cancer care through innovative treatments and transformative therapies, improving outcomes for patients worldwide.",
       "headings": [
@@ -1030,7 +1030,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-17T13:46:30+00:00",
       "capturedAt": "2026-11-17T13:46:30+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "beone-medicines",
@@ -1130,9 +1130,9 @@
       "firstObservedAt": "2026-11-19T13:49:16+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "c4-therapeutics",
@@ -1143,7 +1143,7 @@
       "resolvedUrl": "https://c4therapeutics.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Home - C4 Therapeutics",
       "description": "",
       "headings": [
@@ -1169,7 +1169,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-05T12:41:32+00:00",
       "capturedAt": "2026-11-05T12:41:32+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "c4-therapeutics",
@@ -1191,7 +1191,7 @@
       "resolvedUrl": "https://www.calicolabs.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Home - Calico",
       "description": "",
       "headings": [
@@ -1225,7 +1225,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-28T10:46:12+00:00",
       "capturedAt": "2026-10-28T10:46:12+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "calico",
@@ -1281,7 +1281,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688180",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1310,7 +1310,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-06f3336fa2e3",
@@ -1321,7 +1321,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688202",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1350,7 +1350,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-114a81e1c0af",
@@ -1361,7 +1361,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688805",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1390,7 +1390,7 @@
       "firstObservedAt": "2026-09-15T09:34:02+00:00",
       "lastChangedAt": "2026-09-15T09:34:02+00:00",
       "capturedAt": "2026-09-15T09:34:02+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-1338e6c1b759",
@@ -1401,7 +1401,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688382",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1430,7 +1430,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-2237daacb53b",
@@ -1441,7 +1441,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688166",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1470,7 +1470,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-23395bd4136e",
@@ -1521,7 +1521,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688319",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1550,7 +1550,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-28a9294d8677",
@@ -1561,7 +1561,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688656",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1590,7 +1590,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-29af81224424",
@@ -1601,7 +1601,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688277",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1630,7 +1630,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-2e954f991f1e",
@@ -1641,7 +1641,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688443",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1670,7 +1670,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-2ecb4514d497",
@@ -1681,7 +1681,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688278",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1710,7 +1710,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-37878f99d02b",
@@ -1721,7 +1721,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688506",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1750,7 +1750,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-38dcb219a359",
@@ -1761,7 +1761,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688068",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1790,7 +1790,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-3c92f1178f55",
@@ -1884,7 +1884,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688198",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1913,7 +1913,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-46bf883ce905",
@@ -1924,7 +1924,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688617",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -1953,7 +1953,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-4d-molecular-therapeutics",
@@ -2003,7 +2003,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688578",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2032,7 +2032,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-51ebce2d9596",
@@ -2043,7 +2043,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688331",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2072,7 +2072,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-563ae6bb4ac0",
@@ -2083,7 +2083,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688626",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2112,7 +2112,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-56e3097c1baa",
@@ -2123,7 +2123,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688289",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2152,7 +2152,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-5a89d199d059",
@@ -2163,7 +2163,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688266",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2192,7 +2192,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-5dd44c475880",
@@ -2203,7 +2203,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688050",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2232,7 +2232,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-5dd7a8e31714",
@@ -2243,7 +2243,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688161",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2272,7 +2272,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-5ea2006c4a5f",
@@ -2283,7 +2283,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688321",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2312,7 +2312,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-60-degrees-pharmaceuticals",
@@ -2362,7 +2362,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688301",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2391,7 +2391,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-69a5934eccae",
@@ -2402,7 +2402,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688062",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2431,7 +2431,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-6e4fa81780a1",
@@ -2482,7 +2482,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688553",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2511,7 +2511,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-819bfbc1d0f2",
@@ -2522,7 +2522,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688351",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2551,7 +2551,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-81ae1b19ff30",
@@ -2562,7 +2562,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688677",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2591,7 +2591,7 @@
       "firstObservedAt": "2026-09-15T09:34:02+00:00",
       "lastChangedAt": "2026-09-15T09:34:02+00:00",
       "capturedAt": "2026-09-15T09:34:02+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-868d4e3c4dbe",
@@ -2602,7 +2602,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688513",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2631,7 +2631,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-8737023e7840",
@@ -2682,7 +2682,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688177",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2711,7 +2711,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-958dca202897",
@@ -2722,7 +2722,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688363",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2751,7 +2751,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-97d3efdd3446",
@@ -2762,7 +2762,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688759",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2791,7 +2791,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-98af7e3aff90",
@@ -2802,7 +2802,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688222",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2831,7 +2831,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-9a455318ea07",
@@ -2842,7 +2842,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688016",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2871,7 +2871,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-9f07e257c157",
@@ -2882,7 +2882,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688108",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2911,7 +2911,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-9fc8ecbf25c5",
@@ -2922,7 +2922,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688271",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -2951,7 +2951,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-aardvark-therapeutics",
@@ -3044,7 +3044,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -3068,15 +3068,15 @@
         "Education Centre A centralised education platform, including e-Learning."
       ],
       "planExcerpts": [],
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
-      "visibleTextHash": "36cae0dee02788282bdb277aa5398b737ca09395b3656ff2f8abea605c0e1621",
-      "visibleTextChars": 8633,
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
+      "visibleTextHash": "4ed6693a9f6bd4c5552e231cfc84f4a093580dab9894598fef57138903c1e683",
+      "visibleTextChars": 8262,
       "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-11-20T13:30:41+00:00",
-      "capturedAt": "2026-11-20T13:30:41+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastChangedAt": "2026-11-27T14:14:35+00:00",
+      "capturedAt": "2026-11-27T14:14:35+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-abbott-laboratories",
@@ -3243,7 +3243,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688336",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -3272,7 +3272,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-abivax-s-a",
@@ -3711,7 +3711,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -3735,15 +3735,15 @@
         "Education Centre A centralised education platform, including e-Learning."
       ],
       "planExcerpts": [],
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
-      "visibleTextHash": "36cae0dee02788282bdb277aa5398b737ca09395b3656ff2f8abea605c0e1621",
-      "visibleTextChars": 8633,
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
+      "visibleTextHash": "4ed6693a9f6bd4c5552e231cfc84f4a093580dab9894598fef57138903c1e683",
+      "visibleTextChars": 8262,
       "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-11-20T13:30:41+00:00",
-      "capturedAt": "2026-11-20T13:30:41+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastChangedAt": "2026-11-27T14:14:35+00:00",
+      "capturedAt": "2026-11-27T14:14:35+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-acrivon-therapeutics",
@@ -4641,7 +4641,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0000882291",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -4669,7 +4669,7 @@
       "firstObservedAt": "2026-11-13T12:32:37+00:00",
       "lastChangedAt": "2026-11-13T12:32:37+00:00",
       "capturedAt": "2026-11-13T12:32:37+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-aeton-therapeutics",
@@ -4944,7 +4944,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001763329",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -4967,12 +4967,12 @@
       "contentHash": "7550f90e31bc1c7b45325a84fd94f419006566f116c098f91263a48845d08ea7",
       "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
       "visibleTextChars": 2482,
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-11-20T13:30:41+00:00",
       "lastChangedAt": "2026-11-20T13:30:41+00:00",
       "capturedAt": "2026-11-20T13:30:41+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-aim-immunotech",
@@ -12273,7 +12273,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688276",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -12302,7 +12302,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-cabaletta-bio",
@@ -13246,7 +13246,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688139",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -13275,7 +13275,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-cdt-equity",
@@ -15754,7 +15754,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688131",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -15783,7 +15783,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-d9ba58a62bfd",
@@ -15794,7 +15794,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688114",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -15823,7 +15823,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-dab769becc09",
@@ -15834,7 +15834,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688029",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -15863,7 +15863,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-dauntless-biotherapeutics",
@@ -15942,7 +15942,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688658",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -15971,7 +15971,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-definium-therapeutics",
@@ -16304,7 +16304,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688105",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -16333,7 +16333,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-e1183778e53f",
@@ -16344,7 +16344,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688192",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -16373,7 +16373,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-ec59513df0c9",
@@ -16384,7 +16384,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688758",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -16413,7 +16413,7 @@
       "firstObservedAt": "2026-09-15T09:34:02+00:00",
       "lastChangedAt": "2026-09-15T09:34:02+00:00",
       "capturedAt": "2026-09-15T09:34:02+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-ecogenome",
@@ -16535,7 +16535,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688765",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -16564,7 +16564,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-eikon-therapeutics",
@@ -17381,7 +17381,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688796",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -17410,7 +17410,7 @@
       "firstObservedAt": "2026-09-15T09:34:02+00:00",
       "lastChangedAt": "2026-09-15T09:34:02+00:00",
       "capturedAt": "2026-09-15T09:34:02+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-fec21b7f896b",
@@ -17421,7 +17421,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688520",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -17450,7 +17450,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-fennec-pharmaceuticals",
@@ -17500,7 +17500,7 @@
       "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688091",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "公司概况 | 上海证券交易所",
       "description": "",
       "headings": [
@@ -17529,7 +17529,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-fimbrion-therapeutics",
@@ -27156,7 +27156,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0002141116",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-27T13:30:41+00:00",
+      "nextCheckAt": "2026-12-04T14:14:35+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -27179,12 +27179,12 @@
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
       "visibleTextChars": 2482,
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-11-20T13:30:41+00:00",
       "lastChangedAt": "2026-11-20T13:30:41+00:00",
       "capturedAt": "2026-11-20T13:30:41+00:00",
-      "lastCheckedAt": "2026-11-20T13:30:41+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "candidate-scarab-genomics",
@@ -31395,9 +31395,9 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -31408,7 +31408,7 @@
       "resolvedUrl": "https://crisprtx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Home | CRISPR Therapeutics",
       "description": "",
       "headings": [
@@ -31448,7 +31448,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-11-11T12:05:12+00:00",
       "capturedAt": "2026-11-11T12:05:12+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -31498,7 +31498,7 @@
       "resolvedUrl": "https://emulatebio.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Emulate | Organ-Chips for Research & Development",
       "description": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
       "headings": [
@@ -31531,12 +31531,12 @@
       "contentHash": "b9673c1afc19d24e2b02691c8204e5021f4ea9f4bb2e12ebe8ab8daf3d0d712c",
       "visibleTextHash": "80e113e825e04df539a20f3569e623d9db1fc6c0d297df24a4ef54f6aa0730a2",
       "visibleTextChars": 3766,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-25T14:52:13+00:00",
       "capturedAt": "2026-11-25T14:52:13+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "emulate",
@@ -31632,9 +31632,9 @@
       "firstObservedAt": "2026-11-19T13:49:16+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "genmab",
@@ -31645,7 +31645,7 @@
       "resolvedUrl": "https://www.genmab.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Welcome to Genmab",
       "description": "",
       "headings": [],
@@ -31661,7 +31661,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "genmab",
@@ -31726,7 +31726,7 @@
       "resolvedUrl": "https://guardanthealth.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Guardant Health | Conquering Cancer With Data",
       "description": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
       "headings": [
@@ -31758,7 +31758,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-11-21T12:56:57+00:00",
       "capturedAt": "2026-11-21T12:56:57+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "guardant-health",
@@ -31804,7 +31804,7 @@
       "resolvedUrl": "https://www.huborganoids.nl/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Patient-derived organoids CRO | Drug discovery | Organoid development services - HUB Organoids",
       "description": "A PATIENT IN THE LAB® HUB Organoids predict patient response to treatment. Our patented technology allows the development of patient-derived “mini-organs in a dish” from both healthy and diseased tissues to close the gap between the lab and the clinic.",
       "headings": [
@@ -31846,7 +31846,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-02T08:58:56+00:00",
       "capturedAt": "2026-09-02T08:58:56+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "hub-organoids",
@@ -31907,9 +31907,9 @@
       "firstObservedAt": "2026-11-19T13:49:16+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "illumina",
@@ -31920,7 +31920,7 @@
       "resolvedUrl": "https://www.illumina.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
       "description": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "headings": [
@@ -31964,7 +31964,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-12T13:10:08+00:00",
       "capturedAt": "2026-11-12T13:10:08+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "illumina",
@@ -32030,7 +32030,7 @@
       "resolvedUrl": "https://insilico.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Main | Insilico Medicine",
       "description": "Generative AI and Automation for Longevity and Sustainability",
       "headings": [
@@ -32065,7 +32065,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-01T11:08:29+00:00",
       "capturedAt": "2026-10-01T11:08:29+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "insilico-medicine",
@@ -32144,9 +32144,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "intellia",
@@ -32157,7 +32157,7 @@
       "resolvedUrl": "https://www.intelliatx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Intellia Therapeutics - Revolutionize the course of medicine",
       "description": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
       "headings": [
@@ -32196,7 +32196,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-11T12:05:12+00:00",
       "capturedAt": "2026-11-11T12:05:12+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "intellia",
@@ -32292,9 +32292,9 @@
       "firstObservedAt": "2026-11-19T13:49:16+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "ionis",
@@ -32305,7 +32305,7 @@
       "resolvedUrl": "https://ionis.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Innovating to Change the Course of Human Health | IONIS",
       "description": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "headings": [
@@ -32346,7 +32346,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "ionis",
@@ -32456,9 +32456,9 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "legend-biotech",
@@ -32469,7 +32469,7 @@
       "resolvedUrl": "https://legendbiotech.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "HOME - Legend Biotech",
       "description": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "headings": [
@@ -32505,15 +32505,15 @@
         "FDA Clearance of IND Application for LB2501, an Investigational CD19/CD20 In Vivo CAR-T Therapy"
       ],
       "planExcerpts": [],
-      "contentHash": "0054baacfab7770fe590b218a75e223776ce15d2809dccfd7ab28a2768ad87f6",
-      "visibleTextHash": "351a4c215600b33414271db6a27927af33c5b6743fb200e6623ea10ddabd8f81",
-      "visibleTextChars": 3985,
-      "changeType": "unchanged",
+      "contentHash": "70404230079d157f012dd361077e4c6cea79efe697a0ed9f0239f5e9ca20fc14",
+      "visibleTextHash": "1b796e12507bd7e591ef35717d43d954911c14953b7d9b5f3141446af6638b1f",
+      "visibleTextChars": 3956,
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
-      "lastChangedAt": "2026-11-11T12:05:12+00:00",
-      "capturedAt": "2026-11-11T12:05:12+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastChangedAt": "2026-11-27T14:14:35+00:00",
+      "capturedAt": "2026-11-27T14:14:35+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "legend-biotech",
@@ -32555,7 +32555,7 @@
       "resolvedUrl": "https://www.mimetas.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Human Tissue Models for Advanced Drug Discovery",
       "description": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
       "headings": [
@@ -32569,8 +32569,8 @@
         "Driving Pharmaceutical Innovation Across Therapeutic Areas",
         "NEW: OrganoAccess™",
         "Latest Developments",
-        "Probiotic Screening Using an Immunocompetent Gut-on-a-Chip Model",
-        "Vessels Under Pressure: Predicting Drug-Induced Vascular Injury with NAMs"
+        "Unidirectional, reproducible, scalable: Long-term perfusable microvascular networks for acute and chronic compound-specific response profiling in a microfluidic system.",
+        "Probiotic Screening Using an Immunocompetent Gut-on-a-Chip Model"
       ],
       "excerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
@@ -32586,19 +32586,19 @@
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
         "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
         "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
-        "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development"
+        "Powered by the OrganoPlate® platform, we create human physiology models that scale – delivering multiplexed data for smarter decisions."
       ],
       "planExcerpts": [],
-      "contentHash": "ec44b71463d001bfe193ac7577bd91949da52540538bc91dbadf38864cf989c5",
-      "visibleTextHash": "5e190cb37902f5ae33c6e1404e7a17a209d2f1500b4005da16fcc1778c79ac35",
-      "visibleTextChars": 6502,
-      "lastModified": "Thu, 19 Nov 2026 22:34:25 GMT",
-      "changeType": "unchanged",
+      "contentHash": "ff88a98df18166fb03aa07ca26a8ad14dcbe13736adc631c7926269f7b80116c",
+      "visibleTextHash": "e004e4516eb8a835b3e5036b6212b82c844c21041031bc55815f0ad737960ecc",
+      "visibleTextChars": 6991,
+      "lastModified": "Fri, 27 Nov 2026 11:35:22 GMT",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-11-21T12:56:57+00:00",
-      "capturedAt": "2026-11-21T12:56:57+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastChangedAt": "2026-11-27T14:14:35+00:00",
+      "capturedAt": "2026-11-27T14:14:35+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "mimetas",
@@ -32696,7 +32696,7 @@
       "resolvedUrl": "https://www.modernatx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Pioneering mRNA technology - Moderna",
       "description": "Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna.",
       "headings": [
@@ -32737,7 +32737,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-11-14T11:42:13+00:00",
       "capturedAt": "2026-11-14T11:42:13+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "moderna",
@@ -32846,7 +32846,7 @@
       "resolvedUrl": "https://www.natera.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Natera: A global leader in cell-free DNA testing",
       "description": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "headings": [
@@ -32882,7 +32882,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-23T15:15:05+00:00",
       "capturedAt": "2026-11-23T15:15:05+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "natera",
@@ -32984,9 +32984,9 @@
       "firstObservedAt": "2026-11-19T13:49:16+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "nurix",
@@ -32997,7 +32997,7 @@
       "resolvedUrl": "https://www.nurixtx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Nurix | Medicines to Outmatch Disease",
       "description": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
       "headings": [
@@ -33037,7 +33037,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-12T13:10:08+00:00",
       "capturedAt": "2026-11-12T13:10:08+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "nurix",
@@ -33143,7 +33143,7 @@
       "resolvedUrl": "https://nykode.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Home - Nykode",
       "description": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "headings": [
@@ -33182,7 +33182,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-23T15:15:05+00:00",
       "capturedAt": "2026-11-23T15:15:05+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "nykode-therapeutics",
@@ -33254,7 +33254,7 @@
       "resolvedUrl": "https://nanoporetech.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Welcome to Oxford Nanopore Technologies",
       "description": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "headings": [
@@ -33265,13 +33265,14 @@
         "A trusted partner",
         "Testimonials",
         "Latest news & insights",
-        "Healthcare leaders expect genomics to become part of routine care within a decade"
+        "Healthcare leaders expect genomics to become part of routine care within a decade",
+        "Get the latest news and insights"
       ],
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
-        "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
         "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-        "Oxford Nanopore marks a decade of sequencing in space"
+        "Oxford Nanopore marks a decade of sequencing in space",
+        "© 2008 - 2026 Oxford Nanopore Technologies plc."
       ],
       "businessExcerpts": [
         "Appointment of Chief Business Development Officer"
@@ -33280,15 +33281,15 @@
         "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
       ],
       "planExcerpts": [],
-      "contentHash": "4ab9403b33a32d31a8598e59f9893aeb5bfe2ec93425e3b2890b66baa2a244c0",
-      "visibleTextHash": "dcb92452feb1860c2cc8361dd71eddee3b6fda3ff9d5b20b3fd9e9076563787c",
-      "visibleTextChars": 6001,
-      "changeType": "unchanged",
+      "contentHash": "c4d3382bd86694f3905a088e28cb2793c55df4ce72717839e4fcb57119cc7fbd",
+      "visibleTextHash": "8c4d3b111a361075b71da81c7bd2cc98774b586769b1f4b5a740bc11a5db09ab",
+      "visibleTextChars": 7275,
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-11-14T11:42:13+00:00",
-      "capturedAt": "2026-11-14T11:42:13+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastChangedAt": "2026-11-27T14:14:35+00:00",
+      "capturedAt": "2026-11-27T14:14:35+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "oxford-nanopore",
@@ -33391,9 +33392,9 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-26T14:19:38+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-26T14:19:38+00:00"
+      "lastFailureAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "recursion",
@@ -33404,7 +33405,7 @@
       "resolvedUrl": "https://recursion.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Pioneering AI Drug Discovery | Recursion",
       "description": "Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today!",
       "headings": [
@@ -33446,7 +33447,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-11-19T13:49:16+00:00",
       "capturedAt": "2026-11-19T13:49:16+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "recursion",
@@ -33505,7 +33506,7 @@
       "resolvedUrl": "https://www.retro.bio/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Retro Biosciences",
       "description": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
       "headings": [
@@ -33540,7 +33541,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-14T11:42:13+00:00",
       "capturedAt": "2026-11-14T11:42:13+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "retro-biosciences",
@@ -33649,7 +33650,7 @@
       "resolvedUrl": "https://www.sumitomo-pharma.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "Sumitomo Pharma Co., Ltd.",
       "description": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "headings": [
@@ -33689,7 +33690,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-11-11T12:05:12+00:00",
       "capturedAt": "2026-11-11T12:05:12+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "sumitomo-pharma",
@@ -33762,8 +33763,8 @@
       "sourceType": "Company",
       "requestedUrl": "https://www.tempus.com/",
       "lastCheckStatus": "failed",
-      "lastFailureAt": "2026-11-25T14:52:13+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00",
+      "lastFailureAt": "2026-11-27T14:14:35+00:00",
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00",
       "lastCheckError": "HTTPError"
     },
     {
@@ -33822,7 +33823,7 @@
       "resolvedUrl": "https://www.xtalpi.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-11-26T14:52:13+00:00",
+      "nextCheckAt": "2026-11-28T14:14:35+00:00",
       "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
       "description": "以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。",
       "headings": [
@@ -33859,7 +33860,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-12T12:22:30+00:00",
       "capturedAt": "2026-10-12T12:22:30+00:00",
-      "lastCheckedAt": "2026-11-25T14:52:13+00:00"
+      "lastCheckedAt": "2026-11-27T14:14:35+00:00"
     },
     {
       "companyId": "xtalpi",

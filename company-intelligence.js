@@ -1063,7 +1063,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-abbisko-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1071,7 +1071,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-abbisko-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1079,7 +1079,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1087,7 +1087,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1095,7 +1095,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-abbisko-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1103,7 +1103,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-abbisko-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1111,21 +1111,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-abbisko-official-b783717bc9ab"
+          "evidence-company-candidate-abbisko-official-0dd2a5ec14f1"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-abbisko-official-b783717bc9ab",
-            "date": "2026-11-20",
+            "id": "event-evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "date": "2026-11-27",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-abbisko-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en"
           }
         ],
@@ -1140,7 +1140,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-20",
+        "lastEvidenceDate": "2026-11-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -1149,14 +1149,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-abbisko-official-b783717bc9ab",
-          "date": "2026-11-20",
+          "id": "event-evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+          "date": "2026-11-27",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-abbisko-official-b783717bc9ab",
+          "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en"
         }
       ]
@@ -2926,7 +2926,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-acotec-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2934,7 +2934,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-acotec-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2942,7 +2942,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-acotec-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2950,7 +2950,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-acotec-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2958,7 +2958,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-acotec-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2966,7 +2966,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-acotec-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2974,21 +2974,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-acotec-official-b783717bc9ab"
+          "evidence-company-candidate-acotec-official-0dd2a5ec14f1"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-acotec-official-b783717bc9ab",
-            "date": "2026-11-20",
+            "id": "event-evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "date": "2026-11-27",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-acotec-official-b783717bc9ab",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en"
           }
         ],
@@ -3003,7 +3003,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-20",
+        "lastEvidenceDate": "2026-11-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -3012,14 +3012,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-acotec-official-b783717bc9ab",
-          "date": "2026-11-20",
+          "id": "event-evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+          "date": "2026-11-27",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-acotec-official-b783717bc9ab",
+          "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en"
         }
       ]
@@ -19743,7 +19743,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-beam-therapeutics-official-3213a81b2d77",
             "date": "2026-11-25",
             "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -19821,7 +19821,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-beam-therapeutics-official-3213a81b2d77",
           "date": "2026-11-25",
           "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -39243,7 +39243,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-emulate-official-b9673c1afc19",
             "date": "2026-11-25",
             "title": "Emulate | Organ-Chips for Research & Development",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -39285,7 +39285,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-emulate-official-b9673c1afc19",
           "date": "2026-11-25",
           "title": "Emulate | Organ-Chips for Research & Development",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -52685,47 +52685,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：了解公司如何努力为股东创造长期价值。；公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
-        "summaryOriginal": "Learn how we strive to deliver long-term value to our shareholders. Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
+        "summary": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。；公司官方页面表述：了解公司如何努力为股东创造长期价值。",
+        "summaryOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world. Learn how we strive to deliver long-term value to our shareholders.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "With over 3,000 employees, Legend Biotech is the largest standalone cell therapy company and a pioneer in treatments that change cancer care forever.",
-            "text": "With over 3,000 employees, Legend Biotech is the largest standalone cell therapy company and a pioneer in treatments that change cancer care forever.",
-            "evidenceId": "evidence-company-legend-biotech-investor_relations-717e7166e219",
-            "sourceUrl": "https://investors.legendbiotech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "From this platform, the company plans to drive future innovation across its pipeline of cutting-edge cell therapy modalities.",
-            "text": "公司计划以该平台为基础，推动其前沿细胞治疗技术管线的未来创新。",
-            "evidenceId": "evidence-company-legend-biotech-investor_relations-717e7166e219",
-            "sourceUrl": "https://investors.legendbiotech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Centered in the US, Legend is building an end-to-end cell therapy company by expanding its leadership to maximize CARVYKTI’s patient access and therapeutic potential.",
-            "text": "Centered in the US, Legend is building an end-to-end cell therapy company by expanding its leadership to maximize CARVYKTI’s patient access and therapeutic potential.",
-            "evidenceId": "evidence-company-legend-biotech-investor_relations-717e7166e219",
-            "sourceUrl": "https://investors.legendbiotech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "The company is at the forefront of the CAR-T cell therapy revolution with CARVYKTI®, a one-time treatment for relapsed or refractory multiple myeloma, which it develops and markets with collaborator Johnson & Johnson.",
-            "text": "The company is at the forefront of the CAR-T cell therapy revolution with CARVYKTI®, a one-time treatment for relapsed or refractory multiple myeloma, which it develops and markets with collaborator Johnson & Johnson.",
-            "evidenceId": "evidence-company-legend-biotech-investor_relations-717e7166e219",
-            "sourceUrl": "https://investors.legendbiotech.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
             "textOriginal": "Legend Biotech to Showcase CARVYKTI® Leadership and Next-Generation Cell Therapy Innovation at ASH 2026",
             "text": "Legend Biotech to Showcase CARVYKTI® Leadership and Next-Generation Cell Therapy Innovation at ASH 2026",
-            "evidenceId": "evidence-company-legend-biotech-official-0054baacfab7",
+            "evidenceId": "evidence-company-legend-biotech-official-70404230079d",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -52733,16 +52701,48 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
             "text": "Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
-            "evidenceId": "evidence-company-legend-biotech-official-0054baacfab7",
+            "evidenceId": "evidence-company-legend-biotech-official-70404230079d",
             "sourceUrl": "https://legendbiotech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
+            "text": "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
+            "evidenceId": "evidence-company-legend-biotech-official-70404230079d",
+            "sourceUrl": "https://legendbiotech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "FDA Clearance of IND Application for LB2501, an Investigational CD19/CD20 In Vivo CAR-T Therapy",
+            "text": "FDA Clearance of IND Application for LB2501, an Investigational CD19/CD20 In Vivo CAR-T Therapy",
+            "evidenceId": "evidence-company-legend-biotech-official-70404230079d",
+            "sourceUrl": "https://legendbiotech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
+            "text": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
+            "evidenceId": "evidence-company-legend-biotech-official-70404230079d",
+            "sourceUrl": "https://legendbiotech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "With over 3,000 employees, Legend Biotech is the largest standalone cell therapy company and a pioneer in treatments that change cancer care forever.",
+            "text": "With over 3,000 employees, Legend Biotech is the largest standalone cell therapy company and a pioneer in treatments that change cancer care forever.",
+            "evidenceId": "evidence-company-legend-biotech-investor_relations-717e7166e219",
+            "sourceUrl": "https://investors.legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-legend-biotech-official-70404230079d",
           "evidence-company-legend-biotech-investor_relations-717e7166e219",
-          "evidence-company-legend-biotech-official-0054baacfab7",
           "evidence-sec-0001801198-000180119826000026",
           "evidence-sec-0001801198-000117184326007100",
           "evidence-sec-0001801198-000117184326006646",
@@ -52778,6 +52778,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "observedMoves": [
           {
+            "id": "event-evidence-company-legend-biotech-official-70404230079d",
+            "date": "2026-11-27",
+            "title": "HOME - Legend Biotech",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-legend-biotech-official-70404230079d",
+            "sourceUrl": "https://legendbiotech.com/"
+          },
+          {
             "id": "event-evidence-company-legend-biotech-investor_relations-717e7166e219",
             "date": "2026-11-19",
             "title": "Investor Relations - Legend Biotech",
@@ -52787,17 +52798,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-legend-biotech-investor_relations-717e7166e219",
             "sourceUrl": "https://investors.legendbiotech.com/"
-          },
-          {
-            "id": "event-evidence-company-legend-biotech-official-0054baacfab7",
-            "date": "2026-11-11",
-            "title": "HOME - Legend Biotech",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-legend-biotech-official-0054baacfab7",
-            "sourceUrl": "https://legendbiotech.com/"
           },
           {
             "id": "event-sec-0001801198-000180119826000026",
@@ -52846,7 +52846,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 11
         },
-        "lastEvidenceDate": "2026-11-19",
+        "lastEvidenceDate": "2026-11-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -52855,6 +52855,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-legend-biotech-official-70404230079d",
+          "date": "2026-11-27",
+          "title": "HOME - Legend Biotech",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-legend-biotech-official-70404230079d",
+          "sourceUrl": "https://legendbiotech.com/"
+        },
         {
           "id": "event-evidence-company-legend-biotech-investor_relations-717e7166e219",
           "date": "2026-11-19",
@@ -52865,17 +52876,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-legend-biotech-investor_relations-717e7166e219",
           "sourceUrl": "https://investors.legendbiotech.com/"
-        },
-        {
-          "id": "event-evidence-company-legend-biotech-official-0054baacfab7",
-          "date": "2026-11-11",
-          "title": "HOME - Legend Biotech",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-legend-biotech-official-0054baacfab7",
-          "sourceUrl": "https://legendbiotech.com/"
         },
         {
           "id": "event-sec-0001801198-000180119826000026",
@@ -56115,7 +56115,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
             "text": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
-            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "evidenceId": "evidence-company-mimetas-official-ff88a98df181",
             "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56123,7 +56123,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
             "text": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
-            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "evidenceId": "evidence-company-mimetas-official-ff88a98df181",
             "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56131,15 +56131,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
             "text": "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
-            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "evidenceId": "evidence-company-mimetas-official-ff88a98df181",
             "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
-            "text": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
-            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "textOriginal": "Powered by the OrganoPlate® platform, we create human physiology models that scale – delivering multiplexed data for smarter decisions.",
+            "text": "Powered by the OrganoPlate® platform, we create human physiology models that scale – delivering multiplexed data for smarter decisions.",
+            "evidenceId": "evidence-company-mimetas-official-ff88a98df181",
             "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56147,7 +56147,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Read about our latest research, developments and launches.",
             "text": "Read about our latest research, developments and launches.",
-            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "evidenceId": "evidence-company-mimetas-official-ff88a98df181",
             "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56163,7 +56163,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-mimetas-official-ec44b71463d0",
+          "evidence-company-mimetas-official-ff88a98df181",
           "evidence-company-mimetas-pipeline-02c34f2b1653"
         ]
       },
@@ -56171,14 +56171,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-mimetas-official-ec44b71463d0",
-            "date": "2026-11-21",
+            "id": "event-evidence-company-mimetas-official-ff88a98df181",
+            "date": "2026-11-27",
             "title": "Human Tissue Models for Advanced Drug Discovery",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "evidenceId": "evidence-company-mimetas-official-ff88a98df181",
             "sourceUrl": "https://www.mimetas.com/"
           },
           {
@@ -56204,7 +56204,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-11-21",
+        "lastEvidenceDate": "2026-11-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56213,14 +56213,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-mimetas-official-ec44b71463d0",
-          "date": "2026-11-21",
+          "id": "event-evidence-company-mimetas-official-ff88a98df181",
+          "date": "2026-11-27",
           "title": "Human Tissue Models for Advanced Drug Discovery",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+          "evidenceId": "evidence-company-mimetas-official-ff88a98df181",
           "sourceUrl": "https://www.mimetas.com/"
         },
         {
@@ -61082,24 +61082,48 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。；公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
-        "summaryOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements. Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
+        "summary": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。；公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
+        "summaryOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads. Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-c4d3382bd866",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-c4d3382bd866",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+            "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+            "evidenceId": "evidence-company-oxford-nanopore-official-c4d3382bd866",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Oxford Nanopore marks a decade of sequencing in space",
+            "text": "Oxford Nanopore marks a decade of sequencing in space",
+            "evidenceId": "evidence-company-oxford-nanopore-official-c4d3382bd866",
+            "sourceUrl": "https://nanoporetech.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "© 2008 - 2026 Oxford Nanopore Technologies plc.",
+            "text": "© 2008 - 2026 Oxford Nanopore Technologies plc.",
+            "evidenceId": "evidence-company-oxford-nanopore-official-c4d3382bd866",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
@@ -61110,41 +61134,28 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://nanoporetech.com/platform",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
-            "sourceUrl": "https://nanoporetech.com/platform",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
-            "text": "Choose from pocket-sized to benchtop devices with plug-and-play setup, intuitive workflows, and simple analysis tools that keep the focus on your research.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
-            "sourceUrl": "https://nanoporetech.com/platform",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Oxford Nanopore marks a decade of sequencing in space",
-            "text": "Oxford Nanopore marks a decade of sequencing in space",
-            "evidenceId": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
-            "sourceUrl": "https://nanoporetech.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
-          "evidence-company-oxford-nanopore-official-4ab9403b33a3"
+          "evidence-company-oxford-nanopore-official-c4d3382bd866",
+          "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-oxford-nanopore-official-c4d3382bd866",
+            "date": "2026-11-27",
+            "title": "Welcome to Oxford Nanopore Technologies",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-oxford-nanopore-official-c4d3382bd866",
+            "sourceUrl": "https://nanoporetech.com/"
+          },
           {
             "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
             "date": "2026-11-26",
@@ -61155,17 +61166,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
             "sourceUrl": "https://nanoporetech.com/platform"
-          },
-          {
-            "id": "event-evidence-company-oxford-nanopore-official-4ab9403b33a3",
-            "date": "2026-11-14",
-            "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
-            "sourceUrl": "https://nanoporetech.com/"
           }
         ],
         "inferences": [],
@@ -61179,7 +61179,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-11-26",
+        "lastEvidenceDate": "2026-11-27",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -61187,6 +61187,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-oxford-nanopore-official-c4d3382bd866",
+          "date": "2026-11-27",
+          "title": "Welcome to Oxford Nanopore Technologies",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-oxford-nanopore-official-c4d3382bd866",
+          "sourceUrl": "https://nanoporetech.com/"
+        },
         {
           "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
           "date": "2026-11-26",
@@ -61197,17 +61208,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
           "sourceUrl": "https://nanoporetech.com/platform"
-        },
-        {
-          "id": "event-evidence-company-oxford-nanopore-official-4ab9403b33a3",
-          "date": "2026-11-14",
-          "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
-          "sourceUrl": "https://nanoporetech.com/"
         }
       ]
     },
