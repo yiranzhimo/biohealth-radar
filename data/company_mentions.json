@@ -4,88 +4,15 @@
   "asOfDate": "2026-11-27",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-2440fa65c068511a",
-      "observedName": "Oncovir, Inc.",
-      "normalizedName": "oncovir",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01437605",
-      "sourceDate": "2019-12-20",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01437605",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Phase II Study to Assess the Safety and Immunogenicity of recMAGE-A3+AS15 ASCI With or Without Poly IC:LC"
-    },
-    {
-      "id": "mention-clinicaltrials-4afdcb8991b9ed7b",
-      "observedName": "Astex Pharmaceuticals, Inc.",
-      "normalizedName": "astex pharmaceuticals",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04013880",
-      "sourceDate": "2020-07-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04013880",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "ASTX727 and FT-2102 in Treating IDH1-Mutated Recurrent/Refractory Myelodysplastic Syndrome or Acute Myeloid Leukemia"
-    },
-    {
-      "id": "mention-clinicaltrials-4b1158dafca3db6e",
-      "observedName": "NanoString Technologies, Inc.",
-      "normalizedName": "nanostring technologies",
+      "id": "mention-clinicaltrials-1792793a299d305a",
+      "observedName": "Immunocore Ltd",
+      "normalizedName": "immunocore",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01974856",
-      "sourceDate": "2015-09-16",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01974856",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "乳腺癌",
-        "肿瘤"
-      ],
-      "activitySignals": [],
-      "contextTitle": "A Prospective Observational Study of Clinical Outcomes for the NanoString® Technologies Prosigna™ Gene Signature Assay"
-    },
-    {
-      "id": "mention-clinicaltrials-8a6a1220616bb6ae",
-      "observedName": "Forma Therapeutics, Inc.",
-      "normalizedName": "forma therapeutics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04013880",
-      "sourceDate": "2020-07-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04013880",
+      "sourceRecordId": "NCT03515551",
+      "sourceDate": "2022-03-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03515551",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -99,18 +26,18 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "ASTX727 and FT-2102 in Treating IDH1-Mutated Recurrent/Refractory Myelodysplastic Syndrome or Acute Myeloid Leukemia"
+      "contextTitle": "Safety and Efficacy of IMCnyeso in Advanced NY-ESO-1 and/or LAGE-1A Positive Cancers"
     },
     {
-      "id": "mention-clinicaltrials-a6c7ccca3358d32d",
-      "observedName": "Intervene Immune, Inc.",
-      "normalizedName": "intervene immune",
+      "id": "mention-clinicaltrials-4b4e869bf903d88c",
+      "observedName": "Travera Inc",
+      "normalizedName": "travera",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04375657",
-      "sourceDate": "2025-05-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04375657",
+      "sourceRecordId": "NCT04985357",
+      "sourceDate": "2024-11-25",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04985357",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -119,18 +46,14 @@
         "Longevity",
         "Oncology",
         "Precision Oncology",
-        "Recruiting",
         "biomarker",
         "临床试验",
+        "乳腺癌",
         "肿瘤",
         "衰老"
       ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Thymus Regeneration, Immunorestoration, and Insulin Mitigation Extension Trial"
+      "activitySignals": [],
+      "contextTitle": "Defining the Clinical Potential of Mass Response As a Biomarker for Patient Tumor Sensitivity to Drugs"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
