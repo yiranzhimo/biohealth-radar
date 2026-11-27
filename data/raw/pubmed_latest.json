@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-26T21:39:52.450597+00:00",
+  "capturedAt": "2026-11-27T08:43:53.328064+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,113 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-26",
-    "end": "2026-11-26"
+    "start": "2025-11-27",
+    "end": "2026-11-27"
   },
   "pmids": [
+    "43098971",
+    "43098416",
+    "43098313",
+    "43098275",
     "43096709",
     "43096165",
-    "43095987",
-    "43095778",
-    "43095333",
-    "43095159",
     "43088082",
     "43087944",
     "43079208",
     "43076351",
     "43061985",
     "43061976",
+    "43098935",
+    "43098905",
+    "43098126",
+    "43097140",
     "43096171",
-    "43095982",
-    "43095769",
-    "43092409",
-    "43089504",
+    "43095987",
+    "43097702",
     "43096918",
     "43095971",
     "43095475",
     "43095091",
-    "43094621",
-    "43094594",
-    "43095350"
+    "43094621"
   ],
   "records": [
+    {
+      "pmid": "43098971",
+      "title": "Dual-Targeted Hybrid Exosome-Liposome Nanoparticles Potentiate Antitumor Efficacy and Promote Immune Infiltration in Ovarian Cancer.",
+      "abstract": "Ovarian cancer (OC) is the most lethal gynecological malignancy within female reproductive system malignancies. Chemoresistance and metastasis are major challenges for OC treatment, highlighting the urgent necessity for novel therapeutic strategies. Doxorubicin (Dox) is frequently adopted in OC treatment, owing to its minimal peripheral neurotoxicity, negligible glycemic fluctuation impact, and favorable combined therapeutic efficacy with platinum. However, its clinical application is largely limited, especially by profound cardiotoxicity, rapid clearance, and drug resistance. We engineered Epithelial cell adhesion molecule (EpCAM) and folate receptor alpha (FRα) dual-targeted hybrid exosome-liposome nanoparticles (siUSP43/Dox@DT-HENPs) by integrating the high drug-loading capacity of liposomes with the MPS-evasive property of CD47-overexpressing exosomes. Comprehensive validation in cell lines, animal models, and patient-derived organoids (PDOs) confirmed their targeting specificity and therapeutic efficacy. As expected, siUSP43/Dox@DT-HENPs successfully achieved precise delivery of Dox, reduced mononuclear phagocyte clearance, minimized immune cytotoxicity, and enhanced immune infiltration, highlighting their promising potential in OC treatment.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gynecology, the First Affiliated Hospital of Nanjing Medical University, Nanjing, Jiangsu, China.",
+        "Branch Of National Clinical Research Center For Gynecology and Obstetrics, Nanjing, China.",
+        "Maternal and Child Center Laboratory, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China."
+      ],
+      "doi": "10.1002/advs.79007",
+      "date": "2026-11-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098971/"
+    },
+    {
+      "pmid": "43098416",
+      "title": "Human retinal organoid integration into 3D neural tissue models - an emerging opportunity.",
+      "abstract": "Human retinal and brain organoids are transforming research into human neural development, disease and regenerative medicine, reproducing key structural, molecular and functional features of the retina and brain and providing an experimentally accessible model. However, these systems have largely been developed in isolation, limiting their ability to model the long-range neuronal connectivity that underlies visual function and the shared mechanisms of retinal and central nervous system disease. Recent advances in assembloid technologies, tissue engineering and computational analysis now make the generation of integrated human eye-brain models an increasingly realistic goal. In this review, we focus on the integration of retinal and brain organoids to reconstruct elements of the human visual pathway. We discuss advances in retinal and brain organoid differentiation that improve maturation, reproducibility and physiological fidelity, including vascularization, glial incorporation, extracellular matrix engineering and functional electrophysiological assessment. We examine strategies for assembling multi-regional neural tissues to promote retinal ganglion cell projection, target-specific connectivity and circuit formation and consider how eye-brain assembloids could provide platforms to investigate retinal and neurological disorders while accelerating therapeutic discovery and human tissue-based preclinical testing. Finally, we discuss the technical and biological challenges that remain, including incomplete maturation, standardisation, scalability and functional validation, and highlight how advances are likely to drive the next generation of physiologically relevant human visual system models. By integrating developments across retinal organoids, brain organoids and assembloid technologies, this review outlines a framework for modelling human eye-brain connectivity and defines the opportunities and challenges that will shape this emerging field.",
+      "journal": "Progress in retinal and eye research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Birmingham and Midland Eye Centre, Sandwell and West Birmingham NHS Trust, Birmingham, United Kingdom; Academic Unit of Ophthalmology, Institute of Inflammation and Ageing, College of Medical and Dental Sciences, University of Birmingham, Birmingham, United Kingdom; Imperial College Healthcare NHS Trust, London, UK.",
+        "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences, University of Cambridge, Cambridge, UK.",
+        "Department of Ophthalmology, Spencer Center for Vision Research, Byers Eye Institute, Stanford University School of Medicine, Palo Alto, CA, USA.",
+        "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences, University of Cambridge, Cambridge, UK; Cambridge Stem Cell Institute, University of Cambridge, Cambridge, UK.",
+        "University of Leicester, Leicester, UK.",
+        "Cambridge Stem Cell Institute, University of Cambridge, Cambridge, UK; Milner Therapeutics Institute, University of Cambridge, Cambridge, UK; Cambridge Centre for AI in Medicine, University of Cambridge, Cambridge, UK; Department of Quantum Information, Institute for Convergence Science Academy, Yonsei University, Seoul, Republic of Korea; Department of Nano Biomedical Engineering (NanoBME), Advanced Science Institute, Yonsei University, Seoul, Republic of Korea; Center for Nanomedicine, Institute for Basic Science (IBS), Seoul, Republic of Korea. Electronic address: nh417@cam.ac.uk.",
+        "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences, University of Cambridge, Cambridge, UK; Department of Neurology, Cambridge University Hospitals, Cambridge, UK; Cambridge Stem Cell Institute, Cambridge Biomedical Campus, Cambridge, UK.",
+        "John van Geest Centre for Brain Repair, Department of Clinical Neurosciences, University of Cambridge, Cambridge, UK; Department of Ophthalmology, Spencer Center for Vision Research, Byers Eye Institute, Stanford University School of Medicine, Palo Alto, CA, USA; Department of Ophthalmology, Cambridge University Hospitals, Cambridge, UK. Electronic address: tzkhatib@stanford.edu."
+      ],
+      "doi": "10.1016/j.preteyeres.2026.101547",
+      "date": "2026-11-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098416/"
+    },
+    {
+      "pmid": "43098313",
+      "title": "Targeting PLAUR restores paclitaxel sensitivity in esophageal squamous cell carcinoma by suppressing NF-κB signaling.",
+      "abstract": "Paclitaxel is a cornerstone chemotherapeutic agent for esophageal squamous cell carcinoma (ESCC), yet its clinical efficacy is frequently compromised by drug resistance. To address this challenge, we performed an unbiased screening approach to identify resistance-associated molecular targets with therapeutic potential. PLAUR expression was systematically analyzed in paclitaxel-resistant ESCC cell lines, clinical ESCC specimens, and public single-cell RNA sequencing datasets. Genetic loss- and gain-of-function approaches were employed to evaluate the impact of PLAUR on paclitaxel sensitivity and apoptosis in ESCC cells. NF-κB pathway activation was assessed by transcriptomic profiling and western blot analysis. The effects of PLAUR depletion and cenupatide (UPARANT) treatment were evaluated in patient-derived organoids (PDOs) and xenograft models. PLAUR was consistently upregulated in paclitaxel-resistant ESCC cells, tumor tissues from poor responders, and malignant epithelial cell clusters associated with poor therapeutic response identified by single-cell analysis. Genetic ablation of PLAUR significantly enhanced paclitaxel-induced apoptosis and reduced drug resistance, whereas PLAUR re-expression conferred resistance. Mechanistically, PLAUR promoted paclitaxel resistance by activating the NF-κB signaling pathway, thereby suppressing apoptosis. Inhibition of NF-κB signaling attenuated PLAUR-associated resistance. Cenupatide enhanced paclitaxel sensitivity in the tested cell, PDO, and xenograft models. PLAUR contributes to paclitaxel resistance in ESCC through NF-κB-associated suppression of apoptosis. These preclinical findings support further evaluation of cenupatide-mediated paclitaxel sensitization in ESCC.",
+      "journal": "Cellular signalling",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai, PR China.",
+        "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai, PR China; Cancer Center, Zhongshan Hospital, Fudan University, Shanghai, PR China.",
+        "Department of Thoracic Surgery, Shanghai Chest Hospital, Shanghai Jiao Tong University, Shanghai, PR China.",
+        "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai, PR China; Cancer Center, Zhongshan Hospital, Fudan University, Shanghai, PR China. Electronic address: czhan10@fudan.edu.cn.",
+        "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai, PR China; Cancer Center, Zhongshan Hospital, Fudan University, Shanghai, PR China. Electronic address: tan.lijie@zs-hospital.sh.cn."
+      ],
+      "doi": "10.1016/j.cellsig.2026.113036",
+      "date": "2026-11-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098313/"
+    },
+    {
+      "pmid": "43098275",
+      "title": "P300 as an epigenetic regulatory node linking berberine to attenuated H3K27ac/STAT3 inflammatory transcription in ulcerative colitis.",
+      "abstract": "Berberine (BBR) attenuates experimental colitis, but its effects on colonic p300-associated signaling remain unclear. We used network pharmacology and two-sample Mendelian randomization to prioritize BBR-associated genes on the basis of genetically predicted blood gene expression and ulcerative colitis (UC) risk. These analyses identified EP300 as a candidate. In UC-derived organoids, regions with greater accessibility in cultures from previously inflamed mucosa were overrepresented in the highest EP300 signal bin of an independent sigmoid-colon ChIP-seq dataset. Predicted STAT3 motifs were more frequent in regions with higher reference EP300 signal. The predicted BBR pose in the p300 acetyltransferase domain overlapped the crystallographic acetyl-CoA site. In mice with dextran sulfate sodium (DSS)-induced colitis, BBR reduced disease activity, histological injury and mucosal cytokine levels and increased colonic ZO-1 and occludin staining. Colonic p300 abundance, H3K27ac staining, STAT3 phosphorylation and Il17a mRNA were lower with BBR than with DSS alone. C646 alone also reduced disease activity, histological injury and colonic Stat3 and Il17a mRNA. Compared with BBR alone, BBR + C646 further reduced H3K27ac staining, STAT3 phosphorylation and Il17a mRNA, whereas BBR + TTK21 partially reversed these changes. These results support a contribution of p300-associated regulation to the response to BBR in experimental colitis.",
+      "journal": "Toxicology and applied pharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Guizhou University of Traditional Chinese Medicine, Guiyang 550002, China.",
+        "Guizhou University of Traditional Chinese Medicine, Guiyang 550002, China; The First Affiliated Hospital of Guizhou University of Traditional Chinese Medicine, Guiyang 550001, China.",
+        "Guizhou University of Traditional Chinese Medicine, Guiyang 550002, China; The First Affiliated Hospital of Guizhou University of Traditional Chinese Medicine, Guiyang 550001, China. Electronic address: caitao0125@163.com.",
+        "Guizhou University of Traditional Chinese Medicine, Guiyang 550002, China; The First Affiliated Hospital of Guizhou University of Traditional Chinese Medicine, Guiyang 550001, China. Electronic address: caobo39666@163.com."
+      ],
+      "doi": "10.1016/j.taap.2026.118127",
+      "date": "2026-11-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098275/"
+    },
     {
       "pmid": "43096709",
       "title": "Mapping the Developmental Landscape of Human iPSC-Derived Cardiomyocytes and Cardiac Organoids Relative to Native Heart Tissue.",
@@ -77,81 +154,6 @@
       "doi": "10.1002/eji.70327",
       "date": "2026-11-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43096165/"
-    },
-    {
-      "pmid": "43095987",
-      "title": "Design of High-Affinity Mini-Protein Drug Conjugates Targeting TROP2.",
-      "abstract": "Accurate and effective treatment of solid tumors has long been a core issue in cancer therapy. Antibody-drug conjugates (ADCs) represent a crucial breakthrough in precision oncology. Traditional ADCs rely on monoclonal antibodies generated through animal immunization, followed by screening, sequencing, and recombinant expressiona process that is experimentally complex and costly. In this study, we employed deep learning-based computational design methods to design mini-protein binders targeting the tumor-associated antigen TROP2. The designed TROP2 mini-protein binder exhibited high specificity and thermal stability. The binding affinity was optimized from 40.4 nM to 628 pM through partial diffusion. On this basis, we engineered the mini-protein binder by conjugating it with the microtubule inhibitor VcMMAE, thereby constructing mini-protein drug conjugates (MPDCs) that can specifically target and kill TROP2-positive tumor cells. A comprehensive assessment of the anti-tumor efficacy of these MPDCs was performed using cancer cell lines, organoid models, and mouse xenograft models.",
-      "journal": "Journal of medicinal chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Key Laboratory of Immune Microenvironment and Inflammatory Disease Research in Universities of Shandong Province, School of Basic Medical Sciences, Shandong Second Medical University, Weifang261053, China.",
-        "Department of Biochemical Drugs, School of Pharmacy, Shandong Second Medical University, Weifang261053, China.",
-        "First Affiliated Hospital, Weifang People's Hospital, Shandong Second Medical University, Weifang261041, China.",
-        "Biomedical Research Core Facilities, Westlake University, Hangzhou310024, China.",
-        "Key Laboratory of Regenerative Medicine of Ministry of Education, Institute of Aging and Regenerative Medicine, Department of Developmental & Regenerative Medicine, College of Life Science and Technology, Jinan University, Guangzhou, Guangdong510632, China.",
-        "Interventional Vascular Surgery Center, Affiliated Hospital of Shandong Second Medical University, Weifang261053, China.",
-        "School of Life Sciences, Westlake University, Hangzhou310024, China."
-      ],
-      "doi": "10.1021/acs.jmedchem.6c02191",
-      "date": "2026-11-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095987/"
-    },
-    {
-      "pmid": "43095778",
-      "title": "The molecular phenotypes of null alleles in cells (MorPhiC) data resource.",
-      "abstract": "The MorPhiC Data Portal is the public resource for the Molecular Phenotypes of Null Alleles in Cells (MorPhiC) Consortium, which maps molecular and cellular consequences of targeted human gene inactivation. The portal integrates raw, processed and uniformly analyzed datasets from functional genomics and phenotyping assays, including bulk and single-cell RNA-seq, Perturb-seq, SLAM-seq, chromatin-accessibility profiling, and metabolomics. Release 4 (August 2026) expands the resource to perturbations of >300 genes in human induced pluripotent stem cells and derivative systems, including embryoid bodies, organoids, and differentiated models, using complementary perturbation strategies targeting DNA, RNA, and protein products. A central advance is gene-centered navigation: gene pages consolidate experimental context, perturbation strategies, cell models, datasets, phenotyping evidence, and standardized analyses, while interactive visualizations expose differential expression, enrichment, and assay-specific results. Dataset pages provide metadata, protocols, analysis summaries, and links to public repositories for raw and processed files; the portal also catalogs consortium-generated knockout cell lines. By integrating MorPhiC datasets with external annotations on essentiality, Mendelian disease associations and mammalian phenotypes, and by standardizing metadata, analysis outputs and archive submission workflows, the portal provides a reusable resource for studying human gene loss-of-function at scale. The resource is available at https://morphic.bio/data.",
-      "journal": "Nucleic acids research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "European Bioinformatics Institute (EMBL-EBI), European Molecular Biology Laboratory, Wellcome Trust Genome Campus, Hinxton, CB10 1SD, United Kingdom.",
-        "MorPhiC Data Resource and Analysis Coordinating Center (DRACC), US, United Kingdom.",
-        "Department of Molecular and Cellular Pharmacology, Miller School of Medicine, University of Miami, Miami, FL 33136, United States.",
-        "Sylvester Comprehensive Cancer Center, Miller School of Medicine, University of Miami, Miami, FL 33136, United States.",
-        "Frost Institute for Data Science & Computing, University of Miami, Miami, FL 33146, USA.",
-        "Clinical Pharmacology and Precision Medicine, William Harvey Research Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, EC1M 6BQ, United Kingdom.",
-        "School of Engineering and Technology, University of Washington Tacoma, Tacoma, WA 98402, United States."
-      ],
-      "doi": "10.1093/nar/gkag1238",
-      "date": "2026-11-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095778/"
-    },
-    {
-      "pmid": "43095333",
-      "title": "Salivary gland tumor organoids: from biological fidelity to biomarker discovery and precision oncology.",
-      "abstract": "Salivary gland tumors (SGTs) are rare, histologically diverse neoplasms for which diagnostic complexity, limited access to representative experimental models, and marked interpatient variation in treatment response remain major challenges. Patient-derived organoids (PDOs) provide three-dimensional culture systems that can preserve selected architectural, phenotypic, and molecular features of the parental tumor while enabling expansion, controlled perturbation, and functional testing. This review critically examines the development of SGT organoid models and their applications in disease modeling, biomarker discovery, and precision oncology. Current evidence indicates that SGT organoids can retain subtype-associated morphology, lineage markers, driver alterations, fusion genes, transcriptomic programs, and interpatient heterogeneity. Multi-subtype biobanks have enabled the identification of candidate diagnostic biomarkers, including PTP4A1 in mucoepidermoid carcinoma and EN1 in adenoid cystic carcinoma. Genotype-informed and phenotype-based screening has also generated preclinical evidence for targeted therapy in adenoid cystic carcinoma and salivary duct carcinoma. However, establishment efficiency varies substantially among cohorts and cannot be compared without accounting for specimen composition, culture conditions, passage requirements, and definitions of successful establishment. Culture-associated epithelial selection, loss of diagnostically or therapeutically relevant proteins, and incomplete representation of immune and stromal compartments can further dissociate genomic fidelity from phenotypic and pharmacological fidelity. Clinical translation will therefore require standardized reporting, longitudinal quality control, reconstruction of disease-relevant microenvironmental components, matched normal-tissue controls for toxicity assessment, and prospective validation against patient outcomes. At present, SGT organoids are best considered patient-derived experimental models that complement pathology, molecular profiling, and in vivo systems.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Oral and Maxillofacial Surgery, Peking University School and Hospital of Stomatology & National Center for Stomatology & National Clinical Research Center for Oral Diseases & National Engineering Research Center of Oral Biomaterials and Digital Medical Devices, Beijing, China."
-      ],
-      "doi": "10.3389/fonc.2026.2010573",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095333/"
-    },
-    {
-      "pmid": "43095159",
-      "title": "Advances and Challenges in Stem Cell-Derived Liver Organoid Research: From Developmental Biology to Translational Applications.",
-      "abstract": "Liver organoids are three-dimensional in vitro systems that reproduce selected structural, cellular, and metabolic features of the human liver. Although recent advances in stem cell differentiation, extracellular matrix engineering, multicellular assembly, perfusion, and computational analysis have broadened their experimental utility, cross-study comparison remains difficult because platform performance is often reported using nonharmonized measures of maturity, reproducibility, and scalability. This review therefore evaluates stem cell-derived liver organoids through four linked dimensions-developmental fidelity, functional maturity, engineering controllability, and translational readiness-rather than treating increasing structural complexity as a surrogate for performance. Within this framework, we compare pluripotent stem cell-derived, adult stem cell-derived, multicellular coculture, vascularized, and microfluidic/perfused platforms; examine quantitative benchmarks including albumin secretion, urea synthesis, cytochrome P450 activity, transporter function, polarity, and similarity to adult primary human hepatocytes; and distinguish established experimental uses from preclinical validation, proof-of-concept transplantation, and future clinical potential. Disease modeling and preclinical drug testing currently represent the most established applications, whereas therapeutic transplantation remains limited by incomplete adult-like maturation, heterogeneity, manufacturing variability, vascular and immune integration, and uncertain long-term engraftment. Automation, image-based quality control, bioreactor scale-up, defined xeno-free culture, and good manufacturing practice (GMP)-compatible workflows are emerging as complementary strategies to improve reproducibility and translational readiness. A fit-for-purpose benchmarking approach is therefore required to determine which liver organoid platform is sufficiently mature, controllable, and scalable for a given biological or translational application.",
-      "journal": "Stem cells international",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Biochemistry and Biomedical Sciences University of Bristol Bristol BS8 1TD UK bristol.ac.uk.",
-        "Department of Animal Science and Technology Chung-Ang University Anseong Gyeonggi-do Republic of Korea cau.ac.kr."
-      ],
-      "doi": "10.1155/sci/8971230",
-      "date": "2026-11-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095159/"
     },
     {
       "pmid": "43088082",
@@ -264,6 +266,80 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43061976/"
     },
     {
+      "pmid": "43098935",
+      "title": "EvoSeq: A Eukaryotic Sequence-Function Profiling Platform for AI-Guided Engineering of Genome-Editing Enzymes.",
+      "abstract": "Artificial intelligence is reshaping protein engineering, yet progress remains constrained by the limited availability of scalable, normalized sequence-activity datasets and experimental benchmarks. Reported here is Evolution by Sequencing (EvoSeq), a sequencing-based profiling platform for genome-editing enzymes that links each variant to a reporter sequence change, enabling activity and variant sequence to be quantified together by next-generation sequencing. Representative sequencing-assisted workflows either require separate functional assays or were performed in bacteria. EvoSeq performs sequence-activity profiling in eukaryotic yeast system with reduced background by up to 95-fold compared to bacterial system, positioning EvoSeq as a pooled eukaryotic alternative to workflows that require separate functional assays and to approaches demonstrated primarily in bacteria. Application to adenine base editor evolution identifies variants with 1.4-fold higher on-target activity at a HBG gene target and threefold lower off-target editing at PCSK9 after mRNA-lipid nanoparticle validation in HepG2 cells. An intron-embedded homologous-recombination recording strategy further enables direct evolution of the large Cas12i nuclease CasY7 and supports active learning, increasing the hit rate of model-nominated mutational windows compared with manual selection. EvoSeq therefore provides an experimental benchmarking method for AI-guided protein-design algorithms and AI-compatible sequence-activity profiling platform for engineering genome editors in eukaryotic cells.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China.",
+        "BioFoundry Institute, College of Life Sciences, South China Agricultural University, Guangzhou, Guangdong Province, China."
+      ],
+      "doi": "10.1002/advs.78685",
+      "date": "2026-11-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098935/"
+    },
+    {
+      "pmid": "43098905",
+      "title": "[Advances in ProteinMPNN-driven protein engineering].",
+      "abstract": "Biomanufacturing is a key pathway for promoting the green transformation of conventional production methods. Its core bottleneck lies in the difficulty of natural enzymes to meet the requirements of industrial applications, necessitating the customized modification of enzyme molecules through protein engineering. Conventional semi-rational design is limited by a narrow sequence search space, heavy reliance on known structural information, and high experimental screening costs, which make it difficult to achieve precise design of industrial-grade enzyme molecules. In recent years, artificial intelligence-based protein design technologies represented by ProteinMPNN have made breakthrough progress and are driving a profound paradigm shift in protein engineering. This article systematically describes the technical principles, workflow, and methodological advantages of ProteinMPNN, compares it with Rosetta and other protein design models, and reviews the research progress of this technology in industrial enzyme engineering and biomanufacturing. On this basis, this article discusses current research hotspots and challenges in industrial application, and provides an outlook on future development directions and prospects for industrial implementation. It is expected to serve as a reference for fundamental research and industrial translation in synthetic biology and protein engineering.",
+      "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+      "publicationTypes": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China. sunxx@mail.buct.edu.cn.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China. yuanqp@mail.buct.edu.cn."
+      ],
+      "doi": "10.13345/j.cjb.260251",
+      "date": "2026-11-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098905/"
+    },
+    {
+      "pmid": "43098126",
+      "title": "Corrigendum to \"Controlling cell architecture with protein design\" [Curr Opin Cell Biol, 96 (2025): 102569].",
+      "abstract": "",
+      "journal": "Current opinion in cell biology",
+      "publicationTypes": [
+        "Published Erratum"
+      ],
+      "affiliations": [
+        "School of Engineering Mathematics and Technology, University of Bristol, Tankards' Close, Bristol, BS8 1TW, UK. Electronic address: jessica.cross@bristol.ac.uk.",
+        "School of Chemistry, University of Bristol, Cantock's Close, Bristol, BS8 1TS, UK. Electronic address: d.n.woolfson@bristol.ac.uk.",
+        "School of Biochemistry, University of Bristol, University Walk, BS8 1TD, UK. Electronic address: mark.dodding@bristol.ac.uk."
+      ],
+      "doi": "10.1016/j.ceb.2026.102703",
+      "date": "2026-11-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098126/"
+    },
+    {
+      "pmid": "43097140",
+      "title": "Modeling Protein Evolution with Generative Models: From Extant Sequence Data to Evolutionary Dynamics.",
+      "abstract": "Protein sequences carry a record of evolutionary history shaped by mutation, selection, drift, and epistasis. Recent generative models trained on homologous sequence families offer a new way to read this record: they define probabilistic landscapes that score sequences, generate viable variants, and capture constraints that are difficult to measure experimentally. In this review, we discuss how such landscapes can be used not only for protein design or mutation-effect prediction, but also for modeling evolutionary dynamics. We focus particularly on Direct Coupling Analysis as an interpretable and experimentally validated framework, while placing it in the broader context of generative sequence modeling. We first describe how generative sequence landscapes are inferred and assessed, then review how they can be coupled to population-genetic or substitution-model dynamics to simulate protein evolution across experimental and phylogenetic timescales. Applications include viral evolution, laboratory drift experiments, historical contingency, entrenchment, epistatic drift over time, and long-term sequence-space exploration. We conclude by discussing open challenges, including score-fitness calibration, phylogenetic structure, codon-level mutation biases, indels, and the integration of experimental data.",
+      "journal": "Journal of molecular evolution",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Michael Smith Laboratories, University of British Columbia, Vancouver, BC, Canada.",
+        "DISAT, Politecnico di Torino, Corso Duca degli Abruzzi, 24, 10129, Torino, Italy.",
+        "Computational, Quantitative and Synthetic Biology, Sorbonne Université, CNRS, 75005, Paris, France.",
+        "Dipartimento di Fisica, Sapienza Università di Roma, Piazzale Aldo Moro 5, 00185, Rome, Italy.",
+        "Institute for Biological Physics, University of Cologne, 50937, Cologne, Germany.",
+        "Dipartimento di Fisica, Sapienza Università di Roma, Piazzale Aldo Moro 5, 00185, Rome, Italy. francesco.zamponi@uniroma1.it.",
+        "Computational, Quantitative and Synthetic Biology, Sorbonne Université, CNRS, 75005, Paris, France. martin.weigt@sorbonne-universite.fr.",
+        "Institut Universitaire de France (IUF), Paris, France. martin.weigt@sorbonne-universite.fr."
+      ],
+      "doi": "10.1007/s00239-026-10369-6",
+      "date": "2026-11-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43097140/"
+    },
+    {
       "pmid": "43096171",
       "title": "ATC Classification and Scaffold-Split pMIC Prediction for Antibacterial Prioritization.",
       "abstract": "Antimicrobial resistance requires reproducible computational tools that distinguish antibacterial-drug class membership from measured antibacterial potency. We developed a descriptor-based workflow for Anatomical Therapeutic Chemical classification (ATC)-based prioritization, exploratory molecular generation, and pMIC prediction. ChEMBL 33 structures were encoded using Mordred descriptors. Fourteen classifiers were used to distinguish 248 systemic antibacterial drugs (ATC J01/J04A) from 2540 non-anti-infective reference drugs. Models were assessed by random, independent, and Bemis-Murcko scaffold splits; An exploratory character-level recurrent neural network was used for molecular generation. Separately, eight regressors modeled Staphylococcus aureus pMIC for 33,505 compounds under a scaffold split. Random forest achieved a Matthews correlation coefficient (MCC) of 0.857 on the random-split test set and 0.775 on the independent validation set. For unseen scaffolds, the MCC was 0.746; after removal of six β-lactam ring descriptors, the MCC was 0.738. Across 25 repeated scaffold splits, the random forest test MCC was 0.774 (95% confidence interval (CI) 0.752-0.795), supporting the consistency of scaffold-based performance across partitions. Char-RNN validity was 10.8%; the generated molecules were novel relative to the training set (23/25 were also absent from ChEMBL) and synthesizable. Novelty is reported relative to the training set rather than as absolute chemical-space novelty. XGBoost achieved a scaffold-held-out pMIC R2 = 0.510, RMSE = 0.743 log units, and a Spearman ρ = 0.695. Across 10 repeated scaffold splits, XGBoost R2 was 0.505 (95% CI 0.472-0.537), matching the single-split value. On two independent external tests-a 2019-2022 temporal split and 5090 compounds new in the later ChEMBL 37 release - absolute accuracy was lower (R2 = 0.240 and 0.286) while rank correlation was retained (Spearman ρ = 0.502 and 0.566). These results are consistent with the model being prioritized rather than being used for accurate potency-prediction. The ATC classifier prioritizes structures resembling approved antibacterial drugs rather than establishing measured antibacterial activity. The pMIC model provides scaffold-aware estimates of S. aureus potency; both components require assessment of the applicability domain and experimental validation.",
@@ -280,82 +356,41 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43096171/"
     },
     {
-      "pmid": "43095982",
-      "title": "Autonomous Drug Design via Workflow Agents: Integrating Chemical Semantics and Tool-Oriented Automation.",
-      "abstract": "Large language model (LLM)-based agents have shown promise in automating scientific tasks, yet existing systems for drug discovery often lack strategic, cross-step planning, and multi-objective coordination. Here, we present drugflow-skills, an LLM-driven agent framework that abstracts key drug design operations, including virtual screening, de novo molecule generation, molecular optimization, and multi-target design, into composable and reusable skills. The agent operates under a ReAct paradigm, executing iterative \"Thought → Action → Observation\" loops while interfacing with the DrugFlow backend. Across five representative tasks targeting ALK, ROS1, and IGF-1R, the agent demonstrates autonomous decision-making, cross-step planning, and multi-objective trade-offs, achieving improved predicted binding scores while reducing predicted toxicity and off-target liabilities. It also provides interpretable rationales and adapts strategies based on human feedback, enabling a human-agent co-optimization loop. These results support dynamic reasoning-driven drug design.",
+      "pmid": "43095987",
+      "title": "Design of High-Affinity Mini-Protein Drug Conjugates Targeting TROP2.",
+      "abstract": "Accurate and effective treatment of solid tumors has long been a core issue in cancer therapy. Antibody-drug conjugates (ADCs) represent a crucial breakthrough in precision oncology. Traditional ADCs rely on monoclonal antibodies generated through animal immunization, followed by screening, sequencing, and recombinant expressiona process that is experimentally complex and costly. In this study, we employed deep learning-based computational design methods to design mini-protein binders targeting the tumor-associated antigen TROP2. The designed TROP2 mini-protein binder exhibited high specificity and thermal stability. The binding affinity was optimized from 40.4 nM to 628 pM through partial diffusion. On this basis, we engineered the mini-protein binder by conjugating it with the microtubule inhibitor VcMMAE, thereby constructing mini-protein drug conjugates (MPDCs) that can specifically target and kill TROP2-positive tumor cells. A comprehensive assessment of the anti-tumor efficacy of these MPDCs was performed using cancer cell lines, organoid models, and mouse xenograft models.",
       "journal": "Journal of medicinal chemistry",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou310058, Zhejiang, China.",
-        "CarbonSilicon AI Technology Company, Ltd., Hangzhou310018, Zhejiang, China.",
-        "Zhejiang Key Laboratory of Intelligent Drug Discovery and Development & Zhejiang Provincial Engineering Research Center for Innovative Small-Molecule Drugs, Jinhua Institute of Zhejiang University, Jinhua321000, Zhejiang, China.",
-        "College of Computer Science and Technology, Zhejiang University-University of Illinois Urbana-Champaign Institute, Zhejiang University, Hangzhou, Zhejiang310027, China."
+        "Key Laboratory of Immune Microenvironment and Inflammatory Disease Research in Universities of Shandong Province, School of Basic Medical Sciences, Shandong Second Medical University, Weifang261053, China.",
+        "Department of Biochemical Drugs, School of Pharmacy, Shandong Second Medical University, Weifang261053, China.",
+        "First Affiliated Hospital, Weifang People's Hospital, Shandong Second Medical University, Weifang261041, China.",
+        "Biomedical Research Core Facilities, Westlake University, Hangzhou310024, China.",
+        "Key Laboratory of Regenerative Medicine of Ministry of Education, Institute of Aging and Regenerative Medicine, Department of Developmental & Regenerative Medicine, College of Life Science and Technology, Jinan University, Guangzhou, Guangdong510632, China.",
+        "Interventional Vascular Surgery Center, Affiliated Hospital of Shandong Second Medical University, Weifang261053, China.",
+        "School of Life Sciences, Westlake University, Hangzhou310024, China."
       ],
-      "doi": "10.1021/acs.jmedchem.6c02199",
+      "doi": "10.1021/acs.jmedchem.6c02191",
       "date": "2026-11-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095982/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095987/"
     },
     {
-      "pmid": "43095769",
-      "title": "From molecular dynamics to generative design: Engineering enzymes for predictive, programmable, and sustainable biocatalysis.",
-      "abstract": "Enzyme engineering is evolving from empirical mutation-screening toward predictive, AI-enabled biocatalyst design, offering new opportunities to overcome the interdependent tradeoffs governing catalytic efficiency, thermostability, substrate specificity, and process tolerance. This review critically examines advances in structure-guided redesign, active-site and loop engineering, conformational dynamics, allosteric-network modulation, and computational thermostabilization. It integrates insights from X-ray crystallography, cryo-electron microscopy, molecular dynamics, and quantum mechanics/molecular mechanics simulations to elucidate the structural and dynamic determinants of enzyme function. Particular attention is given to machine-learning-guided mutation prediction, protein language models, and generative protein design, highlighting their complementary roles in navigating sequence space and identifying functionally optimized variants. A central contribution is the integration of generative design with ensemble-based molecular dynamics as a conformational validation strategy, illustrated through an engineered cytochrome P450 case study. Industrial translation is critically assessed across pharmaceutical synthesis, CO2 valorization, biomass conversion, and biofuel production, distinguishing molecular-level performance gains from process-level sustainability, including enzyme manufacture, cofactor requirements, and downstream processing. Persistent barriers involving data quality, epistasis, model generalizability, experimental reproducibility, and scale-up are evaluated. Finally, a closed-loop framework integrating computational prediction, experimental validation, and process engineering is proposed to accelerate the development of robust, manufacturable, and sustainable industrial biocatalysts.",
-      "journal": "Preparative biochemistry & biotechnology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Mechanical Engineering, Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu, India.",
-        "Department of Civil Engineering, Faculty of Engineering and Technology, JAIN (Deemed-to-be University), Bangalore, Karnataka, India.",
-        "Department of Mechanical Engineering, Faculty of Engineering and Technology, Parul Institute of Engineering and Technology, Parul University, Vadodara, Gujarat, India.",
-        "Department of Mechanical Engineering, Presidency University, Bengaluru, India.",
-        "Department of Electronics and Communication Engineering, Siksha 'O' Anusandhan (Deemed to be University), Bhubaneswar, Odisha, India.",
-        "Department of Physics, Vivekananda Global University, Jaipur, India.",
-        "School of Mechanical Engineering, Kalinga Institute of Industrial Technology (KIIT) Deemed to be University, Bhubaneswar, Odisha, India.",
-        "Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman, Jordan.",
-        "Department of Physics, Saveetha School of Engineering, SIMATS, Saveetha University, Chennai, Tamil Nadu, India."
-      ],
-      "doi": "10.1080/10826068.2026.2766985",
-      "date": "2026-11-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095769/"
-    },
-    {
-      "pmid": "43092409",
-      "title": "Engineering Prolyl 4-Hydroxylation for High-Performance Recombinant Collagen Production: From Molecular Design and Microbial Cell Factories to Industrial Translation.",
-      "abstract": "Recombinant collagen is an attractive alternative to animal-derived collagen for applications in tissue engineering, wound repair, regenerative medicine, and advanced aesthetic biomaterials. However, many microbial production hosts lack sufficient endogenous prolyl 4-hydroxylase (P4H) activity, resulting in inadequate proline hydroxylation, reduced triple-helix stability, and potentially impaired material performance. Engineering P4H therefore offers a promising strategy for enhancing proline hydroxylation and improving the triple-helix stability of recombinant collagen. This review summarizes recent advances in the structural characterization, catalytic mechanisms, and engineering of P4H systems from animal, plant, viral, and microbial sources. Particular attention is given to the structural and functional differences between animal-derived α2β2 tetrameric P4Hs and structurally simpler monomeric P4Hs, including their distinct requirements for subunit assembly, folding, substrate recognition, and heterologous expression. Structure-guided engineering strategies, including active-site remodeling, substrate-binding-pocket expansion, flexible-loop engineering, collagen-anchoring module fusion, and computationally guided protein design, are evaluated for their potential to improve hydroxylation efficiency toward long-chain collagen substrates and reduce nonproductive uncoupling. At the host-cell level, synthetic biology strategies for coordinating P4H expression, subunit assembly, chaperone-assisted folding, secretion, and cofactor metabolism are discussed. The review also highlights the importance of engineering α-ketoglutarate (α-KG), iron, and L-ascorbate metabolism to match cofactor availability with catalytic demand while minimizing cellular stress. In addition, the spatial and temporal coordination of collagen synthesis, P4H-mediated hydroxylation, intracellular folding, and secretion is discussed as a means of improving hydroxylation efficiency and product uniformity. A comprehensive quality-assessment framework is further proposed, integrating site-specific mass spectrometry for hydroxylation profiling, spectroscopic and thermal analyses for structural characterization, and cell-based assays for evaluating biological activity. Finally, the review addresses challenges associated with industrial scale-up, including oxygen-transfer limitations, dynamic cofactor management, process consistency, and regulatory compliance. Emerging approaches involving artificial intelligence, cell-free protein synthesis, and integrated computational-experimental workflows are also considered for accelerating the development of clinically and industrially viable recombinant collagen products.",
-      "journal": "Microorganisms",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biological Engineering, School of Life Sciences, Yantai University, Yantai 264005, China.",
-        "Yantai Key Laboratory of Characteristic Agricultural Bioresource Conservation & Germplasm Innovative Utilization, School of Life Sciences, Yantai University, Yantai 264005, China."
-      ],
-      "doi": "10.3390/microorganisms14112546",
-      "date": "2026-11-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43092409/"
-    },
-    {
-      "pmid": "43089504",
-      "title": "Porphyrin-Driven Redox Tuning in Structurally Defined De Novo Heme Proteins.",
-      "abstract": "Designing redox proteins with predictable and tunable electron transfer properties is a major goal in de novo bioenergetics. Here we show that replacing heme B with a series of structurally conservative non-natural metalloporphyrins enables broad modulation of redox potentials over 400 mV in the de novo designed monoheme m4D2 and diheme 4D2 T19D. The non-natural porphyrins bind with high affinity and do not compromise either the heme binding site or global protein structure, as evidenced by X-ray crystallography and NMR spectroscopy. We also report the native-like NMR structure of m4D2 loaded with the non-natural and symmetric iron 2,4-dimethyldeuteroporphyrin IX, confirming our modular approach to tetrahelical redox protein design. This work establishes a versatile platform for constructing tunable electron carriers for engineered bioenergetic pathways and bioelectronic applications.",
-      "journal": "Journal of the American Chemical Society",
+      "pmid": "43097702",
+      "title": "Borophene-Gold Nanohybrid Immunosensor for In Situ EV Lysis and Cancer Biomarker Detection by Electrochemical Impedance Spectroscopy.",
+      "abstract": "Extracellular vesicle (EV)-derived biomarkers provide valuable molecular information for early cancer detection and disease monitoring, yet their analysis typically requires labor-intensive EV isolation and chemical lysis, limiting access and increasing assay complexity. Here, we present a label-free, non-faradaic electrochemical impedance spectroscopy (nf-EIS) biosensor based on liquid-phase-exfoliated borophene (BP) integrated onto gold electrodes for direct detection of circulating and EV-derived biomarkers in serum. BP-Au interface provides an electrochemically active, high-capacitance sensing surface via interfacial charge transfer and orbital interactions, while electron-deficient boron sites enable direct coordination with glutaraldehyde and stable antibody immobilization without insulating linker layers. To improve biomarker accessibility, we investigated two reagent-free electric-field (EF) strategies: post-capture EV permeabilization and direct high-frequency (HF) EF treatment of serum. Direct HF EF treatment temporarily permeabilized EV membranes, quickly transporting biomarkers to the sensor, enhancing target capture and nf-EIS response. Compared to EV isolation, serum HF EF treatment reduced assay time to 45 min and improved biomarker recovery. The platform achieved limit of detection ranging from 0.02 to 0.57 pg/mL for five clinically relevant EV biomarkers (TSG101, GM2AP, MUC1, MUC5AC, and EGFR). Clinical evaluation of serum samples from healthy subjects (n = 20) and lung cancer patients (n = 20) showed improved sensing performance, increasing ROC-AUC values from 0.870-0.984 to 0.985-1.000 and sensitivity by up to 16.7% following HF EF-treatment. These findings demonstrate that integrating BP-enabled signal amplification with EF-assisted EV biomarker release provides a rapid, reagent-free, and isolation-free nf-EIS platform for sensitive, multiplexed liquid biopsy, with potential for early cancer detection and decentralized clinical diagnostics.",
+      "journal": "ACS applied materials & interfaces",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "School of Biochemistry, University of Bristol, University Walk, BristolBS8 1TD, U.K.",
-        "School of Chemistry, University of Bristol, BristolBS8 1TS, U.K.",
-        "Centre for Enzyme Innovation, School of the Environment and Life Sciences, University of Portsmouth, PortsmouthPO1 2DT, U.K.",
-        "Department of Physics, The City College of New York, New York, New York10031, United States.",
-        "Graduate Programs of Physics, Biology, Chemistry and Biochemistry, The Graduate Center of CUNY, New York, New York10016, United States."
+        "Department of Avionics, Indian Institute of Space Science and Technology, Trivandrum, Kerala695547, India.",
+        "Department of Medical Oncology, Regional Cancer Centre, Trivandrum, Kerala695011, India."
       ],
-      "doi": "10.1021/jacs.6c11808",
-      "date": "2026-11-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43089504/"
+      "doi": "10.1021/acsami.6c17850",
+      "date": "2026-11-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43097702/"
     },
     {
       "pmid": "43096918",
@@ -440,47 +475,163 @@
       "doi": "10.3389/fimmu.2026.1958497",
       "date": "2026-11-11",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43094621/"
-    },
-    {
-      "pmid": "43094594",
-      "title": "Extracellular Vesicles in Renal Fibrosis: Mechanisms, Biomarkers, and Nanotherapeutics in Chronic Kidney Disease.",
-      "abstract": "Renal fibrosis contributes to the progression of chronic kidney disease (CKD), yet its assessment and treatment remain challenging. Extracellular vesicles (EVs) mediate intercellular communication and can promote or attenuate fibrotic remodeling by influencing renal-cell injury, immune responses, and extracellular matrix production. Their effects depend on donor-cell conditions, cargo composition, and recipient responses. Urinary and circulating EV profiles offer candidate diagnostic and prognostic biomarkers. Protective EV preparations have reduced fibrosis in experimental kidney disease models, while engineering strategies are being developed to improve therapeutic cargo loading and delivery to renal target cells. This narrative review integrates both profibrotic and antifibrotic EV mechanisms in CKD-associated renal fibrosis and systematically evaluates the translational evidence for EV-based diagnosis and treatment. It examines causal support for intercellular signaling and associations of candidate biomarkers with tissue fibrosis and renal outcomes. It also evaluates evidence of functional cargo delivery and antifibrotic efficacy. Clinical translation remains limited by challenges in EV standardization, biodistribution, reproducible manufacturing, and clinical validation.",
-      "journal": "International journal of nanomedicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Center of Laboratory Medicine, Affiliated Aoyang Hospital of Jiangsu University, Suzhou, Jiangsu, 215600, People's Republic of China.",
-        "Key Laboratory of Laboratory Medicine of Jiangsu Province, Department of Laboratory Medicine, School of Medicine, Jiangsu University, Zhenjiang, Jiangsu, 212013, People's Republic of China.",
-        "Department of Nephrology, Affiliated Aoyang Hospital of Jiangsu University, Suzhou, Jiangsu, 215600, People's Republic of China.",
-        "School of Health Economics and Management, Nanjing University of Chinese Medicine, Nanjing, Jiangsu, 210023, People's Republic of China."
-      ],
-      "doi": "10.2147/IJN.S654097",
-      "date": "2026-11-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43094594/"
-    },
-    {
-      "pmid": "43095350",
-      "title": "Implementation of an Electronic Health Record Initiative to Reduce Deep Sedation in a Cardiac Intensive Care Unit.",
-      "abstract": "Leading cardiac and critical care society guidelines recommend limiting sedation among mechanically ventilated patients in cardiac intensive care units (CICUs), because deeper sedation is associated with worse patient outcomes. Yet sedation use increased during the COVID-19 pandemic and remains high. This study sought to investigate whether a low-cost, self-sustaining, clinical-decision support tool decreases early deep-sedation use in a CICU population. This difference-in-difference analysis evaluates early deep sedation among adult patients on mechanical ventilation >24 hours who were admitted to a single-center academic CICU or medical intensive care unit (MICU) between 11/2020 and 3/2025. Patients receiving continuous antiarrhythmics, neuromuscular blockade, or active cooling were excluded. An electronic health record-based clinical-decision support tool, including physician- and nursing-behavioral nudges to use less sedation, was implemented in 11/2023 in the CICU but not in the MICU. After implementation, a difference-in-difference analysis was conducted to compare the pre- (11/1/2020-10/31/2023) and post-intervention (12/1/2023-3/31/2025) average hours of early deep sedation (Richmond Agitation and Sedation Scale ≤-3) in the first 48 hours after intubation between the CICU and the nonintervention MICU cohort, adjusted for prespecified covariates: age, sex, body mass index, and acute physiology and chronic health evaluation scores. The study included 1610 patient encounters, 189 in the CICU and 1421 in the MICU. The average hours of early deep sedation decreased in the CICU postintervention, compared to preintervention (16.8 vs 12.4; P = 0.04), but not in the MICU during the same time periods (19.7 vs 21.2; P = 0.06). In an adjusted analysis, receiving CICU care in the postintervention period was associated with a 6-hour decrease in the number of hours of early deep sedation (95% CI: -11.1 to -1.5). Nurses reduced the continuous dosage of fentanyl, propofol, midazolam, or dexmedetomidine 23% of the times the clinical decision-support tool alerted them. Future studies should evaluate the effectiveness of this low-cost tool in other medical and surgical populations.",
-      "journal": "Journal of cardiac failure - intersections",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "University of Michigan, Department of Pharmacy, Ann Arbor, MI.",
-        "University of Michigan, Department of Cardiology, Ann Arbor, MI.",
-        "Michigan Medicine, Health Information and Technology Services, Ann Arbor, MI.",
-        "University of Michigan, Department of Nursing, Ann Arbor, MI.",
-        "Univesity of Michigan, Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, Ann Arbor, MI."
-      ],
-      "doi": "10.1016/j.yjcafi.2026.04.011",
-      "date": "2026-05-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095350/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-43097702",
+      "date": "2026-11-27",
+      "title": "Borophene-Gold Nanohybrid Immunosensor for In Situ EV Lysis and Cancer Biomarker Detection by Electrochemical Impedance Spectroscopy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43097702/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ACS applied materials & interfaces，PMID 为 43097702。",
+      "report": "Extracellular vesicle (EV)-derived biomarkers provide valuable molecular information for early cancer detection and disease monitoring, yet their analysis typically requires labor-intensive EV isolation and chemical lysis, limiting access and increasing assay...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43098971",
+      "date": "2026-11-26",
+      "title": "Dual-Targeted Hybrid Exosome-Liposome Nanoparticles Potentiate Antitumor Efficacy and Promote Immune Infiltration in Ovarian Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098971/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43098971。",
+      "report": "Ovarian cancer (OC) is the most lethal gynecological malignancy within female reproductive system malignancies. Chemoresistance and metastasis are major challenges for OC treatment, highlighting the urgent necessity for novel therapeutic strategies. Doxorubici...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43098416",
+      "date": "2026-11-26",
+      "title": "Human retinal organoid integration into 3D neural tissue models - an emerging opportunity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098416/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Progress in retinal and eye research，PMID 为 43098416。",
+      "report": "Human retinal and brain organoids are transforming research into human neural development, disease and regenerative medicine, reproducing key structural, molecular and functional features of the retina and brain and providing an experimentally accessible model...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43098313",
+      "date": "2026-11-26",
+      "title": "Targeting PLAUR restores paclitaxel sensitivity in esophageal squamous cell carcinoma by suppressing NF-κB signaling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098313/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cellular signalling，PMID 为 43098313。",
+      "report": "Paclitaxel is a cornerstone chemotherapeutic agent for esophageal squamous cell carcinoma (ESCC), yet its clinical efficacy is frequently compromised by drug resistance. To address this challenge, we performed an unbiased screening approach to identify resista...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43098275",
+      "date": "2026-11-26",
+      "title": "P300 as an epigenetic regulatory node linking berberine to attenuated H3K27ac/STAT3 inflammatory transcription in ulcerative colitis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098275/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Toxicology and applied pharmacology，PMID 为 43098275。",
+      "report": "Berberine (BBR) attenuates experimental colitis, but its effects on colonic p300-associated signaling remain unclear. We used network pharmacology and two-sample Mendelian randomization to prioritize BBR-associated genes on the basis of genetically predicted b...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-43096709",
       "date": "2026-11-26",
@@ -517,6 +668,90 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43098935",
+      "date": "2026-11-26",
+      "title": "EvoSeq: A Eukaryotic Sequence-Function Profiling Platform for AI-Guided Engineering of Genome-Editing Enzymes.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098935/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43098935。",
+      "report": "Artificial intelligence is reshaping protein engineering, yet progress remains constrained by the limited availability of scalable, normalized sequence-activity datasets and experimental benchmarks. Reported here is Evolution by Sequencing (EvoSeq), a sequenci...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43098126",
+      "date": "2026-11-26",
+      "title": "Corrigendum to \"Controlling cell architecture with protein design\" [Curr Opin Cell Biol, 96 (2025): 102569].",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098126/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current opinion in cell biology，PMID 为 43098126。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43097140",
+      "date": "2026-11-26",
+      "title": "Modeling Protein Evolution with Generative Models: From Extant Sequence Data to Evolutionary Dynamics.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43097140/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of molecular evolution，PMID 为 43097140。",
+      "report": "Protein sequences carry a record of evolutionary history shaped by mutation, selection, drift, and epistasis. Recent generative models trained on homologous sequence families offer a new way to read this record: they define probabilistic landscapes that score...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-43095987",
       "date": "2026-11-26",
       "title": "Design of High-Affinity Mini-Protein Drug Conjugates Targeting TROP2.",
@@ -546,102 +781,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 43095987。",
       "report": "Accurate and effective treatment of solid tumors has long been a core issue in cancer therapy. Antibody-drug conjugates (ADCs) represent a crucial breakthrough in precision oncology. Traditional ADCs rely on monoclonal antibodies generated through animal immun...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43095778",
-      "date": "2026-11-26",
-      "title": "The molecular phenotypes of null alleles in cells (MorPhiC) data resource.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095778/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nucleic acids research，PMID 为 43095778。",
-      "report": "The MorPhiC Data Portal is the public resource for the Molecular Phenotypes of Null Alleles in Cells (MorPhiC) Consortium, which maps molecular and cellular consequences of targeted human gene inactivation. The portal integrates raw, processed and uniformly an...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43095982",
-      "date": "2026-11-26",
-      "title": "Autonomous Drug Design via Workflow Agents: Integrating Chemical Semantics and Tool-Oriented Automation.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095982/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Healthcare AI",
-        "Medical LLM",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "医疗 AI",
-        "临床决策支持",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 43095982。",
-      "report": "Large language model (LLM)-based agents have shown promise in automating scientific tasks, yet existing systems for drug discovery often lack strategic, cross-step planning, and multi-objective coordination. Here, we present drugflow-skills, an LLM-driven agen...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43095769",
-      "date": "2026-11-26",
-      "title": "From molecular dynamics to generative design: Engineering enzymes for predictive, programmable, and sustainable biocatalysis.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095769/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Preparative biochemistry & biotechnology，PMID 为 43095769。",
-      "report": "Enzyme engineering is evolving from empirical mutation-screening toward predictive, AI-enabled biocatalyst design, offering new opportunities to overcome the interdependent tradeoffs governing catalytic efficiency, thermostability, substrate specificity, and p...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -705,60 +844,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43089504",
+      "id": "pubmed-43098905",
       "date": "2026-11-25",
-      "title": "Porphyrin-Driven Redox Tuning in Structurally Defined De Novo Heme Proteins.",
+      "title": "[Advances in ProteinMPNN-driven protein engineering].",
       "entity": "AI Drug Discovery Research",
       "primaryCategory": "AI Drug Discovery",
       "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43089504/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43098905/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "AI for Biology",
-        "Drug Discovery"
+        "Drug Discovery",
+        "Drug Screening"
       ],
       "tags": [
         "AI 制药",
         "蛋白设计",
-        "分子生成"
+        "分子生成",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the American Chemical Society，PMID 为 43089504。",
-      "report": "Designing redox proteins with predictable and tunable electron transfer properties is a major goal in de novo bioenergetics. Here we show that replacing heme B with a series of structurally conservative non-natural metalloporphyrins enables broad modulation of...",
+      "fact": "PubMed 记录显示该文献收录于 Sheng wu gong cheng xue bao = Chinese journal of biotechnology，PMID 为 43098905。",
+      "report": "Biomanufacturing is a key pathway for promoting the green transformation of conventional production methods. Its core bottleneck lies in the difficulty of natural enzymes to meet the requirements of industrial applications, necessitating the customized modific...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43095159",
-      "date": "2026-11-24",
-      "title": "Advances and Challenges in Stem Cell-Derived Liver Organoid Research: From Developmental Biology to Translational Applications.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095159/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cells international，PMID 为 43095159。",
-      "report": "Liver organoids are three-dimensional in vitro systems that reproduce selected structural, cellular, and metabolic features of the human liver. Although recent advances in stem cell differentiation, extracellular matrix engineering, multicellular assembly, per...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -886,32 +999,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43094594",
-      "date": "2026-11-20",
-      "title": "Extracellular Vesicles in Renal Fibrosis: Mechanisms, Biomarkers, and Nanotherapeutics in Chronic Kidney Disease.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43094594/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 43094594。",
-      "report": "Renal fibrosis contributes to the progression of chronic kidney disease (CKD), yet its assessment and treatment remain challenging. Extracellular vesicles (EVs) mediate intercellular communication and can promote or attenuate fibrotic remodeling by influencing...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43087944",
       "date": "2026-11-19",
       "title": "Digital Twins in Oncology: Current Evidence, Multiscale Modeling Approaches, and Challenges in Clinical Translation-A Narrative Review.",
@@ -1016,40 +1103,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43095333",
-      "date": "2026-11-11",
-      "title": "Salivary gland tumor organoids: from biological fidelity to biomarker discovery and precision oncology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095333/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 43095333。",
-      "report": "Salivary gland tumors (SGTs) are rare, histologically diverse neoplasms for which diagnostic complexity, limited access to representative experimental models, and marked interpatient variation in treatment response remain major challenges. Patient-derived orga...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43094621",
       "date": "2026-11-11",
       "title": "Dynamic changes in cytokine levels as potential prognostic biomarkers in cancer immunotherapy.",
@@ -1077,41 +1130,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 43094621。",
       "report": "Immune checkpoint inhibitors (ICIs) have reshaped cancer therapy, yet fewer than 20% of patients achieve durable benefit and many develop immune-related adverse events, highlighting the need for accessible biomarkers to support treatment decisions. Circulating...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43092409",
-      "date": "2026-11-05",
-      "title": "Engineering Prolyl 4-Hydroxylation for High-Performance Recombinant Collagen Production: From Molecular Design and Microbial Cell Factories to Industrial Translation.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43092409/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Microorganisms，PMID 为 43092409。",
-      "report": "Recombinant collagen is an attractive alternative to animal-derived collagen for applications in tissue engineering, wound repair, regenerative medicine, and advanced aesthetic biomaterials. However, many microbial production hosts lack sufficient endogenous p...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1212,34 +1230,6 @@
       "fact": "PubMed 记录显示该文献收录于 European journal of immunology，PMID 为 43096165。",
       "report": "Esophageal adenocarcinoma (EAC) is among the most aggressive tumors for incidence and mortality worldwide. In recent years, the composition and spatial architecture of the tumor microenvironment (TME) have emerged as critical determinants of tumor biology, the...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43095350",
-      "date": "2026-05-22",
-      "title": "Implementation of an Electronic Health Record Initiative to Reduce Deep Sedation in a Cardiac Intensive Care Unit.",
-      "entity": "Healthcare AI Research",
-      "primaryCategory": "Healthcare AI",
-      "subCategory": "Medical AI",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43095350/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of cardiac failure - intersections，PMID 为 43095350。",
-      "report": "Leading cardiac and critical care society guidelines recommend limiting sedation among mechanically ventilated patients in cardiac intensive care units (CICUs), because deeper sedation is associated with worse patient outcomes. Yet sedation use increased durin...",
-      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
