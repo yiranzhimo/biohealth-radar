@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-11-26T12:38:29+00:00",
+  "capturedAt": "2026-11-27T12:25:18+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -1621,7 +1621,8 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology"
+        "biotechnology",
+        "cell therapy"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "CRI Biotech, Inc. is a company founded by Dr. Michael Kapiloff at Stanford University which is developing the novel etiology-independent therapy CRI-103 targeting downstream regulatory pathways common to Dilated Cardiomyopathy (DCM) regardless of etiology. DCM is a significant…",
@@ -1675,7 +1676,6 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
         "gene therapy"
       ],
       "topicHints": [
