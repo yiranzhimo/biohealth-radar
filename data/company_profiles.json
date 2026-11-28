@@ -35702,8 +35702,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "biotechnology",
-          "cell therapy"
+          "biotechnology"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -72495,6 +72494,7 @@
         "companyType": "Therapeutics",
         "directions": [
           "Cell Therapy",
+          "cell therapy",
           "gene therapy"
         ],
         "modalities": [],
