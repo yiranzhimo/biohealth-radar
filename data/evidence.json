@@ -8523,13 +8523,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
+      "id": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-ab-and-b-bio-tech"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -8547,7 +8547,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -8560,7 +8560,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -11419,13 +11419,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-airdoc-official-b783717bc9ab",
+      "id": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-airdoc"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -11443,7 +11443,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -11456,7 +11456,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -17529,13 +17529,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-b-and-k-official-23e336e47f20",
+      "id": "evidence-company-candidate-b-and-k-official-a4d4139146af",
       "signalId": null,
       "companyIds": [
         "candidate-b-and-k"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -17553,7 +17553,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 23e336e47f203ba23fd133306f17c70db99ff3e27f9fe7d3cec29888e9149aab.",
+      "fact": "The official page was captured with normalized-content hash a4d4139146af41c08bfd358dfda7366a7b6960a5e1e632925ac3b77ac3cf95ed.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -17566,7 +17566,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "23e336e47f203ba23fd133306f17c70db99ff3e27f9fe7d3cec29888e9149aab",
+      "contentHash": "a4d4139146af41c08bfd358dfda7366a7b6960a5e1e632925ac3b77ac3cf95ed",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -21529,13 +21529,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-brii-official-b783717bc9ab",
+      "id": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-brii"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -21553,7 +21553,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -21566,7 +21566,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -22343,13 +22343,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-canbridge-official-b783717bc9ab",
+      "id": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-canbridge"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -22367,7 +22367,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -22380,7 +22380,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -25061,13 +25061,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
+      "id": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-cloudbreak"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -25085,7 +25085,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -25098,7 +25098,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -32385,13 +32385,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-impact-therap-official-b783717bc9ab",
+      "id": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-impact-therap"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -32409,7 +32409,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -32422,7 +32422,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -34053,13 +34053,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-jw-therap-official-b783717bc9ab",
+      "id": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-jw-therap"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -34077,7 +34077,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -34090,7 +34090,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -36455,13 +36455,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-medbot-official-56db0472d64c",
+      "id": "evidence-company-candidate-medbot-official-7977dd0a56f0",
       "signalId": null,
       "companyIds": [
         "candidate-medbot"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -36479,7 +36479,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 56db0472d64c6bfe422d4e2ed0f6d36cab717c26239289ddc4f63e0a6a7da426.",
+      "fact": "The official page was captured with normalized-content hash 7977dd0a56f0930e2233c5365f7c4bc4f589b0f846e7255f0ef11fee71ae784d.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -36492,7 +36492,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "56db0472d64c6bfe422d4e2ed0f6d36cab717c26239289ddc4f63e0a6a7da426",
+      "contentHash": "7977dd0a56f0930e2233c5365f7c4bc4f589b0f846e7255f0ef11fee71ae784d",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -36951,13 +36951,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
+      "id": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
       "signalId": null,
       "companyIds": [
         "candidate-microtech-med"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -36975,7 +36975,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash e2c23dc5aab8b155170d640ba65cd3d2dc6eb8d68d78fd833e73fa7524cc3d71.",
+      "fact": "The official page was captured with normalized-content hash a3eeaeb8f98e781c96b82af7370dc8f2b20c085009b856e62ff7bc08d72cfb93.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -36988,7 +36988,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "e2c23dc5aab8b155170d640ba65cd3d2dc6eb8d68d78fd833e73fa7524cc3d71",
+      "contentHash": "a3eeaeb8f98e781c96b82af7370dc8f2b20c085009b856e62ff7bc08d72cfb93",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -41861,13 +41861,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-rainmed-official-b783717bc9ab",
+      "id": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-rainmed"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-28",
+      "snapshotDate": "2026-11-28",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -41885,7 +41885,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -41898,7 +41898,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b783717bc9abde8e8982a3ed2c4fdc6ebde3d1f0cfe7771bf9ed4389bab5f149",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
