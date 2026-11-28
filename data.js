@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,306 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-43102936",
+      "date": "2026-11-27",
+      "title": "Drug candidate CT7-1 promotes antitumor immunity by targeting SETMAR to activate cGAS-STING-IFN signaling in breast cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102936/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 43102936。",
+      "report": "The discovery of previously unidentified anti-breast cancer agents with both high efficacy and favorable safety profiles remains an urgent and critical challenge. Recently, repurposing and modifying the anti-Alzheimer drug memantine have drawn growing interest...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_034e3156609d7ef8006b0a897ff9a487d1b37d07aeb0dae019",
+        "reviewedAt": "2026-11-28T07:57:51.312187+00:00",
+        "inputHash": "5f3a4805bdcfe767197f80fe7ab4f3d2cad376923d8367560cb2db7c9bfc945c",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以纠正潜在的临床结论和推广声明。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持不足，特别是临床证据的推导。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献引用的是临床证据，但没有足够的信息来支持疗效或安全性的明确结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 43102936。",
+          "report": "文献提到针对乳腺癌的抗肿瘤药物候选CT7-1激活 cGAS-STING-IFN 信号通路，但并未提供足够的临床数据支持其有效性或安全性。",
+          "inference": "分类仅用于信息流，不能推导出临床结论或治疗推荐。",
+          "unknown": "研究的具体质量、样本量、利益冲突、临床阶段缺失，需进一步考量。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-43102922",
+      "date": "2026-11-27",
+      "title": "PRR12 variants cause intellectual disability by disrupting neuronal differentiation and maturation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102922/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 43102922。",
+      "report": "Mutations in the proline-rich 12 (PRR12) gene cause neurodevelopmental disorders that are mainly characterized by intellectual disability. However, the underlying mechanisms remain unclear. Here, we identified six pathogenic de novo mutations in PRR12 in unrel...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_001553818be53d03006b0a8987981887d19b1ed3f3168ecc7e",
+        "reviewedAt": "2026-11-28T07:57:51.312187+00:00",
+        "inputHash": "1e3ae2ce43f2d7fbeb8a5894785d2a88dc5fa8a35d374e73d166a9a11e6eff0a",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核以确认临床结论和研究质量的表述。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类可能未准确反映研究的临床影响或质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被评估为中等，但缺少关键临床和研究质量信息。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 43102922。",
+          "report": "Mutations in the proline-rich 12 (PRR12) gene cause neurodevelopmental disorders that are mainly characterized by intellectual disability. However, the underlying mechanisms remain unclear. Here, we identified six pathogenic de novo mutations in PRR12 in unrel...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-43102910",
+      "date": "2026-11-27",
+      "title": "An epithelium-intrinsic zinc sensor maintains gut homeostasis by regulating Paneth and tuft cell differentiation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102910/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science immunology，PMID 为 43102910。",
+      "report": "Zinc (Zn) is an essential micronutrient required for cell proliferation, differentiation, and apoptosis, yet how epithelial Zn sensing governs the constantly renewing intestinal barrier remains unclear. We disrupted Zn homeostasis by deleting metal response el...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_03bb27fad2184cc7006b0a898fdd2087d18b769c60598b008f",
+        "reviewedAt": "2026-11-28T07:57:51.312187+00:00",
+        "inputHash": "223c9e3294c38ee8fa2303472992c1725e8ce8cc83c8a07b0a6bc0e1768776d3",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该记录包含关于研究的描述，但未能明确分离出有效性、安全性及商业化影响的声明，因此需要人类审查。 ",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "项目分类与文献内容关联性不足。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献的证据水平应被标记为高，而实际协议的水平被标记为中。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "High",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science immunology，PMID 为 43102910。",
+          "report": "Zinc (Zn) is an essential micronutrient required for cell proliferation, differentiation, and apoptosis, yet how epithelial Zn sensing governs the constantly renewing intestinal barrier remains unclear. We disrupted Zn homeostasis by deleting metal response el...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-43102819",
+      "date": "2026-11-27",
+      "title": "Potential roles of selected bioactive polysaccharides in intestinal stem-cell-mediated epithelial renewal: a narrative review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102819/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Critical reviews in food science and nutrition，PMID 为 43102819。",
+      "report": "The intestinal epithelium is continuously renewed by intestinal stem cells located within specialized crypt niches. Although bioactive polysaccharides are widely studied for their effects on barrier integrity, inflammation, mucus production, and gut microbiota...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0d1bb350a103f259006b0a8996a33c87d1877902e2faa0a724",
+        "reviewedAt": "2026-11-28T07:57:51.312187+00:00",
+        "inputHash": "dd385b1e7002769b904baa10faa8a32e5fc2913920d8707a92d1a5b46a110eb2",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号需人工审核，因为尽管信息来源可靠，但未提供足够的研究质量和临床相关性信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类依据不足，可能误导用户关于研究质量的判断。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平分类为中等，但缺乏对研究质量的评估，需进一步确认。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Critical reviews in food science and nutrition，PMID 为 43102819。",
+          "report": "The intestinal epithelium is continuously renewed by intestinal stem cells located within specialized crypt niches. Although bioactive polysaccharides are widely studied for their effects on barrier integrity, inflammation, mucus production, and gut microbiota...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-43098935",
       "date": "2026-11-26",
       "title": "EvoSeq: A Eukaryotic Sequence-Function Profiling Platform for AI-Guided Engineering of Genome-Editing Enzymes.",
@@ -1024,76 +1324,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Journal of molecular evolution，PMID 为 43097140。",
           "report": "Protein sequences carry a record of evolutionary history shaped by mutation, selection, drift, and epistasis. Recent generative models trained on homologous sequence families offer a new way to read this record: they define probabilistic landscapes that score...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-43101040",
-      "date": "2026-11-25",
-      "title": "Human Organoid and Assembloid Research Is Immoral and Should Be Stopped.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43101040/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Linacre quarterly，PMID 为 43101040。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0dc1f92d30f696d7006b09f511ffd487d1bd5ce29bba88ea75",
-        "reviewedAt": "2026-11-27T21:24:33.010391+00:00",
-        "inputHash": "2dcc69ab6080ca507a0046baf232e9a5edf3ea9076b6d668870aca06509187db",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献关于类器官的道德争议需要审查，无法直接支持临床或商业相关结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平低，但文章的道德讨论不能直接转换为研究有效性或应用性的结论。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为低，过于模糊来支持任何临床相关的应用。"
-        },
-        "riskFlags": [
-          "commercial_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 The Linacre quarterly，PMID 为 43101040。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1850,79 +2080,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-43100529",
-      "date": "2026-11-19",
-      "title": "Common organization of collective dynamics across divergent self-organized neural architectures.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43100529/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43100529。",
-      "report": "Brain organoids and other model neuronal networks build synaptic circuits through self-organization, and different protocols yield markedly different architectures, letting us test how collective dynamics depend on large-scale organization. We compared organoi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00d58afa8fc99f4e006b09f5344b7887d1bf6551598ac9bb93",
-        "reviewedAt": "2026-11-27T21:24:33.010391+00:00",
-        "inputHash": "60d0ec2cbfe4b0b1b3d14ffe15eee1bcd3344e9826ea8935c696f30a3f4e835e",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献适合发布，信息清晰且未包含临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与内容一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告及推论已明确分开，证据水平合理"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43100529。",
-          "report": "Brain organoids and other model neuronal networks build synaptic circuits through self-organization, and different protocols yield markedly different architectures, letting us test how collective dynamics depend on large-scale organization. We compared organoi...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-43087944",
       "date": "2026-11-19",
       "title": "Digital Twins in Oncology: Current Evidence, Multiscale Modeling Approaches, and Challenges in Clinical Translation-A Narrative Review.",
@@ -2093,75 +2250,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-43100554",
-      "date": "2026-11-18",
-      "title": "Identification of alcohol use disorder-associated and ethanol-responsive proteins and candidate biomarkers using human cortical organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43100554/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Research square，PMID 为 43100554。",
-      "report": "Genome-wide association studies of alcohol use disorder (AUD) have identified > 100 loci, yet the functional impact and the downstream molecular mechanisms are not well understood. As functional effectors of genes, proteins provide direct insight into disease...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0fefdc046d949b17006b09f53f4b5c87d18f15ca520de8df6d",
-        "reviewedAt": "2026-11-27T21:24:33.010391+00:00",
-        "inputHash": "35c7347649af0e71654d1a407643fe2bb1a69bc16557c23a9296a79e45e786ed",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核以确保没有过度推广研究结果。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合供应的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然报告明确，但证据级别被认为不合理，缺乏足够支持性数据。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Research square，PMID 为 43100554。",
-          "report": "Genome-wide association studies of alcohol use disorder (AUD) have identified > 100 loci, yet the functional impact and the downstream molecular mechanisms are not well understood. As functional effectors of genes, proteins provide direct insight into disease...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "需进一步研究以验证研究质量、样本量和潜在的利益冲突。"
-        }
-      }
-    },
-    {
       "id": "sec-0001434265-000143426526000160",
       "date": "2026-11-18",
       "title": "Genmab filed Form 6-K",
@@ -2307,76 +2395,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-43100635",
-      "date": "2026-11-17",
-      "title": "Neural rosettes emerge from an interconnected tubular network in human cortical organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43100635/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43100635。",
-      "report": "Cortical organoids generate multiple neural rosettes, self-organizing and radially arranged structures that resemble ventricular zones of the developing brain. Here, we show that these rosettes, commonly considered as discrete entities, originate from an inter...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0bdcd9937e3993e4006b09f545233c87d19a5ea18fd0bb1d2c",
-        "reviewedAt": "2026-11-27T21:24:33.010391+00:00",
-        "inputHash": "a7ff0fb97676541f10c2c72a1f02438dcbe33ef8664af7c7186bd7a817ce5ba4",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献报告的分类符合组织学领域，但缺乏对研究质量及其他重要细节的评估，需要进一步审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类虽然合理，但未反映研究质量和相关细节。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被标记为中等，但由于缺乏对样本量和研究质量的评估，无法确定其合理性。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43100635。",
-          "report": "Cortical organoids generate multiple neural rosettes, self-organizing and radially arranged structures that resemble ventricular zones of the developing brain.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

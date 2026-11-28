@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-27T21:24:23.367995+00:00",
+  "capturedAt": "2026-11-28T07:57:41.459067+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-27",
-    "end": "2026-11-27"
+    "start": "2025-11-28",
+    "end": "2026-11-28"
   },
   "pmids": [
+    "43102936",
+    "43102922",
+    "43102910",
+    "43102819",
     "43102356",
     "43101522",
-    "43101040",
-    "43100635",
-    "43100554",
-    "43100529",
     "43088082",
     "43087944",
     "43079208",
@@ -40,6 +40,84 @@
     "43099624"
   ],
   "records": [
+    {
+      "pmid": "43102936",
+      "title": "Drug candidate CT7-1 promotes antitumor immunity by targeting SETMAR to activate cGAS-STING-IFN signaling in breast cancer.",
+      "abstract": "The discovery of previously unidentified anti-breast cancer agents with both high efficacy and favorable safety profiles remains an urgent and critical challenge. Recently, repurposing and modifying the anti-Alzheimer drug memantine have drawn growing interest to enhance its pharmacological properties. Here, we synthesized several memantine analogs, among which a honokiol-memantine hybrid named CT7-1 exhibited broad-spectrum and potent antitumor activity, particularly against breast cancer. Notably, CT7-1 suppressed breast cancer patient-derived organoid proliferation across diverse molecular subtypes while showing a superior toxicity profile in normal breast organoids relative to paclitaxel. In vivo, CT7-1 effectively suppressed tumor growth in immunocompromised and immunocompetent mouse models, with enhanced efficacy observed in the presence of an intact immune system. Integrated multiomics analyses revealed that CT7-1 reshaped the tumor microenvironment by increasing CD8+ T cell infiltration and activation, in addition to promoting major histocompatibility complex class I (MHC-I)-mediated antigen presentation. Mechanistically, CT7-1 directly bound to and inhibited SETMAR, leading to DNA damage and subsequent cGAS-STING pathway activation. This cascade resulted in the production of pro-inflammatory interferons and chemokines, ultimately up-regulating MHC-I expression. Clinically, high SETMAR expression correlated with poor prognosis, diminished immune cell infiltration, and inferior response to immunotherapy in patients with triple-negative breast cancer. In conclusion, we identify CT7-1 as a first-in-class honokiol-memantine hybrid that exerts potent antitumor effects by targeting SETMAR to activate the DNA damage-cGAS-STING-MHC-I axis, thereby enhancing T cell-mediated tumor immunity. This study provides convincing grounds for developing CT7-1 as a promising immunotherapeutic drug for breast cancer.",
+      "journal": "Science advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "The First Dongguan Affiliated Hospital, School of Basic Medical Sciences, Guangdong Medical University, Dongguan 523808, China.",
+        "Dongguan Key Laboratory of Pharmaceutical Biotechnology, Department of Biotechnology, School of Basic Medical Sciences, Guangdong Medical University, Dongguan 523808, China.",
+        "Guangzhou Key Laboratory of Maternal-Fetal Medicine, Institute of Reproductive Health and Perinatology, Guangzhou Women and Children's Medical Center, Guangzhou Medical University, Guangzhou 510623, China.",
+        "Department of Thyroid and Breast Surgery, Peking University Shenzhen Hospital, Shenzhen 518036, China.",
+        "Department of Surgery, The First Dongguan Affiliated Hospital, Guangdong Medical University, Dongguan 523710, China.",
+        "School of Pharmacy, Guangdong Medical University, Dongguan 523808, China.",
+        "Shengli Clinical Medical College of Fujian Medical University, Fujian Provincial Hospital, Fuzhou University Affiliated Provincial Hospital, Fuzhou 350001, China."
+      ],
+      "doi": "10.1126/sciadv.aei3606",
+      "date": "2026-11-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102936/"
+    },
+    {
+      "pmid": "43102922",
+      "title": "PRR12 variants cause intellectual disability by disrupting neuronal differentiation and maturation.",
+      "abstract": "Mutations in the proline-rich 12 (PRR12) gene cause neurodevelopmental disorders that are mainly characterized by intellectual disability. However, the underlying mechanisms remain unclear. Here, we identified six pathogenic de novo mutations in PRR12 in unrelated patients with intellectual disability, showing significant enrichment in this cohort (false discovery rate = 0.014). Using both mouse models and human induced pluripotent stem cell-derived neural cultures and cortical organoids, we functionally dissected the underlying mechanism. We found that PRR12 haploinsufficiency impairs cortical neuronal differentiation and neurite outgrowth, thereby contributing to cognitive deficits. Furthermore, we demonstrated that PRR12 is enriched at the promoters of key regulatory genes involved in neuronal development and synaptic transmission, including SNCG. Attenuation of SNCG expression rescued the PRR12 haploinsufficiency-associated neuronal structure and dendritic spine defects, suggesting a potential therapeutic avenue in children with PRR12-related intellectual disability. Collectively, our findings elucidate the mechanism by which PRR12 haploinsufficiency contributes to intellectual disability and provide insights into potential therapeutic strategies.",
+      "journal": "Science advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Child Health Care, Capital Center for Children's Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China.",
+        "Key Laboratory of Organ Regeneration and Reconstruction, State Key Laboratory of Stem Cell and Reproductive Biology, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 100101, China.",
+        "Department of Medical Genetics, Capital Children's Medical Center, Capital Institute of Pediatrics, Capital Medical University, Beijing, China.",
+        "Department of Medical Genetics, Center for Medical Genetics, School of Basic Medical Sciences, Peking University, Beijing 100191, China.",
+        "Beijing Language and Culture University, Beijing, China.",
+        "The First Affiliated Hospital of USTC, Institute of Public Health Sciences, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.",
+        "Neuroscience Research Institute, Peking University, Key Laboratory for Neuroscience, Ministry of Education of China & National Health Commission of China, Beijing 100191, China.",
+        "Autism Research Center, Peking University Health Science Center, Beijing 100191, China."
+      ],
+      "doi": "10.1126/sciadv.aeg1405",
+      "date": "2026-11-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102922/"
+    },
+    {
+      "pmid": "43102910",
+      "title": "An epithelium-intrinsic zinc sensor maintains gut homeostasis by regulating Paneth and tuft cell differentiation.",
+      "abstract": "Zinc (Zn) is an essential micronutrient required for cell proliferation, differentiation, and apoptosis, yet how epithelial Zn sensing governs the constantly renewing intestinal barrier remains unclear. We disrupted Zn homeostasis by deleting metal response element-binding transcription factor-1 (MTF1), a Zn-sensitive master regulator of intracellular metal homeostasis, specifically in intestinal epithelial cells (MTF1ΔIEC). This allowed us to probe how impaired Zn sensing affects epithelial function. MTF1ΔIEC mice showed altered metal homeostasis, heightened sensitivity to dietary Zn, and exaggerated inflammatory profile. Loss of MTF1 depleted Paneth and tuft cell lineages, weakening epithelial defenses against commensal and pathogenic microbes. Using cell type-specific and inducible MTF1 deletion with lineage tracing, we show that MTF1-dependent Zn homeostasis was required for differentiation rather than lineage persistence. Organoids derived from MTF1ΔIEC mice confirmed that loss of MTF1 increases proliferation while reducing tuft and Paneth cells in a Zn-dependent manner, underscoring the role of Zn in maintaining intestinal immune homeostasis.",
+      "journal": "Science immunology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Molecular Microbiology and Immunology Department, Brown University, Providence, RI, USA."
+      ],
+      "doi": "10.1126/sciimmunol.adv8839",
+      "date": "2026-11-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102910/"
+    },
+    {
+      "pmid": "43102819",
+      "title": "Potential roles of selected bioactive polysaccharides in intestinal stem-cell-mediated epithelial renewal: a narrative review.",
+      "abstract": "The intestinal epithelium is continuously renewed by intestinal stem cells located within specialized crypt niches. Although bioactive polysaccharides are widely studied for their effects on barrier integrity, inflammation, mucus production, and gut microbiota composition, their potential roles in stem-cell-mediated epithelial renewal remain poorly defined. This narrative review summarizes current evidence linking selected dietary polysaccharides to intestinal stem-cell regulation. Available studies suggest that resistant starch, inulin, β-glucans, glucomannan, pectins, fucans, and human milk oligosaccharides may influence crypt proliferation, stem-cell-marker expression, lineage allocation, organoid growth, and epithelial repair in experimental models. Mechanistically, these effects may involve microbiota-dependent pathways, including short-chain fatty acids, tryptophan-derived indoles, bile acid metabolites, and IL-22-related immune signaling, as well as microbiota-independent epithelial or injury-adaptive pathways. However, evidence remains largely preclinical, heterogeneous, and often correlative. Regenerative outcomes appear to depend on polysaccharide structure, fermentation kinetics, crypt-level metabolite gradients, host context, and injury timing. Future studies should prioritize intestinal stem-cell-related endpoints, chemically defined polysaccharides, causal pathway validation, spatial metabolite profiling, and organoid systems incorporating microbial, immune, and stromal niche components.",
+      "journal": "Critical reviews in food science and nutrition",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "The Institute of Translational Medicine, Jiangxi Province Key Laboratory of Precision Cell Therapy, the 2nd Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, China.",
+        "Department of Psychiatry, Ganzhou People's Hospital, The Affiliated Ganzhou Hospital of Nanchang University, Ganzhou, China.",
+        "State Key Laboratory of Food Science and Resources, China-Canada Joint Lab of Food Science and Technology (Nanchang), Nanchang University, Nanchang, China."
+      ],
+      "doi": "10.1080/10408398.2026.2769662",
+      "date": "2026-11-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102819/"
+    },
     {
       "pmid": "43102356",
       "title": "DNA Damage Repair Systems in 5-Fluorouracil Resistance of Colorectal Cancer: Mechanistic Insights and Therapeutic Intervention Strategies.",
@@ -78,65 +156,6 @@
       "doi": "10.1093/burnst/tkag072",
       "date": "2026-10-15",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43101522/"
-    },
-    {
-      "pmid": "43101040",
-      "title": "Human Organoid and Assembloid Research Is Immoral and Should Be Stopped.",
-      "abstract": "",
-      "journal": "The Linacre quarterly",
-      "publicationTypes": [
-        "Letter"
-      ],
-      "affiliations": [
-        "Department of Neurology, University of Malta, Valletta, Malta.",
-        "Department of Moral Theology, Kenrick Glennon Seminary, St. Louis, USA.",
-        "Department of Neurology, St. Louis University, St. Louis, USA."
-      ],
-      "doi": "10.1177/00243639261508673",
-      "date": "2026-11-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43101040/"
-    },
-    {
-      "pmid": "43100635",
-      "title": "Neural rosettes emerge from an interconnected tubular network in human cortical organoids.",
-      "abstract": "Cortical organoids generate multiple neural rosettes, self-organizing and radially arranged structures that resemble ventricular zones of the developing brain. Here, we show that these rosettes, commonly considered as discrete entities, originate from an interconnected tubular network. We demonstrate that the formation of this continuous structure involves neuroepithelial folding, invagination, and internalization, resembling aspects of neural tube formation. Using fluorescently labeled polyethylene nanoplastics as extracellular tracers, we further show that they accumulate within the developing tubular lumen, consistent with its formation through neuroepithelial folding and internalization. These findings provide new insights into early human brain morphogenesis and suggest the potential utility of cortical organoids for investigating developmental processes relevant to neural tube defects.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.11.16.767152",
-      "date": "2026-11-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43100635/"
-    },
-    {
-      "pmid": "43100554",
-      "title": "Identification of alcohol use disorder-associated and ethanol-responsive proteins and candidate biomarkers using human cortical organoids.",
-      "abstract": "Genome-wide association studies of alcohol use disorder (AUD) have identified > 100 loci, yet the functional impact and the downstream molecular mechanisms are not well understood. As functional effectors of genes, proteins provide direct insight into disease mechanisms. However, most proteomic alterations in postmortem human brains of AUD likely reflect a combination of inherited susceptibility (AUD-associated), the consequences of alcohol exposure (ethanol-responsive), other environmental and lifestyle factors, as well as sample preparation. Here, we profiled the proteome of human microglia-containing cortical organoids derived from human induced pluripotent stem cells from individuals with AUD (n = 11) and without (n = 5), paired with or without intermittent ethanol exposure. To maximize statistical power, donors were selected based on high or low genetic liability for AUD as measured by polygenic scores. Among 8,952 proteins that passed quality control, 1,038 were AUD-associated and 718 were ethanol-responsive. AUD-associated proteins were enriched for neuronal signaling, immune, mitochondrial, and extracellular matrix pathways, whereas ethanol-responsive proteins were enriched for RNA processing, ribosome biogenesis, protein translation, vesicle trafficking, and membrane transport pathways. Twenty ethanol-responsive proteins were replicated in a postmortem human prefrontal cortex proteomic dataset. Using UK Biobank plasma proteomics data, we identified 26 candidate AUD-associated biomarkers and 9 candidate ethanol-responsive biomarkers. We also found that major proteomic variation was significantly correlated with AUD polygenic scores. Together, these findings reveal distinct proteomic signatures of inherited susceptibility to AUD and ethanol exposure, providing new insights into mechanisms underlying AUD and identifying candidate circulating biomarkers for further investigation.",
-      "journal": "Research square",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.21203/rs.3.rs-11197792/v1",
-      "date": "2026-11-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43100554/"
-    },
-    {
-      "pmid": "43100529",
-      "title": "Common organization of collective dynamics across divergent self-organized neural architectures.",
-      "abstract": "Brain organoids and other model neuronal networks build synaptic circuits through self-organization, and different protocols yield markedly different architectures, letting us test how collective dynamics depend on large-scale organization. We compared organoids of layered cortical-like structure against networks of cell-body clusters joined by axonal cables, quantifying the reproducible patterns of population activity in each. Bursts occurred in both architectures and comprised several collective patterns in each, so no single recurring template describes them. Recurrent activation sequences capture only part of this organization, sequence participation is graded, and neurons that rarely join a sequence still contribute to the shared dynamics. The patterns also pick out overlapping neuronal groups with propagation-like spatial order. Although the patterns differed between tissue models, their organization was conserved, and remained unchanged under pharma-cological increases in network activity. Recurrent sequences therefore represent one manifestation of a broader collective organization that emerges across distinct self-organized neural architectures.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.11.18.767733",
-      "date": "2026-11-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43100529/"
     },
     {
       "pmid": "43088082",
@@ -466,6 +485,130 @@
   ],
   "signals": [
     {
+      "id": "pubmed-43102936",
+      "date": "2026-11-27",
+      "title": "Drug candidate CT7-1 promotes antitumor immunity by targeting SETMAR to activate cGAS-STING-IFN signaling in breast cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102936/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 43102936。",
+      "report": "The discovery of previously unidentified anti-breast cancer agents with both high efficacy and favorable safety profiles remains an urgent and critical challenge. Recently, repurposing and modifying the anti-Alzheimer drug memantine have drawn growing interest...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43102922",
+      "date": "2026-11-27",
+      "title": "PRR12 variants cause intellectual disability by disrupting neuronal differentiation and maturation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102922/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 43102922。",
+      "report": "Mutations in the proline-rich 12 (PRR12) gene cause neurodevelopmental disorders that are mainly characterized by intellectual disability. However, the underlying mechanisms remain unclear. Here, we identified six pathogenic de novo mutations in PRR12 in unrel...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43102910",
+      "date": "2026-11-27",
+      "title": "An epithelium-intrinsic zinc sensor maintains gut homeostasis by regulating Paneth and tuft cell differentiation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102910/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science immunology，PMID 为 43102910。",
+      "report": "Zinc (Zn) is an essential micronutrient required for cell proliferation, differentiation, and apoptosis, yet how epithelial Zn sensing governs the constantly renewing intestinal barrier remains unclear. We disrupted Zn homeostasis by deleting metal response el...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43102819",
+      "date": "2026-11-27",
+      "title": "Potential roles of selected bioactive polysaccharides in intestinal stem-cell-mediated epithelial renewal: a narrative review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102819/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Critical reviews in food science and nutrition，PMID 为 43102819。",
+      "report": "The intestinal epithelium is continuously renewed by intestinal stem cells located within specialized crypt niches. Although bioactive polysaccharides are widely studied for their effects on barrier integrity, inflammation, mucus production, and gut microbiota...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-43098935",
       "date": "2026-11-26",
       "title": "EvoSeq: A Eukaryotic Sequence-Function Profiling Platform for AI-Guided Engineering of Genome-Editing Enzymes.",
@@ -547,34 +690,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of molecular evolution，PMID 为 43097140。",
       "report": "Protein sequences carry a record of evolutionary history shaped by mutation, selection, drift, and epistasis. Recent generative models trained on homologous sequence families offer a new way to read this record: they define probabilistic landscapes that score...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43101040",
-      "date": "2026-11-25",
-      "title": "Human Organoid and Assembloid Research Is Immoral and Should Be Stopped.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43101040/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Linacre quarterly，PMID 为 43101040。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -795,36 +910,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43100529",
-      "date": "2026-11-19",
-      "title": "Common organization of collective dynamics across divergent self-organized neural architectures.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43100529/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43100529。",
-      "report": "Brain organoids and other model neuronal networks build synaptic circuits through self-organization, and different protocols yield markedly different architectures, letting us test how collective dynamics depend on large-scale organization. We compared organoi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43087944",
       "date": "2026-11-19",
       "title": "Digital Twins in Oncology: Current Evidence, Multiscale Modeling Approaches, and Challenges in Clinical Translation-A Narrative Review.",
@@ -866,62 +951,6 @@
       "fact": "PubMed 记录显示该文献收录于 Biomedicines，PMID 为 43087944。",
       "report": "Digital Twin (DT), a dynamic simulation technology derived from the engineering field, has been deeply integrated into the field of tumor precision medicine, empowered by both multi-omics technologies and artificial intelligence. It offers a novel approach to...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43100554",
-      "date": "2026-11-18",
-      "title": "Identification of alcohol use disorder-associated and ethanol-responsive proteins and candidate biomarkers using human cortical organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43100554/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Research square，PMID 为 43100554。",
-      "report": "Genome-wide association studies of alcohol use disorder (AUD) have identified > 100 loci, yet the functional impact and the downstream molecular mechanisms are not well understood. As functional effectors of genes, proteins provide direct insight into disease...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43100635",
-      "date": "2026-11-17",
-      "title": "Neural rosettes emerge from an interconnected tubular network in human cortical organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43100635/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43100635。",
-      "report": "Cortical organoids generate multiple neural rosettes, self-organizing and radially arranged structures that resemble ventricular zones of the developing brain. Here, we show that these rosettes, commonly considered as discrete entities, originate from an inter...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
